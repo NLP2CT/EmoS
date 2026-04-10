@@ -1,0 +1,28 @@
+.DS_Store
+Thumbs.db
+
+# Ignore video assets so the dataset structure can be uploaded without large media files.
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.m4v
+
+# Ignore compressed release bundles and local archives.
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# Ignore temporary files and office auto-save artifacts.
+~$*
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo

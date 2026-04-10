@@ -1,0 +1,119 @@
+```json
+{
+  "summary": "Joanna confronts Steve about his nineteen-year neglect of his daughter, expressing deep guilt over her own complicity and disappointment that his professional genius is overshadowed by his failure as a father. The atmosphere is emotionally charged and intimate, shifting from a confession of pain to a desperate plea. The critical turning point occurs when she issues a firm ultimatum: he must reconcile with his daughter immediately, or she will resign.",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "The emotion begins with self-reflective remorse and sadness (00:00), briefly touches on admiration (00:15), descends into deep grief and disappointment (00:26), and hardens into a resolved, controlled anger/determination by the ultimatum (00:46)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "这十九年来我到底怎么了？我一直是旁观者，但我告诉你，我也是同谋。",
+      "transcript_en": "What's been wrong with me for 19 years? I've been a witness and I tell you I've been complicit.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "disappointment",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "Her voice is shaky and breathless; pitch rises slightly on questions but drops with the weight of realization.",
+      "visual_cues": "Furrowed brows, eyes appear watery, head shakes slightly in disbelief at her own actions.",
+      "evidence": "She is expressing deep regret for her passive role in Steve's family issues over nearly two decades."
+    },
+    {
+      "timestamp_range": "00:10-00:14",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "我爱你，史蒂夫。你知道我有多爱你。",
+      "transcript_en": "I love you Steve. You know how much.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "love",
+        "caring",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone softens significantly, becoming tender yet laden with heavy emotion.",
+      "visual_cues": "Eye contact becomes intense and pleading; facial muscles relax slightly from the previous frown.",
+      "evidence": "She professes her love, but the context makes it a painful admission rather than a joyful one, serving as a prelude to a hard truth."
+    },
+    {
+      "timestamp_range": "00:15-00:20",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "我喜欢你不在乎一个人赚多少钱，而在乎他们创造了什么。",
+      "transcript_en": "I love that you don't care how much money a person makes, you care what they make.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Pace quickens slightly; tone becomes more affirmative and clearer.",
+      "visual_cues": "She nods slightly, eyes widen with sincerity, using hand gestures to emphasize his values.",
+      "evidence": "She is validating his professional ethics and character, showing admiration for his specific worldview before contrasting it with his personal failures."
+    },
+    {
+      "timestamp_range": "00:20-00:26",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "但你创造的东西不该是你身上最好的部分。当你是一个父亲时...",
+      "transcript_en": "But what you make isn't supposed to be the best part of you. When you're a father...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disapproval",
+        "disappointment"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice drops in volume but increases in intensity; a pause before 'When you're a father' adds weight.",
+      "visual_cues": "She leans in slightly; her expression shifts from admiration back to a pained critique.",
+      "evidence": "She dismantles his defense mechanism, pointing out that his work should not supersede his role as a parent."
+    },
+    {
+      "timestamp_range": "00:26-00:39",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "那才应该是你身上最好的部分。而这让我痛苦了二十年，史蒂夫，对你来说却是...最糟糕的部分。",
+      "transcript_en": "That's what's supposed to be the best part of you. And it's caused me two decades of agony Steve, that it is for you... The worst.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "disappointment",
+        "annoyance"
+      ],
+      "intensity": 5,
+      "audio_cues": "Voice cracks on 'agony'; breathing is audible and ragged; ends in a near whisper.",
+      "visual_cues": "Tears are visible; she blinks rapidly; mouth tightens in pain; looks away briefly in despair.",
+      "evidence": "This is the emotional peak where she reveals the personal toll his behavior has taken on her, labeling his parenting as his worst attribute."
+    },
+    {
+      "timestamp_range": "00:40-00:45",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "这只是件小事。非常小的一件事。",
+      "transcript_en": "It's a little thing. It's a very small thing.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "optimism",
+        "desire"
+      ],
+      "intensity": 3,
+      "audio_cues": "Whispering, trying to sound reassuring or minimizing the difficulty of the task.",
+      "visual_cues": "She composes herself, wiping away emotion to focus on the solution.",
+      "evidence": "She tries to minimize the magnitude of the reconciliation to convince him it is doable."
+    },
+    {
+      "timestamp_range": "00:46-00:55",
+      "speaker_guess": "Joanna Hoffman",
+      "transcript_zh": "去解决它。现在就去。否则你可以去我的新工作找我...我在哪都能找到工作。",
+      "transcript_en": "Fix it. Fix it now. Or you can contact me at my new job. Working anywhere I want.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "Tone becomes steel-hard, authoritative, and final. The tremor in the voice is replaced by resolve.",
+      "visual_cues": "Direct, unblinking stare; posture stiffens; face is set in a serious ultimatum.",
+      "evidence": "She shifts from pleading to threatening her resignation. The emotion is a protective anger/resolve to force him to act."
+    }
+  ]
+}
+```

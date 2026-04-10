@@ -1,0 +1,24 @@
+## 后2500 标注者画像（basic-7 + GoEmotion）
+
+**cp（陈鹏宇）**
+- basic-7：Joy(46.1%) 与 Neutral(17.5%) 占比高，Anger/Disgust 较少；与 DS 一致率仅 61.8%，常把 Neutral 判为 Joy 或 Sadness→Joy。
+- GoEmotion：平均 1.70 标签/样本，喜欢同时给 positive/negative 组合（joy+optimism+caring 等），并主动使用 optimism/caring/excitement。缺少 neutral/unsure。
+- 解释：激进的“情绪放大器”，倾向捕捉多种感受。适合作为情绪细腻度参考，但需校准让其在弱情绪 / 中性时更克制。
+
+**ljx（梁靖玺）**
+- basic-7：Neutral(26.2%)、Joy(37.1%)、Anger(14.6%)，整体与 DS 极为接近（94.9%）。
+- GoEmotion：大部分样本只给 1 个标签，喜用 joy/neutral/anger/sadness，几乎不用 unsure 和高阶社交类情绪。
+- 解释：非常稳健的主流风格，适合作为“金标准”。但可能低估复杂情绪，可通过示例鼓励使用复合标签。
+
+**wqf（王其峰）**
+- basic-7：Neutral(29.3%)、Joy(33.6%)、Anger(14.1%)，与 ljx 相似但略偏向 Neutral。与 DS 一致率 85.5%。
+- GoEmotion：平均 1.28 标签/样本，喜用 joy/optimism/disappointment/anger，neutral 几乎不用，说明倾向输出具体感受。
+- 解释：在正向/负向情绪之间更注重“态度”差异，可作为补充信号。
+
+**整体建议**
+1. basic-7 采用 Dawid–Skene 聚合（`analysis_outputs_after2500/basic7/annotated_with_ds.xlsx`），置信度 ≥0.95 的样本组成训练核心，低置信度与缺失样本列入访谈清单。
+2. GoEmotion 用 `count/3` 的软标签训练，或以 2/3 共识规则生成硬标签；`union_label_count ≥4` 的条目优先回访。
+3. 访谈重点：
+   - 与 cp 讨论 Neutral vs Joy/Sadness 判别；
+   - 与 ljx/wqf 交流何时需要多标签描述，以免信息缺失；
+   - 挑选 `回访样本.xlsx` 中的案例（若来自后 2500，可同法提取）。

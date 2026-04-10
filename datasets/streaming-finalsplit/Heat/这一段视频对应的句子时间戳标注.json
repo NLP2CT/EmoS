@@ -1,0 +1,88 @@
+{
+  "lang": "en",
+  "film": "Heat",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 1_有史以来最伟大的表演独白 PART 1/Greatest Acting Monologues Of All Time PART 1_有史以来最伟大的表演独白 PART 1.mp4",
+  "t_start_global": 904.66,
+  "t_end_global": 939.81,
+  "duration": 35.15,
+  "clip": "Heat.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 1.36,
+      "text": "You know, we're sitting here.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 3.54,
+      "end": 5.58,
+      "text": "You and I are like a couple of regular fellas.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 5.8,
+      "end": 7.36,
+      "text": "You do what you do.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 7.5,
+      "end": 8.66,
+      "text": "I do what I gotta do.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 10.5,
+      "end": 12.46,
+      "text": "And now that we've been face to face,",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 15.87,
+      "end": 18.11,
+      "text": "if I'm there, and I gotta put you away,",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 18.87,
+      "end": 20.31,
+      "text": "I won't like it.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 21.29,
+      "end": 22.39,
+      "text": "But I'll tell you,",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 24.99,
+      "end": 28.67,
+      "text": "if it's between you and some poor bastard",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 28.67,
+      "end": 30.67,
+      "text": "whose wife you're gonna turn into a widow,",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 33.01,
+      "end": 35.15,
+      "text": "brother, you are going down.",
+      "filename": "segment011.mp4"
+    }
+  ]
+}

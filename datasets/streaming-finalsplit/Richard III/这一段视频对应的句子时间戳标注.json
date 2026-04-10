@@ -1,0 +1,137 @@
+{
+  "lang": "en",
+  "film": "Richard III",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 2/Greatest Acting Monologues Of All Time PART 2.mp4",
+  "t_start_global": 1589.63,
+  "t_end_global": 1668.92,
+  "duration": 79.29,
+  "clip": "Richard III.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "I'll make my heaven to dream upon the crown.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 6.1,
+      "end": 10.92,
+      "text": "And whilst I live to account this world but hell.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 12.36,
+      "end": 15.32,
+      "text": "And yet I know not how to get the crown.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 16.58,
+      "end": 20.1,
+      "text": "For many lives stand between me and home.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 21.26,
+      "end": 25.7,
+      "text": "And I, like one lost in a thorny wood",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 26.44,
+      "end": 29.68,
+      "text": "that rents the thorns and is rent with the thorns.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 30.02,
+      "end": 33.18,
+      "text": "Seeking a way and straying from the way.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 33.72,
+      "end": 36.14,
+      "text": "Not knowing how to find the open air.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 36.78,
+      "end": 39.56,
+      "text": "But toiling desperately to find it out.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 40.08,
+      "end": 43.08,
+      "text": "Torment myself to catch the English crown.",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 43.72,
+      "end": 47.18,
+      "text": "And from that torment I will free myself",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 47.18,
+      "end": 50.52,
+      "text": "or hew my way out with a bloody axe.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 55.57,
+      "end": 59.49,
+      "text": "Why, I can smile and murder while I smile.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 59.89,
+      "end": 62.11,
+      "text": "I can add colors to the chameleon.",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 62.77,
+      "end": 65.21,
+      "text": "Change shapes with proteus for advantages.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 66.15,
+      "end": 68.91,
+      "text": "And set the murderous Machiavelli to school.",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 70.47,
+      "end": 73.17,
+      "text": "Can I do this and cannot get a crown?",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 75.57,
+      "end": 79.29,
+      "text": "Were it further off, I'll pluck.",
+      "filename": "segment018.mp4"
+    }
+  ]
+}

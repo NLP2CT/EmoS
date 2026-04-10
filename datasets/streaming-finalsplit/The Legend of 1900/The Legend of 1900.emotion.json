@@ -1,0 +1,148 @@
+```json
+{
+  "summary": "在这一场景中，主角1900向朋友马克斯解释他为何无法走下舷梯进入城市。他用钢琴键盘作为隐喻，对比了有限的琴键（他能掌控的世界）与无限的城市（上帝的键盘，他无法掌控的世界），表达了对无限选择的恐惧和对自身命运的最终认命。",
+  "overall_emotion_trend": {
+    "dominant": "Fear",
+    "trajectory": "情绪从最初的哲学式冷静与解释（Neutral/Realization, 00:00）逐渐攀升至对无限世界的极度恐慌与焦虑（Fear/Nervousness, 01:39），最后回落至一种令人心碎的认命与悲伤（Sadness/Grief, 02:21）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:10",
+      "speaker_guess": "1900",
+      "transcript_zh": "是我所没看到的让我停下。你能理解吗？我所看不到的。",
+      "transcript_en": "It was what I didn't see. Can you understand that? What I didn't see.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "confusion",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调低沉、缓慢，带有解释性和一种寻求理解的渴望，声音平稳但略带压抑。",
+      "visual_cues": "面部表情严肃，眼神直视前方仿佛在回忆，随后转向听众，眉毛微蹙。",
+      "evidence": "他在试图阐述一个复杂的内心逻辑，情绪尚未爆发，处于理性的铺垫阶段。"
+    },
+    {
+      "timestamp_range": "00:11-00:38",
+      "speaker_guess": "1900",
+      "transcript_zh": "在那座漫无边际的城市，什么都有，但就是没有尽头。没有尽头。我看不到事物的尽头。世界的尽头。",
+      "transcript_en": "In all that sprawling city, there was everything except an end. There was no end. What I did not see was where the whole thing came to an end. The end of the world.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "nervousness",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "在提到“no end”时重音加强，语速略微加快，呼吸声变重。",
+      "visual_cues": "眼神开始游离，仿佛看到了那个让他恐惧的无限景象，瞳孔微张。",
+      "evidence": "他开始描述让他退缩的核心原因——“无尽”，恐惧感开始在理性的表述下暗流涌动。"
+    },
+    {
+      "timestamp_range": "00:39-01:09",
+      "speaker_guess": "1900",
+      "transcript_zh": "比如说钢琴。琴键有开始，也有结束。你知道琴键有88个，没人会反对这点。琴键是有限的，但你是无限的。在这些琴键上所创作的音乐，也是无限的。这个我喜欢，我能接受。",
+      "transcript_en": "You take a piano. Keys begin, the keys end. You know there are 88 of them, nobody can tell you any different. They are not infinite, you are infinite. And on those keys, the music that you can make is infinite. I like that. That I can live by.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "relief",
+        "confidence"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调变得轻快、自信，节奏感强，提到“I like that”时声音变得柔和且坚定。",
+      "visual_cues": "嘴角微微上扬，眼神变得专注且有光彩，手部有轻微的肯定性动作。",
+      "evidence": "谈论到他熟悉的领域（钢琴）时，他找回了掌控感和安全感，这是他赖以生存的逻辑。"
+    },
+    {
+      "timestamp_range": "01:10-01:29",
+      "speaker_guess": "1900",
+      "transcript_zh": "但是...你让我走过舷梯，展现在我眼前的，是成千上万个琴键，永无止境。这就是事实，马克斯，它们永远没有尽头。那琴键是无限的。而在无限大的键盘上，你根本就无法去演奏。",
+      "transcript_en": "You get me up on that gangway and you roll out in front of me a keyboard of millions of keys, millions and billions of keys that never end. And that's the truth, Max, that they never end. That keyboard is infinite. And if that keyboard is infinite, then on that keyboard there is no music you can play.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "nervousness",
+        "despair"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速急剧加快，音调升高，语气变得急促甚至有些歇斯底里，强调“millions and billions”。",
+      "visual_cues": "眉头紧锁，头部轻微摇晃，眼神中流露出恐慌，仿佛被那个画面压迫。",
+      "evidence": "对比之前的安全感，这里的语速和神态表明他对“无限”的极度抗拒和无力感。"
+    },
+    {
+      "timestamp_range": "01:30-01:38",
+      "speaker_guess": "1900",
+      "transcript_zh": "你坐在了错误的钢琴前。这是上帝的钢琴。",
+      "transcript_en": "You're sitting on the wrong bench. That's God's piano.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音突然低沉下来，带有颤抖，仿佛在宣判自己的无能为力。",
+      "visual_cues": "眼神向下看，避开交流，显现出一种渺小感和挫败感。",
+      "evidence": "承认那是“上帝的钢琴”意味着承认凡人无法驾驭，这是一种绝望的认知。"
+    },
+    {
+      "timestamp_range": "01:39-01:49",
+      "speaker_guess": "1900",
+      "transcript_zh": "天啊，你没看见过那些街道吗？光街道就有几千条。你们是如何走的？你怎么去选择走哪一条？",
+      "transcript_en": "Christ, did you see the streets? Just the streets. There were thousands of them. How do you do it down there? How do you choose just one?",
+      "emotion_primary": "Surprise",
+      "emotion_secondary": [
+        "confusion",
+        "fear",
+        "disbelief"
+      ],
+      "intensity": 5,
+      "audio_cues": "语气中充满了难以置信的惊叹和疑问，声音紧绷，近乎质问。",
+      "visual_cues": "瞪大眼睛，身体前倾，直视马克斯，渴望得到答案却又深知无法得到。",
+      "evidence": "他对普通人如何面对这种无限选择感到真正的困惑和震惊，这种未知让他恐惧。"
+    },
+    {
+      "timestamp_range": "01:50-02:06",
+      "speaker_guess": "1900",
+      "transcript_zh": "一个女人，一栋房子，一块自己的地方，一片窗外的风景，一种死亡的方式。",
+      "transcript_en": "One woman, one house, one piece of land to call your own, one landscape to look at, one way to die.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "nervousness",
+        "sadness"
+      ],
+      "intensity": 3,
+      "audio_cues": "列举式排比，节奏压抑，每说一项仿佛都在承受重压，气息急促。",
+      "visual_cues": "眼神空洞，仿佛在脑海中过这些他无法做出的选择，面部肌肉紧绷。",
+      "evidence": "这些对于常人是幸福的选择，对他而言却是无法承受的重负，他在列举中感到窒息。"
+    },
+    {
+      "timestamp_range": "02:07-02:20",
+      "speaker_guess": "1900",
+      "transcript_zh": "所有的问题都要你去选择，然而这些都是永无止境，没有尽头。你难道就从来没有被这种想法吓得要死吗？这样永无止境日子的恐怖。",
+      "transcript_en": "All that world just weighing down on you. You don't even know where it comes to an end. I mean, aren't you ever just scared of breaking apart at the thought of it? At the enormity of living it?",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "grief",
+        "despair"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音颤抖，带着哭腔，情感达到顶峰，最后一句近乎耳语般的绝望。",
+      "visual_cues": "眼眶含泪，神情痛苦，仿佛灵魂正在这种重压下破碎。",
+      "evidence": "这是他情感的彻底宣泄，直接表达了对“生活之重”的极度恐惧，认为这会让人崩溃。"
+    },
+    {
+      "timestamp_range": "02:21-02:28",
+      "speaker_guess": "1900",
+      "transcript_zh": "我出生在这艘船上。",
+      "transcript_en": "I was born on this ship.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "neutral",
+        "relief"
+      ],
+      "intensity": 2,
+      "audio_cues": "回归平静，声音轻柔，像是一声叹息。",
+      "visual_cues": "表情松弛下来，眼神恢复平静，带有一种凄凉的安详。",
+      "evidence": "风暴过后的平静，他接受了自己的命运，这句话是他对自己身份和归宿的最终确认。"
+    }
+  ]
+}
+```

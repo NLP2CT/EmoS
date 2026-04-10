@@ -1,0 +1,132 @@
+```json
+{
+  "summary": "在这一场景中，瑞德（Red）面对假释委员会的例行询问，不再像过去那样试图取悦对方，而是对“改过自新”（rehabilitated）这一概念进行了深刻的解构与抨击。情节从他对官僚辞令的嘲讽开始，转折至他对年轻时所犯罪行的深切忏悔，最终以一种看透世事的疲惫与不在乎收尾，展现了一个历经沧桑的老人内心的真实独白。",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "情绪由最初对体制的轻蔑与厌恶（00:00-00:28），转入对往事的深沉悲痛与悔恨（00:38-01:24），最后回归到一种彻底放下、不再抱有希望的坦然与冷漠（01:25-01:40）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:08",
+      "speaker_guess": "Red",
+      "transcript_zh": "改过自新？好吧，让我想想。你知道吗，我根本不知道那是什么意思。",
+      "transcript_en": "Rehabilitated? Well, now let me see. You know, I don't have any idea what that means.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "confusion",
+        "curiosity"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速缓慢，语气中带有一种深思熟虑的停顿，声调平稳但略带反讽。",
+      "visual_cues": "眼神先是向上看仿佛在思考，随后眼神有些游离，表现出一种漫不经心的态度。",
+      "evidence": "他重复这个词时并没有表现出紧张，而是通过假装困惑来开启他的反驳。"
+    },
+    {
+      "timestamp_range": "00:13-00:29",
+      "speaker_guess": "Red",
+      "transcript_zh": "我知道你认为那是什么意思，孩子。对我来说，那只是一个虚构的词。一个政客的词汇，好让像你这样的年轻人能穿上西装打着领带，有一份工作。",
+      "transcript_en": "I know what you think it means, sonny. To me, it's just a made-up word. A politician's word, so that young fellas like yourself can wear a suit and a tie and have a job.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "称呼对方为'sonny'（孩子）时语气带有居高临下的轻蔑，重读'made-up'和'politician's word'。",
+      "visual_cues": "眼神变得犀利并直视对方，嘴角微微下撇，流露出对这种形式主义的不屑。",
+      "evidence": "他直接攻击了假释听证会的核心概念，将其贬低为官僚主义的工具。"
+    },
+    {
+      "timestamp_range": "00:30-00:35",
+      "speaker_guess": "Red",
+      "transcript_zh": "你到底想知道什么？我是不是对我做过的事感到抱歉？",
+      "transcript_en": "What do you really want to know? Am I sorry for what I did?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "annoyance",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调变得直接且具有挑战性，去掉了之前的修饰。",
+      "visual_cues": "身体姿态保持静止，目光如炬，不再回避。",
+      "evidence": "他厌倦了这种游戏，试图切入问题的本质。"
+    },
+    {
+      "timestamp_range": "00:38-00:48",
+      "speaker_guess": "Red",
+      "transcript_zh": "没有一天我不在后悔。不是因为我被关在这里，也不是因为你认为我应该后悔。",
+      "transcript_en": "There's not a day goes by I don't feel regret. Not because I'm in here, because you think I should.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音变得低沉、沙哑，语速放慢，充满了情感的重量。",
+      "visual_cues": "眼神变得柔和且悲伤，微微低头，仿佛沉浸在痛苦的回忆中。",
+      "evidence": "这是全片情感最真挚的时刻之一，他表达了发自内心的忏悔，而非为了假释而表演。"
+    },
+    {
+      "timestamp_range": "00:49-01:00",
+      "speaker_guess": "Red",
+      "transcript_zh": "我回首那时的自己：一个年轻、愚蠢的孩子，犯下了那个可怕的罪行。",
+      "transcript_en": "I look back on the way I was then: a young, stupid kid who committed that terrible crime.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "在说到'young, stupid kid'时，语气中充满了对过去自己的痛惜和批判。",
+      "visual_cues": "目光看向虚空，仿佛看到了过去的自己，眉头微皱。",
+      "evidence": "他将现在的自己与过去的自己剥离，表现出深刻的自我反省。"
+    },
+    {
+      "timestamp_range": "01:02-01:15",
+      "speaker_guess": "Red",
+      "transcript_zh": "我想跟他谈谈。我想试着跟他讲讲道理，告诉他事情的真相。但我做不到。",
+      "transcript_en": "I want to talk to him. I want to try to talk some sense to him, tell him the way things are. But I can't.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音颤抖，带有渴望却又无能为力的绝望感，'But I can't'说得非常轻，充满无力感。",
+      "visual_cues": "轻微的摇头，眼神中闪烁着泪光，表情极其痛苦。",
+      "evidence": "这种想改变过去却无能为力的痛苦是悔恨的最高级表现。"
+    },
+    {
+      "timestamp_range": "01:16-01:24",
+      "speaker_guess": "Red",
+      "transcript_zh": "那个孩子早就不在了，只剩下这个老头子。我得接受这个事实。",
+      "transcript_en": "That kid's long gone, and this old man is all that's left. I got to live with that.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气恢复平静，带有一种宿命般的接受感。",
+      "visual_cues": "重新与听证官建立眼神接触，表情变得坚毅而苍老。",
+      "evidence": "他承认了时间的不可逆和罪责的终身性。"
+    },
+    {
+      "timestamp_range": "01:25-01:40",
+      "speaker_guess": "Red",
+      "transcript_zh": "改过自新？那只是个屁话。所以你盖你的章吧，孩子，别再浪费我的时间了。因为说实话，我根本不在乎。",
+      "transcript_en": "Rehabilitated? It's just a bullshit word. So you go on and stamp your form, sonny, and stop wasting my time. Because to tell you the truth, I don't give a shit.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval",
+        "relief"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气变得强硬、不耐烦，最后一句'I don't give a shit'说得非常干脆、决绝。",
+      "visual_cues": "身体后仰，姿态放松，眼神中没有任何恐惧或期待，只有彻底的坦诚。",
+      "evidence": "他不再寻求批准，这种放弃反而赋予了他力量，表现出对体制的彻底蔑视。"
+    }
+  ]
+}
+```

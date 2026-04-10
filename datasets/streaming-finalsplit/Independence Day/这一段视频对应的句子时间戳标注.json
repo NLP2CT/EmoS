@@ -1,0 +1,130 @@
+{
+  "lang": "en",
+  "film": "Independence Day",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 2/Greatest Acting Monologues Of All Time PART 2.mp4",
+  "t_start_global": 1745.08,
+  "t_end_global": 1813.94,
+  "duration": 68.86,
+  "clip": "Independence Day.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 4.58,
+      "text": "Mankind, that word should have new meaning for all of us today.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 6.08,
+      "end": 9.56,
+      "text": "We can't be consumed by our petty differences anymore.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 11.28,
+      "end": 14.1,
+      "text": "We will be united in our common interests.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 15.56,
+      "end": 19.22,
+      "text": "Perhaps it's fate that today is the 4th of July",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 20.2,
+      "end": 23.34,
+      "text": "and you will once again be fighting for our freedom.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 24.72,
+      "end": 27.74,
+      "text": "Not from tyranny, oppression or persecution,",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 30.52,
+      "end": 32.06,
+      "text": "but from annihilation.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 33.66,
+      "end": 36.18,
+      "text": "We're fighting for our right to live,",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 37.76,
+      "end": 38.88,
+      "text": "to exist.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 40.34,
+      "end": 42.1,
+      "text": "And should we win the day,",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 43.64,
+      "end": 47.5,
+      "text": "the 4th of July will no longer be known as an American holiday,",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 48.96,
+      "end": 52.2,
+      "text": "but as the day when the world declared in one voice,",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 52.2,
+      "end": 54.76,
+      "text": "We will not go quietly into the night.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 55.34,
+      "end": 58.28,
+      "text": "We will not vanish without a fight.",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 59.28,
+      "end": 60.9,
+      "text": "We're going to live on.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 61.7,
+      "end": 63.24,
+      "text": "We're going to survive.",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 64.78,
+      "end": 68.86,
+      "text": "Today, we celebrate our Independence Day.",
+      "filename": "segment017.mp4"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+```json
+{
+  "summary": "本片段展示了杰瑟普上校（Colonel Jessup）在法庭上被激怒后的爆发时刻，他从最初的防御性愤怒转变为一种居高临下的道德审判。他通过长篇独白，以极度傲慢和轻蔑的态度，向律师阐述他所认为的残酷现实与军人的职责，情绪由爆发性的怒火逐渐转化为冰冷刺骨的鄙视与自我正义感。",
+  "overall_emotion_trend": {
+    "dominant": "Anger/愤怒",
+    "trajectory": "情绪始于00:00的高强度爆发性愤怒，随后在00:03-00:54转为一种压抑的、充满优越感的轻蔑与说教（混合了厌恶与自豪），最后在01:12-01:17以一种极度不耐烦和蔑视的愤怒收尾。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:03",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "你承受不起这个真相！",
+      "transcript_en": "You can't handle the truth!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "anger",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "极高的音量，咆哮的语调，重音强调每一个词。",
+      "visual_cues": "身体前倾，眼神凶狠，面部肌肉紧绷，典型的攻击性姿态。",
+      "evidence": "这是全片最著名的爆发点，直接回应对方的质询，表现出彻底的失控与愤怒。"
+    },
+    {
+      "timestamp_range": "00:03-00:12",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "孩子，我们生活在一个有围墙的世界里，而这些围墙必须由持枪的人来守卫。谁来做这件事？你吗？你吗，温伯格中尉？",
+      "transcript_en": "Son, we live in a world that has walls, and those walls have to be guarded by men with guns. Who's gonna do it? You? You, Lieutenant Weinberg?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "pride",
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速放慢，音调降低但充满压迫感，使用反问句表达嘲讽。",
+      "visual_cues": "眼神轻蔑地扫视，头部微昂，表现出一种家长式的傲慢。",
+      "evidence": "他开始说教，通过贬低对方的能力（'You?'）来抬高自己的地位。"
+    },
+    {
+      "timestamp_range": "00:13-00:17",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "我肩负的责任是你根本无法想象的。",
+      "transcript_en": "I have a greater responsibility than you can possibly fathom.",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "pride",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "低沉、坚定，咬字清晰，透着一种智力上的优越感。",
+      "visual_cues": "眼神死死盯着对方，嘴角带有轻微的讥笑。",
+      "evidence": "他认为对方不仅无能，而且在认知层面上也无法理解他的世界，表现出智力上的鄙视。"
+    },
+    {
+      "timestamp_range": "00:17-00:29",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "你为圣地亚哥哭泣，你诅咒海军陆战队。你有这种奢侈。你有这种不知情的奢侈；而我知道，圣地亚哥的死虽然悲剧，但可能挽救了生命。",
+      "transcript_en": "You weep for Santiago and you curse the Marines. You have that luxury. You have the luxury of not knowing what I know. That Santiago's death, while tragic, probably saved lives.",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "重复'luxury'（奢侈）一词时带有明显的厌恶感，语调中充满指责。",
+      "visual_cues": "面部表情冷酷，眼神中透露出对对方道德观的唾弃。",
+      "evidence": "他将对方的道德立场定义为一种廉价的'奢侈品'，表达了深层的价值观冲突和厌恶。"
+    },
+    {
+      "timestamp_range": "00:29-00:34",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "而我的存在，虽然在你看来荒谬且不可理喻，却是在拯救生命。",
+      "transcript_en": "And my existence, while grotesque and incomprehensible to you, saves lives.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "pride",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气坚定不移，强调'saves lives'，带有一种殉道者的自豪感。",
+      "visual_cues": "直视对方，毫无愧色，展现出绝对的自信。",
+      "evidence": "他承认自己的残酷（grotesque），但坚信这是必要的恶，表现出一种扭曲的自豪与愤怒。"
+    },
+    {
+      "timestamp_range": "00:34-00:43",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "你不想听真话，因为在那些你在聚会上不愿谈及的内心深处，你想要我在那堵墙上，你需要我在那堵墙上。",
+      "transcript_en": "You don't want the truth because deep down in places you don't talk about at parties, you want me on that wall, you need me on that wall.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disapproval",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速加快，具有穿透力，仿佛在揭穿对方的伪善。",
+      "visual_cues": "头部随着节奏点头，眼神极具侵略性，仿佛看穿了对方的灵魂。",
+      "evidence": "他直接攻击对方的潜意识，指出社会的虚伪，情绪中充满了揭露真相的快感和对虚伪的愤怒。"
+    },
+    {
+      "timestamp_range": "00:44-00:54",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "我们使用荣誉、准则、忠诚这些词。我们用这些词作为捍卫某种东西的一生的脊梁。而你把它们当笑话讲。",
+      "transcript_en": "We use words like honor, code, loyalty. We use these words as the backbone of a life spent defending something. You use them as a punchline.",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "admiration",
+        "disgust"
+      ],
+      "intensity": 4,
+      "audio_cues": "列举词汇时充满敬畏（admiration），但在说到'punchline'时语气骤降为鄙夷。",
+      "visual_cues": "表情严肃庄重转为厌恶，眉宇间流露出对对方轻浮态度的无法容忍。",
+      "evidence": "这是两种价值观的直接碰撞，他对自己的信条感到自豪，对对方的轻视感到极度厌恶。"
+    },
+    {
+      "timestamp_range": "00:54-01:05",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "我既没时间也没兴趣，向一个在我也提供的自由的庇护下安然起居，却还要质疑我提供方式的人解释我自己。",
+      "transcript_en": "I have neither the time nor the inclination to explain myself to a man who rises and sleeps under the blanket of the very freedom that I provide, and then questions the manner in which I provide it.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "annoyance",
+        "pride",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速极快，连贯流畅，不给对方插嘴的机会，语气充满不耐烦。",
+      "visual_cues": "下巴抬高，眼神向下看，展现出完全的蔑视。",
+      "evidence": "他认为对方不仅忘恩负义，而且没有资格审判他，表现出强烈的不耐烦和愤怒。"
+    },
+    {
+      "timestamp_range": "01:05-01:08",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "我宁愿你只说声谢谢，然后走你的路。",
+      "transcript_en": "I would rather you just said thank you, and went on your way.",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "讽刺的口吻，'Thank you'说得非常生硬。",
+      "visual_cues": "歪着头，表情充满挑衅和讽刺。",
+      "evidence": "这是一种极度的讽刺，要求审判者向被告致谢，颠覆了法庭的权力关系。"
+    },
+    {
+      "timestamp_range": "01:08-01:12",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "否则，我建议你拿起武器，站上岗哨。",
+      "transcript_en": "Otherwise, I suggest you pick up a weapon, and stand a post.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "anger",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "命令式的口吻，声音变得严厉。",
+      "visual_cues": "眼睛瞪大，极具威胁性。",
+      "evidence": "他发出了最后通牒，挑战对方去承担同样的责任，这是一种攻击性的防御。"
+    },
+    {
+      "timestamp_range": "01:12-01:17",
+      "speaker_guess": "Col. Jessup",
+      "transcript_zh": "无论如何，我一点也不在乎你觉得你有什么资格！",
+      "transcript_en": "Either way, I don't give a damn what you think you are entitled to.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "anger",
+        "disgust",
+        "annoyance"
+      ],
+      "intensity": 5,
+      "audio_cues": "咬牙切齿，'damn'和'entitled'发音极重，充满恨意。",
+      "visual_cues": "露出牙齿，摇头，表现出彻底的拒绝和厌恶。",
+      "evidence": "这是独白的结尾，他彻底否定了对方的合法性，情绪回到了高强度的愤怒和鄙视。"
+    }
+  ]
+}
+```

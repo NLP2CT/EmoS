@@ -1,0 +1,133 @@
+```json
+{
+  "summary": "在地铁车厢内，霍华德（Howard）面对化身为老妇人的“死亡”，表现出极度的痛苦与愤世嫉俗。他通过嘲讽宗教、科学和诗歌中关于死亡的陈词滥调来发泄愤怒，情绪从尖刻的讽刺逐渐升级为狂躁的怒火，最终在承认思念亡女的现实时崩溃，暴露出掩盖在愤怒之下的深沉悲痛。",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "情绪由防御性的讽刺（00:05）迅速转变为攻击性的愤怒与嘲弄（00:18-01:20），最终防御机制瓦解，回归到极度脆弱的悲伤与绝望（01:40-01:52）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:05-00:13",
+      "speaker_guess": "Howard",
+      "transcript_zh": "噢。哇，好深奥。所以这就像出生后的生活。充满希望。",
+      "transcript_en": "Oh. Wow, that's deep. So it's like life after birth. Hopeful.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调夸张且拖长，带有明显的讽刺意味，最后一声'Hopeful'语气轻蔑。",
+      "visual_cues": "歪头，假装点头表示理解，眼神中流露出不屑。",
+      "evidence": "他对对方提出的安慰性观点表现出明显的嘲讽，用夸张的赞同来表达内心的厌恶。"
+    },
+    {
+      "timestamp_range": "00:14-00:17",
+      "speaker_guess": "Howard",
+      "transcript_zh": "你想要什么？你为什么在这里？",
+      "transcript_en": "What do you want? Why are you here?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "confusion"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，音量适中但语气变得生硬、直接。",
+      "visual_cues": "身体前倾，眼神变得犀利，眉头紧锁。",
+      "evidence": "从讽刺转为直接的对抗，质问对方的动机。"
+    },
+    {
+      "timestamp_range": "00:18-00:37",
+      "speaker_guess": "Howard",
+      "transcript_zh": "我听过你所有的陈词滥调。我懂，我知道。‘她在更好的地方’。这都是‘宏大计划的一部分’。那个我也听过。这是我最喜欢的：‘上帝俯视人间，看到了最美丽的玫瑰，美到他把它摘走，只为了在天堂独自拥有。’",
+      "transcript_en": "I've heard all of your platitudes. I got 'em, I know. 'She's in a better place.' And 'this is all a part of a master plan.' Heard that one too. Here's my favorite: 'God looked down and saw the most beautiful rose. So beautiful that he picked it to have it in heaven all for himself.'",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "模仿他人的语气时带有明显的嘲弄感，语速急促，充满攻击性。",
+      "visual_cues": "频繁的手势，假笑瞬间消失，眼神中充满痛苦的怒火。",
+      "evidence": "他列举人们安慰丧亲者的常见话术并加以嘲笑，表达对这些空洞安慰的极度反感。"
+    },
+    {
+      "timestamp_range": "00:38-00:52",
+      "speaker_guess": "Howard",
+      "transcript_zh": "然后是科学，生物中心主义，我们在无限的宇宙中同时生与死。然后是宗教，基督徒和他们的救赎，佛教徒和轮回，印度教徒和他们的圣礼。",
+      "transcript_en": "Then there's the science, biocentrism, and we're all living and dying in infinite universes all at the same time. And then the religion, the Christians and their salvation, and the Buddhists and their samsara, and the Hindus and their 41st sacrament.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "像连珠炮一样列举概念，语气急躁，充满不耐烦。",
+      "visual_cues": "摇头，眼神游离仿佛在搜索记忆中的词汇，面部肌肉紧绷。",
+      "evidence": "他试图通过列举所有人类解释死亡的逻辑来证明它们的无用，情绪处于爆发边缘。"
+    },
+    {
+      "timestamp_range": "00:53-01:10",
+      "speaker_guess": "Howard",
+      "transcript_zh": "别忘了诗歌。噢，诗歌。‘死亡与任何人的设想都不同，而且更幸运。’惠特曼。还有‘怒斥！怒斥光明的消逝！’智者在临终时，知道黑暗是必然的。托马斯。",
+      "transcript_en": "And can't forget the poetry. Oh, the poetry. 'To die is different from what anyone supposed, and luckier.' Whitman. And 'Rage! Rage against the dying of the light!' The wise men at their end know dark is right. Thomas.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "在念到'Rage'时突然大吼，声音嘶哑，充满爆发力。",
+      "visual_cues": "眼睛瞪大，眼眶含泪，脖子上青筋暴起，表情狰狞。",
+      "evidence": "引用狄兰·托马斯的诗句时，他将内心的愤怒外化，这是情绪的高潮点。"
+    },
+    {
+      "timestamp_range": "01:11-01:21",
+      "speaker_guess": "Howard",
+      "transcript_zh": "然后是‘划，划，划小船，顺流而下，快活地，快活地，快活地，人生不过是一场梦。’",
+      "transcript_en": "And then row, row, row your boat, gently down the stream. Merrily, merrily, merrily, merrily, life is but a dream.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "amusement",
+        "disgust"
+      ],
+      "intensity": 4,
+      "audio_cues": "用一种近乎癫狂、扭曲的儿歌唱腔，听起来既滑稽又悲惨。",
+      "visual_cues": "身体随着节奏摇晃，面部表情极度痛苦地扭曲。",
+      "evidence": "通过唱儿歌这种极度反差的方式，表达对所谓“人生如梦”这种虚无主义安慰的绝望反击。"
+    },
+    {
+      "timestamp_range": "01:22-01:39",
+      "speaker_guess": "Howard",
+      "transcript_zh": "我懂了。我懂了。这一切基本上都在说，你是生命自然的一部分，我们不应该恨你，不应该怕你。我想我们应该接受你，对吧？就是这样？",
+      "transcript_en": "I got it. I got it. It all basically says that you're a natural part of life. We shouldn't hate you. We shouldn't fear you. I guess we should just accept you, right? That's it?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "resignation",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速放慢，音量降低，语气从攻击转为疲惫的总结。",
+      "visual_cues": "点头，眼神向下看，泪水在眼眶打转，愤怒的伪装开始剥落。",
+      "evidence": "他总结了所有道理，虽然理智上明白，但情感上依然无法接受。"
+    },
+    {
+      "timestamp_range": "01:40-01:52",
+      "speaker_guess": "Howard",
+      "transcript_zh": "我明白。但问题是。这全都是一堆知识分子的狗屁。因为她不在这里握着我该死的手。",
+      "transcript_en": "I get it. Here's the thing. It's all a bunch of intellectual bullshit. Because she's not here holding my fucking hand.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "disappointment",
+        "remorse"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音颤抖，带着哭腔，最后一句几乎是哽咽着说出来的。",
+      "visual_cues": "眼泪流下，频繁眨眼试图控制情绪，最后眼神彻底破碎，充满无助。",
+      "evidence": "这是核心情感的揭露。所有的愤怒和哲学辩论瞬间瓦解，只剩下失去女儿的纯粹痛苦和对身体接触的渴望。"
+    }
+  ]
+}
+```

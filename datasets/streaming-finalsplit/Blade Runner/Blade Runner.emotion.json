@@ -1,0 +1,146 @@
+```json
+{
+  "summary": "本片段展示了人造人罗伊（Roy Batty）在生命尽头对他的一生进行哲学式的总结，随后平静离世。他在雨中向戴克（Deckard）讲述自己见过的壮丽景象，表达了对记忆随死亡消逝的哀伤与释然，最终以一种超越人类的尊严接受了死亡。",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "情绪由最初的回忆与自豪（00:00）逐渐转变为对生命流逝的深刻哀伤与顿悟（00:24），最终在死亡时刻达到平静与释然（00:48）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:06",
+      "speaker_guess": "Roy Batty",
+      "transcript_zh": "我见过你们人类绝对无法置信的事物。",
+      "transcript_en": "I've seen things you people wouldn't believe.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "pride",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice is breathless but steady; tone conveys a sense of superiority and unique experience.",
+      "visual_cues": "Direct eye contact, blood mixing with rain on face, stoic expression.",
+      "evidence": "罗伊的声音虽然虚弱，但语气中透着对自己独特经历的自豪，他在强调自己视角的独特性。"
+    },
+    {
+      "timestamp_range": "00:07-00:13",
+      "speaker_guess": "Roy Batty",
+      "transcript_zh": "我目睹战舰在猎户座的端沿起火燃烧。",
+      "transcript_en": "Attack ships on fire off the shoulder of Orion.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "admiration",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "Rhythmic, poetic delivery; slight pause for emphasis on imagery.",
+      "visual_cues": "Eyes slightly unfocused as if recalling a visual memory.",
+      "evidence": "他在描述壮观的战争场景，语气中带有一种对毁灭性美丽的客观陈述与怀念。"
+    },
+    {
+      "timestamp_range": "00:14-00:19",
+      "speaker_guess": "Roy Batty",
+      "transcript_zh": "我看着C射线在唐怀瑟之门附近的黑暗中闪耀。",
+      "transcript_en": "I watched C-beams glitter in the dark near the Tannhäuser Gate.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "joy"
+      ],
+      "intensity": 2,
+      "audio_cues": "Tone softens on the word 'glitter', indicating an appreciation of beauty.",
+      "visual_cues": "Subtle softening of facial features, a hint of a smile in the eyes.",
+      "evidence": "尽管身处绝境，回忆起宇宙中光芒闪烁的美景时，他流露出了短暂的、超越痛苦的喜悦与惊叹。"
+    },
+    {
+      "timestamp_range": "00:24-00:42",
+      "speaker_guess": "Roy Batty",
+      "transcript_zh": "所有这些时刻，终将流失在时光中……一如眼泪消失在雨中。",
+      "transcript_en": "All those moments will be lost in time... like tears in rain.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "realization",
+        "relief"
+      ],
+      "intensity": 5,
+      "audio_cues": "Long pauses, voice breaks slightly, tempo slows down significantly.",
+      "visual_cues": "Water streaming down face making it impossible to distinguish tears from rain; a gentle, accepting smile appears at the end.",
+      "evidence": "这是情感的高潮，他意识到个体记忆的脆弱性。悲伤不是因为恐惧，而是因为对生命之美的惋惜，最后的微笑表明他接受了这一命运。"
+    },
+    {
+      "timestamp_range": "00:44-00:48",
+      "speaker_guess": "Roy Batty",
+      "transcript_zh": "死亡的时刻到了。",
+      "transcript_en": "Time to die.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "relief",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "Whispered, final exhalation.",
+      "visual_cues": "Eyes closing, head bowing down, muscles relaxing.",
+      "evidence": "这句台词没有任何挣扎或恐惧，只有纯粹的接受和解脱，标志着生命的终结。"
+    },
+    {
+      "timestamp_range": "01:53-01:56",
+      "speaker_guess": "Gaff",
+      "transcript_zh": "你完成了男人的工作，先生。",
+      "transcript_en": "You've done a man's job, sir.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "approval"
+      ],
+      "intensity": 2,
+      "audio_cues": "Loud, projecting voice, contrasting with the previous quiet scene.",
+      "visual_cues": "Standing at a distance, authoritative posture.",
+      "evidence": "加夫的出现打破了肃穆的氛围，他的语气公事公办，带有一种冷酷的赞许。"
+    },
+    {
+      "timestamp_range": "02:02-02:04",
+      "speaker_guess": "Gaff",
+      "transcript_zh": "我猜你做完了，嗯？",
+      "transcript_en": "I guess you're through, huh?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "neutral"
+      ],
+      "intensity": 1,
+      "audio_cues": "Rhetorical tone.",
+      "visual_cues": "Looking down at Deckard.",
+      "evidence": "这是一种确认任务结束的询问，缺乏真正的情感投入。"
+    },
+    {
+      "timestamp_range": "02:06-02:08",
+      "speaker_guess": "Deckard",
+      "transcript_zh": "完成了。",
+      "transcript_en": "Finished.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "relief",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice is shaky, exhausted.",
+      "visual_cues": "Face battered, looking away, heavy breathing.",
+      "evidence": "戴克的回应充满了疲惫和创伤后的麻木，'Finished'不仅指任务，也指他心理上的某种终结。"
+    },
+    {
+      "timestamp_range": "02:30-02:36",
+      "speaker_guess": "Gaff",
+      "transcript_zh": "可惜她活不成了。可是，谁又能呢？",
+      "transcript_en": "It's too bad she won't live. But then again, who does?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "disappointment"
+      ],
+      "intensity": 2,
+      "audio_cues": "Cynical, philosophical tone; trailing off at the end.",
+      "visual_cues": "Walking away, leaving Deckard alone.",
+      "evidence": "加夫留下的这句话充满了存在主义的讽刺，呼应了罗伊之前的独白，点出了电影关于生命有限性的核心主题。"
+    }
+  ]
+}
+```

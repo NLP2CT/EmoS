@@ -1,0 +1,165 @@
+```json
+{
+  "summary": "在戒毒互助会上，Jesse Pinkman 无法忍受辅导员关于“自我接纳”的言论，内心深处对杀害 Gale 的愧疚（隐喻为“杀狗”）彻底爆发。他从最初的麻木质疑逐渐升级为充满自我厌恶的愤怒，最终通过承认自己是来“卖冰毒”并攻击辅导员的丧女之痛，试图激怒众人以寻求惩罚。",
+  "overall_emotion_trend": {
+    "dominant": "Anger/愤怒",
+    "trajectory": "情绪由压抑的空虚（Sadness/Neutral 00:23）迅速转变为防御性的嘲讽（00:40），随后因内疚感无法排解而爆发为激烈的自我毁灭式愤怒与悲痛（Anger mixed with Grief 01:03-01:48）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:23-00:25",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "为什么不呢？",
+      "transcript_en": "Why not?",
+      "emotion_primary": "Neutral/自然",
+      "emotion_secondary": [
+        "confusion",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调低沉、平淡，带有轻微的挑衅意味。",
+      "visual_cues": "面部表情僵硬，眼神空洞，身体姿态防御性地微缩。",
+      "evidence": "他对辅导员关于“不评判自己”的观点提出质疑，语气中透着一种虚无感。"
+    },
+    {
+      "timestamp_range": "00:26-00:37",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "问题是，如果你只是做了些事却没有任何后果，那这一切意味着什么？有什么意义？",
+      "transcript_en": "The thing is, if you just do stuff and nothing happens, what's it all mean? What's the point?",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "confusion",
+        "grief",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速缓慢，在“nothing happens”处有停顿，声音听起来疲惫且空灵。",
+      "visual_cues": "眼神游离，频繁眨眼，眉头微蹙，表现出存在主义的困惑和内心的痛苦。",
+      "evidence": "他在思考罪恶与惩罚的缺失，这直接指向他杀人后却逍遥法外的内心折磨。"
+    },
+    {
+      "timestamp_range": "00:40-00:43",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "噢对了，这整件事都是关于自我接纳。",
+      "transcript_en": "Oh right, this whole thing is about self-acceptance.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调突然转为讽刺，重音落在“self-acceptance”上。",
+      "visual_cues": "抬头看向天花板，翻白眼，嘴角露出轻蔑的苦笑。",
+      "evidence": "他开始用讽刺来防御内心的痛苦，拒绝接受这种廉价的心理安慰。"
+    },
+    {
+      "timestamp_range": "00:48-00:54",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "所以我应该停止评判，然后接受？",
+      "transcript_en": "So I should stop judging and accept?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disapproval",
+        "confusion"
+      ],
+      "intensity": 3,
+      "audio_cues": "音量逐渐提高，语气变得尖锐和质问。",
+      "visual_cues": "身体前倾，眼神直视辅导员，充满对抗性。",
+      "evidence": "他将这种哲学推向荒谬的极端，试图证明其虚伪。"
+    },
+    {
+      "timestamp_range": "00:55-01:02",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "所以不管我做什么，都为我欢呼吧，因为我是个好人？一切都很好？",
+      "transcript_en": "So no matter what I do, hooray for me because I'm a great guy? It's all good?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disgust",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音中充满了嘲弄和自我厌恶，语速加快。",
+      "visual_cues": "摊开双手做出夸张的手势，表情扭曲，表现出对这种逻辑的极度厌恶。",
+      "evidence": "他在嘲笑这种道德相对主义，实际上是在表达对自己行为的无法原谅。"
+    },
+    {
+      "timestamp_range": "01:03-01:11",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "不管我杀了多少条狗，我只是……列个清单然后接受？",
+      "transcript_en": "No matter how many dogs I kill, I just... do an inventory and accept?",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "remorse",
+        "grief",
+        "disgust"
+      ],
+      "intensity": 5,
+      "audio_cues": "提到“dogs I kill”时声音颤抖，甚至有些哽咽，这是情感的崩溃点。",
+      "visual_cues": "眼眶泛红，泪水在打转，下巴颤抖，眼神中流露出深深的恐惧和悔恨。",
+      "evidence": "“狗”是Gale的代指。这是他内心最深处的创伤，他在通过隐喻承认谋杀，情绪极其痛苦。"
+    },
+    {
+      "timestamp_range": "01:12-01:19",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "我是说，你倒车压死了自己的孩子，然后你就那样，接受了？真是一堆废话！",
+      "transcript_en": "I mean you back your truck over your own kid and you like, accept? What a load of crap!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "咆哮，语气极具攻击性，最后一句几乎是喊出来的。",
+      "visual_cues": "愤怒地盯着辅导员，面部肌肉紧绷，完全撕破脸皮。",
+      "evidence": "他故意揭开辅导员最痛的伤疤（误杀女儿），通过攻击他人来宣泄自己的痛苦，并试图证明“接受”是不可能的。"
+    },
+    {
+      "timestamp_range": "01:22-01:33",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "不，你知道吗？我当初为什么来这里？是为了卖给你们冰毒。",
+      "transcript_en": "No, you know what? Why I'm here in the first place? Is to sell you meth.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "remorse",
+        "grief",
+        "realization"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音嘶哑，带着哭腔，虽然内容是挑衅，但听起来像是绝望的自白。",
+      "visual_cues": "满脸泪水，表情痛苦扭曲，这是一种自我毁灭式的坦白。",
+      "evidence": "他通过自污（承认贩毒）来强迫群体排斥他，因为他认为自己不配得到同情或原谅。"
+    },
+    {
+      "timestamp_range": "01:35-01:39",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "你们对我来说什么都不是，只是顾客！",
+      "transcript_en": "You're nothing to me but customers!",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "anger",
+        "disappointment"
+      ],
+      "intensity": 4,
+      "audio_cues": "大声吼叫，试图用残酷的语言推开所有人。",
+      "visual_cues": "环视周围的人，眼神中既有挑衅也有哀求（求你们恨我）。",
+      "evidence": "他试图切断与这群人的情感联系，通过贬低他们来惩罚自己。"
+    },
+    {
+      "timestamp_range": "01:42-01:48",
+      "speaker_guess": "Jesse Pinkman",
+      "transcript_zh": "你能接受吗？啊？你接受吗？",
+      "transcript_en": "You okay with that? Huh? You accept?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disapproval",
+        "desire"
+      ],
+      "intensity": 5,
+      "audio_cues": "咄咄逼人，最后一声质问充满了绝望的期待。",
+      "visual_cues": "死死盯着辅导员，等待对方的审判。",
+      "evidence": "他在乞求惩罚。他在问辅导员是否连这种恶行都能“接受”，实际上是希望对方说“不，我不接受，你是个混蛋”。"
+    }
+  ]
+}
+```

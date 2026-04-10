@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "film": "Macbeth",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 2/Greatest Acting Monologues Of All Time PART 2.mp4",
+  "t_start_global": 2187.88,
+  "t_end_global": 2260.54,
+  "duration": 72.66,
+  "clip": "Macbeth.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 20.37,
+      "text": "But tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day to the last",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 20.37,
+      "end": 23.01,
+      "text": "syllable of recorded time.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 25.09,
+      "end": 31.15,
+      "text": "And all our yesterdays have lighted fools the way to dusty death.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 33.17,
+      "end": 36.01,
+      "text": "Out, out, brief candle.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 40.09,
+      "end": 43.15,
+      "text": "Life is but a walking shadow.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 45.45,
+      "end": 50.33,
+      "text": "A poor player that struts and frets his hour up on the stage.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 52.01,
+      "end": 54.05,
+      "text": "And then it heard no more.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 56.01,
+      "end": 64.53,
+      "text": "It is a tale told by an idiot full of sound and fury.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 71.74,
+      "end": 72.66,
+      "text": "Signifying nothing.",
+      "filename": "segment009.mp4"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+```json
+{
+  "summary": "在这一著名场景中，新闻主播Will McAvoy在大学论坛上被激怒，打破了原本冷漠的态度，发表了一段震撼的长篇独白。他首先用愤怒和讽刺的语气，通过列举一系列残酷的数据驳斥了“美国是世界上最伟大国家”的观点，攻击了自由派和保守派的虚伪。随后，情绪在短暂的停顿后发生剧烈转折，他从愤怒转为充满怀旧与悲伤的语调，回忆美国曾经的辉煌与道德高度，表达了对现状的痛心和对过去的追忆。",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "情绪从最初的压抑与不耐烦（00:00-00:10）迅速升级为激烈的愤怒与轻蔑（00:10-01:37），这是全片的高潮部分；在01:37处经历了一个显著的视觉与听觉停顿后，情绪急转直下，变为深沉的悲伤、悔恨与怀旧（01:47-03:00）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "那是我的回答。是的。",
+      "transcript_en": "That's my answer. Yes.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "annoyance",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调平淡，简短，带有明显的终结感，不想多谈。",
+      "visual_cues": "面部表情僵硬，眼神回避，试图结束话题。",
+      "evidence": "他试图用最简短的回答敷衍过去，表现出对当前场合的不耐烦。"
+    },
+    {
+      "timestamp_range": "00:10-00:23",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "好吧。Sharon，国家艺术基金会就是个失败者……你知道为什么人们不喜欢自由派吗？因为他们总是输。",
+      "transcript_en": "Fine. Sharon, the NEA is a loser... You know why people don't like liberals? Cause they lose.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，语调变得尖锐且具有攻击性。",
+      "visual_cues": "身体前倾，手势变得果断，眼神直视提问者。",
+      "evidence": "他开始主动攻击同台嘉宾的观点，语气中充满了轻蔑。"
+    },
+    {
+      "timestamp_range": "00:23-00:46",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "如果自由派真那么聪明，为什么总是输？……你要板着脸告诉学生美国是唯一有自由的国家？加拿大有自由，日本有自由……比利时也有自由！",
+      "transcript_en": "If liberals are so f**king smart how come they lose so goddamn always? ... With a straight face, you're gonna tell students... Canada has freedom, Japan has freedom... Belgium has freedom!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "音量显著提高，重音强调在国家名称上，语气充满嘲讽。",
+      "visual_cues": "手指指点点，头部晃动幅度大，表情充满难以置信的愤怒。",
+      "evidence": "他通过列举其他国家来嘲讽“美国例外论”，情绪达到一个小高潮，特别是提到比利时时的荒谬感。"
+    },
+    {
+      "timestamp_range": "00:46-01:23",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "还有你，姐妹会女孩……绝对没有证据支持我们是世界上最伟大国家的说法。我们在识字率上排第7，数学第27……",
+      "transcript_en": "And yeah, you, sorority girl... there is absolutely no evidence to support the statement that we're the greatest country in the world. We're 7th in literacy, 27th in math...",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "realization",
+        "disappointment"
+      ],
+      "intensity": 5,
+      "audio_cues": "像机关枪一样快速列举数据，语气冷酷、确凿，不容置疑。",
+      "visual_cues": "直视提问的学生，眼神犀利，没有任何同情。",
+      "evidence": "他用冰冷的事实（数据轰炸）来粉碎学生的幻想，情绪是愤怒与残酷现实的混合。"
+    },
+    {
+      "timestamp_range": "01:23-01:37",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "你是史上最糟糕一代的一员……所以当你问是什么让我们成为最伟大的国家时，我不知道你在说什么。优胜美地公园吗？",
+      "transcript_en": "You nonetheless are without a doubt a member of the worst period generation period ever period... so when you ask what makes us the greatest country in the world, I don't know what the f**k you're talking about. Yosemite?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "annoyance",
+        "confusion"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音嘶吼，最后一句“Yosemite?”带有极度的讽刺和荒谬感。",
+      "visual_cues": "摊开双手表示不可理喻，面部表情扭曲。",
+      "evidence": "这是愤怒宣泄的顶点，他直接侮辱了整整一代人，并用一个荒谬的答案（优胜美地）来嘲弄问题的无知。"
+    },
+    {
+      "timestamp_range": "01:47-02:22",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "以前确实是。我们曾为正义挺身而出。我们为道德原因而战……我们向贫穷宣战，而不是向穷人宣战。",
+      "transcript_en": "It sure used to be. We stood up for what was right. We fought for moral reasons... We waged wars on poverty, not poor people.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "nostalgia",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速显著放慢，音调降低，变得柔和且略带颤抖，背景音乐转为忧伤的钢琴曲。",
+      "visual_cues": "眼神变得柔和、遥远，仿佛在凝视过去，愤怒的肢体语言消失，整个人沉静下来。",
+      "evidence": "这是关键的情绪转折点。他从攻击现状转为怀念过去，语气中充满了对逝去时代的敬仰和对现状的惋惜。"
+    },
+    {
+      "timestamp_range": "02:22-02:43",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "我们仰望星空，像个男人一样行事。我们追求智慧，不贬低它……我们不因为投票给谁而定义自己。我们没那么容易被吓倒。",
+      "transcript_en": "We reached for the stars. Acted like men. We aspired to intelligence, we didn't belittle it... We didn't identify ourselves by who we voted for... We didn't scare so easy.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "pride",
+        "grief",
+        "longing"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音低沉，带有哽咽感，充满深情。",
+      "visual_cues": "轻微摇头，似乎在感叹现在的缺失，眼神中流露出失落。",
+      "evidence": "他列举了过去的种种美德，每一句都在反衬现在的缺失，情绪是深深的失落感和自豪感的交织。"
+    },
+    {
+      "timestamp_range": "02:43-03:00",
+      "speaker_guess": "Will McAvoy",
+      "transcript_zh": "我们能做到这些，是因为我们被伟人所指引……解决任何问题的第一步，是承认问题的存在。",
+      "transcript_en": "We were able to be all these things and do all these things because we were informed... by great men... First step in solving any problem is recognizing there is one.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "optimism",
+        "sadness"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调恢复平静和理智，最后一句带有总结性和教育意义。",
+      "visual_cues": "眼神重新聚焦在听众身上，表情严肃但不再愤怒。",
+      "evidence": "情绪从感性回归理性，虽然底色仍是悲伤，但他给出了一个建设性的结尾，承认现实是改变的开始。"
+    }
+  ]
+}
+```

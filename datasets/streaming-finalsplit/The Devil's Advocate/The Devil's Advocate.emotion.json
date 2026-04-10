@@ -1,0 +1,135 @@
+```json
+{
+  "summary": "在这一高潮片段中，约翰·米尔顿（撒旦）向凯文·洛马克斯揭示了自己的世界观，嘲讽上帝是一个残酷的恶作剧者，制定了自相矛盾的规则来折磨人类。米尔顿的情绪从戏谑的嘲讽急剧转变为愤怒的控诉，最终以作为“人道主义者”拥有20世纪的狂胜姿态结束。",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "情绪始于玩世不恭的嘲弄（00:00），在抨击上帝虚伪时爆发为剧烈的愤怒（00:46），随后转为对自己角色的自豪与辩护（01:03），最终在宣称拥有20世纪时达到狂喜的巅峰（01:32）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:08",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "让我给你一点关于上帝的内幕消息。上帝喜欢旁观。他是个恶作剧者。",
+      "transcript_en": "Let me give you a little inside information about God. God likes to watch. He's a prankster.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "curiosity"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调低沉、神秘，带有阴谋论般的耳语感，重音落在'watch'和'prankster'上。",
+      "visual_cues": "他在房间里踱步，眼神狡黠，嘴角带着一丝玩味的微笑。",
+      "evidence": "米尔顿以一种分享秘密的轻松口吻开始，将上帝描述为喜欢恶作剧的角色，表现出一种优越感和娱乐心态。"
+    },
+    {
+      "timestamp_range": "00:09-00:25",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "想想看。他赋予人类本能。他给你这种非凡的天赋，然后他做什么？我发誓，为了他自己的娱乐，为了他私人的、宇宙级的搞笑集锦...",
+      "transcript_en": "Think about it. He gives man instincts. He gives you this extraordinary gift, and then what does he do? I swear, for his own amusement, his own private, cosmic gag reel...",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，语气变得更加戏剧化，'gag reel'一词发音夸张。",
+      "visual_cues": "张开双臂，仿佛在展示一个巨大的舞台，面部表情生动，充满嘲讽。",
+      "evidence": "他通过构建上帝自相矛盾的行为逻辑来取乐，将人类的苦难描述为上帝的娱乐节目，表现出强烈的讽刺意味。"
+    },
+    {
+      "timestamp_range": "00:26-00:40",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "他制定了相互对立的规则。这是史上最大的笑话。看，但别摸。摸，但别尝。尝，别吞下去。",
+      "transcript_en": "He sets the rules in opposition. It's the goof of all time. Look, but don't touch. Touch, but don't taste. Taste, don't swallow.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "节奏感极强，像是在背诵一段荒谬的韵律，每句话之间有明显的停顿，语气充满挑衅。",
+      "visual_cues": "手指随着节奏点动，身体前倾，眼神紧盯着凯文，像是在讲一个荒诞的笑话。",
+      "evidence": "米尔顿享受着拆解上帝规则的快感，用排比句式强化了这种荒谬感，虽然内容令人沮丧，但他的态度是戏谑的。"
+    },
+    {
+      "timestamp_range": "00:41-00:57",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "当你从一只脚跳到另一只脚时，他在做什么？他笑得屁滚尿流！他是个假正经！他是个虐待狂！他是个缺席的房东！",
+      "transcript_en": "And while you're jumping from one foot to the next, what is he doing? He's laughing his sick, f***ing ass off! He's a tight-ass! He's a sadist! He's an absentee landlord!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "音量骤然爆发，从嘲讽转为咆哮，声音嘶哑，充满愤怒的能量。",
+      "visual_cues": "猛烈地挥舞手臂，面部肌肉紧绷，眼睛瞪大，身体充满攻击性。",
+      "evidence": "这是情绪的转折点，米尔顿不再掩饰，直接用侮辱性的词汇攻击上帝，表现出极度的愤怒和鄙视。"
+    },
+    {
+      "timestamp_range": "00:58-00:59",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "崇拜那个？绝不。",
+      "transcript_en": "Worship that? Never.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音突然降低，变得冰冷而坚定，'Never'说得斩钉截铁。",
+      "visual_cues": "表情从狂怒转为冷酷的轻蔑，眼神中透着不屑。",
+      "evidence": "在爆发之后，他用极度的厌恶拒绝了崇拜上帝的可能性，这是一种基于骄傲的拒绝。"
+    },
+    {
+      "timestamp_range": "01:03-01:26",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "为什么不呢？自从这一切开始以来，我就一直在地上，亲身参与其中。我培育了人类被激发出的每一种感觉... 我从未评判过他。为什么？因为我从未拒绝过他，尽管他有种种不完美，我是人类的粉丝！",
+      "transcript_en": "Why not? I'm here on the ground with my nose in it since the whole thing began. I've nurtured every sensation man has been inspired to have... I never judged him. Why? Because I never rejected him, in spite of all his imperfections. I'm a fan of man!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "语调变得富有激情和说服力，充满辩护色彩，最后一句'I'm a fan of man'充满自豪。",
+      "visual_cues": "摊开双手，姿态开放，仿佛在拥抱人类，表情真诚（以他扭曲的方式）。",
+      "evidence": "米尔顿将自己重塑为人类的守护者和理解者，与上帝的冷漠形成对比，表现出对自己角色的强烈认同和自豪。"
+    },
+    {
+      "timestamp_range": "01:27-01:31",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "我是个人道主义者。也许是最后一个人道主义者。",
+      "transcript_en": "I'm a humanist. Maybe the last humanist.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语气平静、自信，带有一种哲学家的沉思感。",
+      "visual_cues": "微微点头，眼神深邃，似乎真心相信自己的歪理邪说。",
+      "evidence": "他给自己贴上'人道主义者'的标签，这是一种极度的讽刺，但他本人对此感到自豪和满足。"
+    },
+    {
+      "timestamp_range": "01:32-01:44",
+      "speaker_guess": "John Milton",
+      "transcript_zh": "凯文，神智正常的人谁能否认，20世纪完全是属于我的？全部！凯文！全部！都是我的！",
+      "transcript_en": "Who in their right mind, Kevin, could possibly deny the 20th century was entirely mine? All of it, Kevin! All of it! Mine!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "pride",
+        "joy"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音再次升高，最后变成胜利的吼叫，笑声狂妄。",
+      "visual_cues": "张开双臂仰望上方，仿佛在向世界宣告主权，脸上洋溢着狂喜。",
+      "evidence": "这是最终的胜利宣言，他认为人类的堕落证明了他的胜利，情绪达到了狂喜和极度自信的顶峰。"
+    }
+  ]
+}
+```

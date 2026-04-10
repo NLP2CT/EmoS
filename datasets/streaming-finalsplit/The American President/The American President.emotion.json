@@ -1,0 +1,121 @@
+```json
+{
+  "summary": "在这一场景中，安德鲁·谢泼德总统（President Andrew Shepherd）在白宫新闻发布室发表了一场关键的演讲，回应竞争对手鲍勃·拉姆森（Bob Rumson）对其品格的攻击。情节从最初的冷静防御转变为对宪法精神的激昂辩护，最后以对对手政治能力的尖锐反击达到高潮，展现了总统的领袖气质和坚定信念。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪由开场的严肃冷静（Neutral/Serious）逐渐升温，在中段转为充满正义感的激昂（Anger/Pride），最后以坚定的反击和自信（Disapproval/Determination）收尾。关键转折点在 00:26 总统开始反问对手，以及 01:00 开始阐述“美国公民身份”的内涵时。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:25",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "过去几个月里，拉姆森参议员暗示担任这个国家的总统在某种程度上与品格有关。虽然我一直不愿意回应他对我的攻击，但我已经在这里待了三年零三天，我可以毫不犹豫地告诉你：担任这个国家的总统完全与品格有关。",
+      "transcript_en": "For the last couple of months, Senator Rumson has suggested that being president of this country was, to a certain extent, about character. And although I have not been willing to engage in his attacks on me, I've been here three years and three days, and I can tell you without hesitation: Being president of this country is entirely about character.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "approval",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调平稳、低沉，语速适中，在'entirely'一词上加重语气。",
+      "visual_cues": "面部表情严肃，眼神坚定地直视前方，身体姿态挺拔，几乎没有多余动作。",
+      "evidence": "他承认了对手的攻击点，但以一种非常沉稳、控制力强的方式重新定义了'品格'的含义，表现出一种庄重的自信。"
+    },
+    {
+      "timestamp_range": "00:26-00:50",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "郑重声明：是的，我是美国公民自由联盟（ACLU）的持卡会员。但更重要的问题是，鲍勃，你为什么不是？这是一个以捍卫《权利法案》为唯一宗旨的组织，所以这自然引出了一个问题：为什么一位参议员、党内最有权势的发言人兼总统候选人，会选择拒绝维护宪法？",
+      "transcript_en": "For the record: Yes, I am a card-carrying member of the ACLU. But the more important question is, why aren't you, Bob? Now, this is an organization whose sole purpose is to defend the Bill of Rights, so it naturally begs the question: Why would a senator, his party's most powerful spokesman and a candidate for President, choose to reject upholding the Constitution?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance",
+        "curiosity"
+      ],
+      "intensity": 4,
+      "audio_cues": "音量提高，语气变得尖锐且具有挑战性，直接称呼对手的名字'Bob'时带有质问感。",
+      "visual_cues": "用手指指向镜头（象征指向对手），眉毛上扬，眼神犀利，头部随着强调的词语轻微点动。",
+      "evidence": "他从防守转为进攻，直接质疑对手的爱国主义和对宪法的忠诚，表现出明显的反对和愤怒。"
+    },
+    {
+      "timestamp_range": "00:51-00:59",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "各位，如果你能回答这个问题，那你比我聪明，因为直到几个小时前我才想明白。",
+      "transcript_en": "Now if you can answer that question, folks, then you're smarter than I am, because I didn't understand it until a few hours ago.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "confusion",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语气稍微缓和，带有一丝讽刺的自嘲。",
+      "visual_cues": "轻微耸肩，眼神扫视在场的记者，表情略显困惑（修辞性的）。",
+      "evidence": "这是一个过渡性的时刻，他用一种假装的困惑来强调对手行为的荒谬性。"
+    },
+    {
+      "timestamp_range": "01:00-01:23",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "美国并不简单。美国是高级公民身份的体现。你必须极其渴望它，因为它会反抗。它会说：你想要言论自由？那就让我们看看你是否承认这样一个人：他的话让你热血沸腾，他站在舞台中央，声嘶力竭地鼓吹那些你毕生都在声嘶力竭反对的东西。",
+      "transcript_en": "America isn't easy. America is advanced citizenship. You've gotta want it bad, 'cause it's gonna put up a fight. It's gonna say: You want free speech? Let's see you acknowledge a man whose words make your blood boil, who's standing center stage and advocating at the top of his lungs that which you would spend a lifetime opposing at the top of yours.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "pride",
+        "admiration",
+        "excitement"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速加快，充满激情，声音洪亮，在描述'blood boil'和'top of his lungs'时情绪饱满。",
+      "visual_cues": "手势变得丰富，握拳强调力量，眼神充满光彩，身体前倾。",
+      "evidence": "他在阐述美国的价值观，虽然语气激烈（接近Anger的强度），但核心情感是对这种艰难民主制度的自豪和推崇。"
+    },
+    {
+      "timestamp_range": "01:24-01:44",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "你想声称这片土地是自由之地吗？那么这个国家的象征就不能仅仅是一面旗帜。这个象征还必须包括一位公民行使抗议权利去焚烧那面旗帜。向我展示这一点，捍卫这一点，在你们的课堂上歌颂这一点。然后，你才可以站起来歌唱这片自由之地。",
+      "transcript_en": "You want to claim this land as the land of the free? Then the symbol of your country cannot just be a flag. The symbol also has to be one of its citizens exercising his right to burn that flag in protest. Now show me that, defend that, celebrate that in your classrooms. Then, you can stand up and sing about the land of the free.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "pride",
+        "disapproval",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音达到最高点，铿锵有力，每一个动词（show, defend, celebrate）都重读。",
+      "visual_cues": "用手指用力敲击讲台或指向前方，眼神极其坚定，面部肌肉紧绷。",
+      "evidence": "这是演讲的高潮，他用一种近乎愤怒的激情来捍卫最具争议的自由权利，强烈反对肤浅的爱国主义。"
+    },
+    {
+      "timestamp_range": "01:45-02:01",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "我认识鲍勃·拉姆森很多年了，我一直以为鲍勃之所以花那么多时间和精力对着雨大喊大叫，是因为他根本不懂。好吧，我错了。鲍勃的问题不在于他不懂。鲍勃的问题在于他推销不出去！",
+      "transcript_en": "I've known Bob Rumson for years, and I've been operating under the assumption that the reason Bob devotes so much time and energy to shouting at the rain was that he simply didn't get it. Well, I was wrong. Bob's problem isn't that he doesn't get it. Bob's problem is that he can't sell it!",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "realization",
+        "contempt"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气从激昂转为一种冷酷的揭露，最后一句'he can't sell it'充满了轻蔑和定论。",
+      "visual_cues": "摇头表示否定，最后有一个果断的手部切分动作，仿佛在盖棺定论。",
+      "evidence": "他不再谈论高尚的理想，而是直接揭露对手的无能和虚伪，表现出对对手政治手段的厌恶和轻视。"
+    },
+    {
+      "timestamp_range": "02:02-02:12",
+      "speaker_guess": "President Andrew Shepherd",
+      "transcript_zh": "我们要解决严重的问题，我们需要严肃的人来解决它们。无论你的具体问题是什么，我向你保证……",
+      "transcript_en": "We have serious problems to solve, and we need serious people to solve them. And whatever your particular problem is, I promise you...",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "determination",
+        "optimism",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "回归到总统式的稳重语调，真诚且具有号召力。",
+      "visual_cues": "眼神重新变得柔和但专注，试图与观众建立直接的联系。",
+      "evidence": "演讲结尾回归务实，展现出解决问题的决心和对民众的承诺，情绪转为坚定的中性。"
+    }
+  ]
+}
+```

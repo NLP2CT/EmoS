@@ -1,0 +1,183 @@
+```json
+{
+  "summary": "理发师（查理·卓别林饰）被误认为是独裁者，但他并未利用这一权力进行统治，而是发表了一场震撼人心的演讲。情节从最初的谦卑、歉意和对人类现状的悲悯，逐渐转变为对暴政的愤怒控诉，最终在激昂的高潮中呼吁全人类团结起来，为自由和民主而战。",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "情绪由最初的忧郁与悔恨（Sadness/Remorse 00:00）逐渐过渡到对人性的渴望（Optimism 00:22），随后是对现实的沉痛批判（Disappointment 00:30），接着转为对士兵的愤怒劝诫（Anger 01:45），最终爆发为极具感染力的狂喜与激昂（Excitement/Pride 02:30）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:08",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "我很抱歉，但我不想当皇帝。那不是我的事。",
+      "transcript_en": "I'm sorry, but I don't want to be an emperor. That's not my business.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速缓慢，音调低沉，带有犹豫和歉意。",
+      "visual_cues": "眼神向下，眉头微蹙，面部肌肉放松但显得沉重。",
+      "evidence": "角色以道歉开场，表现出对权力的拒绝和内心的不安。"
+    },
+    {
+      "timestamp_range": "00:08-00:22",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "我不想统治或征服任何人。如果可能的话，我想帮助每一个人——犹太人、非犹太人、黑人、白人。",
+      "transcript_en": "I don't want to rule or conquer anyone. I should like to help everyone if possible - Jew, Gentile - black man - white.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "desire"
+      ],
+      "intensity": 2,
+      "audio_cues": "声音变得柔和，语气诚恳，重音落在'help'上。",
+      "visual_cues": "眼神开始抬起，直视前方，眼神中流露出真诚。",
+      "evidence": "表达了对平等的渴望和对他人的关怀，情绪平和但充满善意。"
+    },
+    {
+      "timestamp_range": "00:22-00:30",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "我们都想互相帮助。人类就是这样。我们要活在彼此的幸福中，而不是彼此的痛苦中。",
+      "transcript_en": "We all want to help one another. Human beings are like that. We want to live by each other's happiness, not by each other's misery.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "love"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调略微上扬，充满希望。",
+      "visual_cues": "眼睛微微睁大，面部表情变得柔和而充满光彩。",
+      "evidence": "强调人类本性中的善良，传递出积极乐观的信念。"
+    },
+    {
+      "timestamp_range": "00:30-00:53",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "但我们迷失了方向。贪婪毒害了人的灵魂，用仇恨阻隔了世界……我们的知识让我们变得愤世嫉俗，我们的聪明让我们变得冷酷无情。",
+      "transcript_en": "But we have lost the way. Greed has poisoned men's souls, has barricaded the world with hate... Our knowledge has made us cynical. Our cleverness, hard and unkind.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "grief",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，语气变得沉重、严肃，带有批判性。",
+      "visual_cues": "眉头紧锁，眼神变得锐利而痛苦，头部轻微摇动。",
+      "evidence": "对现代社会的弊病进行深刻反思，流露出对人性堕落的痛心。"
+    },
+    {
+      "timestamp_range": "00:53-01:03",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "我们要人性多于机器。我们要仁慈温柔多于聪明。没有这些品质，生活将充满暴力，一切都将以此告终。",
+      "transcript_en": "More than machinery we need humanity. More than cleverness we need kindness and gentleness. Without these qualities, life will be violent and all will be lost.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "desire",
+        "nervousness"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音中带有恳求的意味，音量适中但坚定。",
+      "visual_cues": "眼神凝重，直视镜头，仿佛在与每一个观众对话。",
+      "evidence": "通过对比强调人性的重要性，表达了对未来的深切忧虑和渴望。"
+    },
+    {
+      "timestamp_range": "01:03-01:23",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "飞机和无线电让我们靠得更近……这些发明的本质就是在呼唤人类的善良，呼唤手足情谊……",
+      "transcript_en": "The aeroplane and the radio have brought us closer together. The very nature of these inventions cries out for the goodness in men - cries out for universal brotherhood...",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，语调升高，充满激情。",
+      "visual_cues": "眼睛闪烁着光芒，身体前倾，表现出急切的希望。",
+      "evidence": "将科技进步视为团结的契机，情绪转向积极昂扬。"
+    },
+    {
+      "timestamp_range": "01:23-01:45",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "对于那些能听到我说话的人，我说——不要绝望……人的仇恨会过去，独裁者会死亡……只要人必有一死，自由就永不磨灭。",
+      "transcript_en": "To those who can hear me, I say - do not despair... The hate of men will pass, and dictators die... and so long as men die, liberty will never perish.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "relief",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音洪亮，充满力量和信念，每一个字都掷地有声。",
+      "visual_cues": "下巴抬起，神情庄重而自信，展现出领袖般的魅力。",
+      "evidence": "给予受压迫者希望，预言暴政的终结，情绪坚定而鼓舞人心。"
+    },
+    {
+      "timestamp_range": "01:45-02:08",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "士兵们！不要把自己交给那些畜生——那些蔑视你们、奴役你们的人……你们不是机器！你们不是牲口！你们是人！",
+      "transcript_en": "Soldiers! Don't give yourselves to brutes - men who despise you - enslave you... You are not machines! You are not cattle! You are men!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "突然的爆发，大声吼叫，语速极快，带有强烈的愤怒。",
+      "visual_cues": "面部肌肉紧绷，眼睛瞪大，身体剧烈晃动，手势激烈。",
+      "evidence": "直接斥责压迫者，唤醒士兵的尊严，情绪达到愤怒的高点。"
+    },
+    {
+      "timestamp_range": "02:08-02:22",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "你们心中有人类的爱！你们不恨！只有那些没人爱的人才恨……士兵们！不要为奴役而战！为自由而战！",
+      "transcript_en": "You have the love of humanity in your hearts! You don't hate! Only the unloved hate... Soldiers! Don't fight for slavery! Fight for liberty!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "excitement",
+        "admiration"
+      ],
+      "intensity": 5,
+      "audio_cues": "虽然音量依然很高，但语气从愤怒转为热情的号召。",
+      "visual_cues": "眼神中燃烧着激情，表情从愤怒转为狂热的感召。",
+      "evidence": "呼吁爱与自由，将愤怒转化为正向的行动力。"
+    },
+    {
+      "timestamp_range": "02:22-02:36",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "路加福音第十七章写道：‘神的国就在人心里’……不是在一个人心里，也不是在一群人心里，而是在所有人心里！在你们心里！",
+      "transcript_en": "In the 17th Chapter of St Luke it is written: \"the Kingdom of God is within man\" - not one man nor a group of men, but in all men! In you!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "realization",
+        "pride"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音近乎嘶吼，但充满了神圣感和确信。",
+      "visual_cues": "双手可能在画面外挥舞，面部表情极度生动，眼神直指人心。",
+      "evidence": "引用经典赋予人民神圣的权力，情绪极度高涨。"
+    },
+    {
+      "timestamp_range": "02:36-02:42",
+      "speaker_guess": "The Jewish Barber",
+      "transcript_zh": "那么，以民主的名义，让我们行使这种权力——让我们团结起来！让我们为一个新的世界而战！",
+      "transcript_en": "Then - in the name of democracy - let us use that power - let us all unite. Let us fight for a new world!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "optimism",
+        "determination"
+      ],
+      "intensity": 5,
+      "audio_cues": "达到最高潮，声音嘶哑但充满爆发力。",
+      "visual_cues": "整个人仿佛在发光，完全沉浸在对未来的憧憬和战斗的决心之中。",
+      "evidence": "最后的总动员，将全篇演讲推向最高潮，充满了革命性的乐观主义。"
+    }
+  ]
+}
+```

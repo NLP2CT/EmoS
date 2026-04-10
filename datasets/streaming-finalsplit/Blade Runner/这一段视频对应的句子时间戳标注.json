@@ -1,0 +1,186 @@
+{
+  "lang": "en",
+  "film": "Blade Runner",
+  "source_rel": "银翼杀手 雨中独白-电影史上最动人的死前独白/银翼杀手 雨中独白-电影史上最动人的死前独白.mp4",
+  "t_start_global": 5152.1,
+  "t_end_global": 5308.24,
+  "duration": 156.14,
+  "clip": "Blade Runner.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 1.8,
+      "text": "seen things",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 1.8,
+      "end": 4.3,
+      "text": "people wouldn't believe.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 5.94,
+      "end": 8.02,
+      "text": "Attack ships",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 8.02,
+      "end": 10.06,
+      "text": "on fire off the shoulder",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 10.06,
+      "end": 10.82,
+      "text": "of a lion.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 14.0,
+      "end": 15.64,
+      "text": "I watched sea beans",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 15.64,
+      "end": 17.88,
+      "text": "glitter in the darkness",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 17.88,
+      "end": 19.64,
+      "text": "ten hours a day.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 24.6,
+      "end": 25.5,
+      "text": "All those",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 25.5,
+      "end": 27.44,
+      "text": "moments",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 27.44,
+      "end": 28.48,
+      "text": "will be lost",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 29.1,
+      "end": 30.84,
+      "text": "in time.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 33.5,
+      "end": 34.4,
+      "text": "Like",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 35.62,
+      "end": 36.66,
+      "text": "tears",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 36.66,
+      "end": 40.4,
+      "text": "in rain.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 45.15,
+      "end": 45.67,
+      "text": "Time",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 46.47,
+      "end": 47.39,
+      "text": "to die.",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 113.48,
+      "end": 114.18,
+      "text": "You've done",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 114.18,
+      "end": 115.6,
+      "text": "a man's job, sir.",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 122.5,
+      "end": 123.82,
+      "text": "I guess you're through, huh?",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 126.92,
+      "end": 127.44,
+      "text": "Finished.",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 150.6,
+      "end": 151.44,
+      "text": "It's too bad",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 151.44,
+      "end": 152.4,
+      "text": "she won't live.",
+      "filename": "segment023.mp4"
+    },
+    {
+      "index": 24,
+      "start": 154.56,
+      "end": 155.42,
+      "text": "But then again,",
+      "filename": "segment024.mp4"
+    },
+    {
+      "index": 25,
+      "start": 155.48,
+      "end": 156.14,
+      "text": "who dies?",
+      "filename": "segment025.mp4"
+    }
+  ]
+}

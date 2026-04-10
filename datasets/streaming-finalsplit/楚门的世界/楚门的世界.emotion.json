@@ -1,0 +1,135 @@
+```json
+{
+  "summary": "The clip features a male protagonist performing a monologue that initially mirrors the plot of 'The Truman Show,' transitioning from a cheerful introduction to a paranoid realization of his simulated reality. The emotional atmosphere shifts dramatically from pleasant normalcy to creeping suspicion, then to intense desperation and anger as he attempts to break the 'fourth wall,' before abruptly snapping back into a cheerful, artificial persona to deliver a commercial advertisement, revealing the breakdown was scripted.",
+  "overall_emotion_trend": {
+    "dominant": "Fear",
+    "trajectory": "Begins with Joy/Neutrality (00:00), descends into Confusion and Fear (00:19), peaks at Anger/Desperation (01:20), and instantly resets to Artificial Joy (01:30)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:05",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "如果我们以后再没机会见面，那我祝你早安午安，晚也安。",
+      "transcript_en": "In case I don't see you, good afternoon, good evening, and good night.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "Warm, projecting voice; upward inflection at the end.",
+      "visual_cues": "Friendly smile, direct eye contact, waving hand gesture.",
+      "evidence": "The character quotes the iconic catchphrase from The Truman Show with a pleasant demeanor."
+    },
+    {
+      "timestamp_range": "00:06-00:18",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "我叫楚门，是一个很平凡的人。我有妻子有朋友有家人... 我有一份工作... 什么看起来都很正常。",
+      "transcript_en": "My name is Truman, a very ordinary person. I have a wife, friends, family... I have a job... everything looks very normal.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "approval",
+        "pride"
+      ],
+      "intensity": 2,
+      "audio_cues": "Steady, narrative tone; calm pacing.",
+      "visual_cues": "Relaxed posture, listing facts on fingers.",
+      "evidence": "He establishes the baseline of a normal, contented life before the conflict begins."
+    },
+    {
+      "timestamp_range": "00:19-00:37",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "直到那天，一切都很巧合。骤然变化的天气，从天而降的补光灯... 还有那总是突如其来不合时宜的广告...",
+      "transcript_en": "Until that day, everything was too coincidental. Sudden weather changes, a spotlight falling from the sky... and those sudden, inappropriate advertisements...",
+      "emotion_primary": "Surprise",
+      "emotion_secondary": [
+        "confusion",
+        "curiosity",
+        "suspicion"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone drops slightly, becoming more conspiratorial and faster paced.",
+      "visual_cues": "Eyebrows raised, pointing fingers to emphasize the oddities, looking upward.",
+      "evidence": "He lists the 'glitches' in his reality, showing growing suspicion of his environment."
+    },
+    {
+      "timestamp_range": "00:38-00:47",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "这杯水，有点甜。",
+      "transcript_en": "This water, is a bit sweet.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "embarrassment"
+      ],
+      "intensity": 4,
+      "audio_cues": "Sudden shift to an exaggerated, commercial announcer voice.",
+      "visual_cues": "Forced, mechanical smile; stiff thumbs-up gesture; 'uncanny valley' expression.",
+      "evidence": "He demonstrates the 'glitch' by involuntarily performing a product placement, creating a jarring contrast with the previous fear."
+    },
+    {
+      "timestamp_range": "00:48-01:06",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "这太诡异了。就好像面前真的有一个摄像头一样... 突如其来的大水，消失的父亲... 剩下的答案就是必然。",
+      "transcript_en": "This is too weird. It's like there's really a camera in front of me... sudden floods, disappearing father... the remaining answer is inevitable.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "nervousness",
+        "realization",
+        "fear"
+      ],
+      "intensity": 4,
+      "audio_cues": "Breathless, shaky voice; whispering at times.",
+      "visual_cues": "Darting eyes, leaning closer to the camera, expression of dread.",
+      "evidence": "The realization sets in fully; he acknowledges the surveillance and the artificial nature of his trauma."
+    },
+    {
+      "timestamp_range": "01:07-01:19",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "你的意思是这一切都是假的？其实我生活在一场真人秀里面... 就像是一只笼中的小鸟...",
+      "transcript_en": "You mean all of this is fake? Actually, I am living in a reality show... just like a bird in a cage...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "disappointment",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice cracks, sounding on the verge of tears.",
+      "visual_cues": "Eyes welling up, looking down, defeated body language.",
+      "evidence": "He processes the existential horror of his life being a lie for others' entertainment."
+    },
+    {
+      "timestamp_range": "01:20-01:29",
+      "speaker_guess": "Protagonist (Truman)",
+      "transcript_zh": "我要逃！我要离开这里！人怎么可能没有自由呢？你知道我放弃了什么吗？",
+      "transcript_en": "I want to escape! I want to leave here! How can a human have no freedom? Do you know what I gave up?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "desire",
+        "excitement",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "Shouting, high volume, rapid tempo.",
+      "visual_cues": "Intense stare, aggressive head movements, veins visible.",
+      "evidence": "The sadness turns into a desperate fight-or-flight response; he screams for his agency."
+    },
+    {
+      "timestamp_range": "01:30-01:43",
+      "speaker_guess": "Protagonist (Host)",
+      "transcript_zh": "我的答案就藏在今天晚上7点半的楚门有约... 本栏目由火焰堡垒奶茶独家冠名播出。",
+      "transcript_en": "My answer is hidden in tonight's 'Truman Show' at 7:30... This program is exclusively sponsored by Flame Fortress Milk Tea.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "Instantly switches to a polished, professional broadcasting tone.",
+      "visual_cues": "Sudden bright smile (Gold teeth visible), professional nod, breaking the dramatic tension completely.",
+      "evidence": "The twist ending: the breakdown was a performance. He reverts to a happy host persona to sell the product."
+    }
+  ]
+}
+```

@@ -1,0 +1,18 @@
+{
+  "datasets/data-final": {
+    "files": 9584,
+    "size_bytes": 17056716878
+  },
+  "datasets/streaming-finalsplit": {
+    "files": 1845,
+    "size_bytes": 1457702365
+  },
+  "paper": {
+    "files": 1,
+    "size_bytes": 3542923
+  },
+  "total": {
+    "files": 11430,
+    "size_bytes": 18517962166
+  }
+}

@@ -1,0 +1,161 @@
+```json
+{
+  "summary": "在这一场景中，凯瑟琳·沃森（Katherine Watson）愤怒地向她的学生展示了一系列描绘女性仅作为家庭主妇存在的广告，讽刺地将这些形象与学生们的学术成就进行对比。情绪氛围从最初的严厉与愤怒的讽刺，逐渐转变为深深的失望与无力感，标志着她意识到社会期望对这些才华横溢的女性的压迫之深。",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "情绪始于压抑的愤怒与严厉（00:00），随后升级为激烈的讽刺与厌恶（00:17-00:48），在质问广告语含义时达到愤怒的顶峰（00:54），随后迅速转折为深深的悲伤与挫败感（01:06），最终以无奈的失望结束。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:05",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "今天你们只管听。",
+      "transcript_en": "Today you just listen.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调低沉、严厉，没有商量的余地，重音落在 'listen' 上。",
+      "visual_cues": "面部表情严肃，眼神直视前方，灯光打在脸上形成阴影，显得压抑。",
+      "evidence": "她打断了常规的教学互动，强行建立权威，表现出对学生之前行为的不满。"
+    },
+    {
+      "timestamp_range": "00:05-00:14",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "未来的学者在研究我们时会看到什么？当代女性的画像？",
+      "transcript_en": "What will the future scholars see when they study us? A portrait of women today?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "修辞性疑问句，语速放缓，带有引导性。",
+      "visual_cues": "投影仪的光打在脸上，神情专注，试图引起学生的思考。",
+      "evidence": "她在铺垫接下来的讽刺，情绪暂时处于一种引导性的平静中，但暗含张力。"
+    },
+    {
+      "timestamp_range": "00:14-00:28",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "看好了女士们：韦尔斯利毕业生的完美写照，以优异成绩毕业，正做着她受训要做的确切之事。下一张。",
+      "transcript_en": "There you are ladies: the perfect likeness of a Wellesley graduate. Magna Cum Laude, doing exactly what she was trained to do. Slide.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气充满讽刺，特意强调 'trained'（受训）一词，最后的 'Slide'（下一张）简短有力，像是一声命令。",
+      "visual_cues": "展示的是家庭主妇做清洁的广告，她眼神犀利地扫视学生，嘴角带有嘲讽的意味。",
+      "evidence": "她将高等教育荣誉（Magna Cum Laude）与清洁工般的家务劳动并置，表达对这种人才浪费的强烈厌恶。"
+    },
+    {
+      "timestamp_range": "00:29-00:39",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "罗德学者。我想知道她是不是一边给丈夫熨衬衫一边背诵乔叟。下一张。",
+      "transcript_en": "A Rhodes Scholar. I wonder if she recites Chaucer while she presses her husband's shirts. Slide.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "amusement"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音中带着一种苦涩的幽默感（黑色幽默），语调尖锐。",
+      "visual_cues": "看着屏幕上的熨烫广告，然后转向学生，眉毛挑起，表情充满挑衅。",
+      "evidence": "她用极度荒谬的场景（背诵乔叟与熨衬衫）来攻击学生们接受的命运，讽刺意味极浓。"
+    },
+    {
+      "timestamp_range": "00:40-00:48",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "现在你们物理专业的可以计算你们做的每一个肉卷的质量和体积了。下一张。",
+      "transcript_en": "Now you physics majors can calculate the mass and volume of every meatloaf you make. Slide.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "音量提高，语速加快，带有攻击性，假笑的声音听起来很刺耳。",
+      "visual_cues": "脸上挂着夸张的、虚假的笑容，眼睛瞪大，这是一种愤怒面具下的嘲弄。",
+      "evidence": "她直接点名物理专业，将高深的科学知识贬低为烹饪工具，愤怒情绪通过夸张的讽刺爆发出来。"
+    },
+    {
+      "timestamp_range": "00:49-00:54",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "一个让你获得自由的束身衣。这到底是什么意思？",
+      "transcript_en": "A girdle to set you free. What does that mean?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "confusion",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "大声喊出 'What does that mean?'，声音充满难以置信的愤怒。",
+      "visual_cues": "仰头看着巨大的投影，身体紧绷，仿佛在质问上帝或社会。",
+      "evidence": "广告本身的逻辑矛盾（束缚即自由）激怒了她，她不仅是在问学生，也是在质问这个荒谬的社会逻辑。"
+    },
+    {
+      "timestamp_range": "00:59-01:05",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "这到底是什么意思？这意味着什么？",
+      "transcript_en": "What does that mean? What does it mean?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "confusion",
+        "despair"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音从愤怒转为颤抖，音量降低，透出一种无助感。",
+      "visual_cues": "背对学生，看着屏幕上的广告，身影显得孤单。",
+      "evidence": "重复的问题不再是质问，而是变成了绝望的呢喃，标志着情绪从外放的愤怒转向内心的悲伤。"
+    },
+    {
+      "timestamp_range": "01:06-01:11",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "我放弃了。",
+      "transcript_en": "I give up.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "近乎耳语，语气沉重，充满了挫败感。",
+      "visual_cues": "转身面对学生，眼眶含泪，肩膀下垂，防御姿态卸下。",
+      "evidence": "这是整个场景的情绪转折点，她承认了自己的失败，不再战斗。"
+    },
+    {
+      "timestamp_range": "01:11-01:21",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "你们赢了。这个国家最聪明的女性们。",
+      "transcript_en": "You win. The smartest women in the country.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气平淡而悲伤，'smartest women' 说得毫无自豪感，只有惋惜。",
+      "visual_cues": "眼神在学生中间游移，充满了遗憾。",
+      "evidence": "她不再讽刺，而是陈述一个令她心碎的事实：这些聪明的女性选择了平庸。"
+    },
+    {
+      "timestamp_range": "01:22-01:33",
+      "speaker_guess": "Katherine Watson",
+      "transcript_zh": "我没意识到，通过要求卓越，我会是在挑战...",
+      "transcript_en": "I didn't realize that by demanding excellence I would be challenging...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音哽咽，真诚而脆弱。",
+      "visual_cues": "面部特写，表情痛苦，她在反思自己的初衷与现实的冲突。",
+      "evidence": "她意识到自己的教学目标与学生们被灌输的价值观发生了根本性的冲突，这是一种痛苦的觉醒。"
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "summary": "警探文森特·汉纳（Vincent Hanna）与悍匪尼尔·麦考利（Neil McCauley）在餐厅面对面坐着，汉纳首先以一种近乎哲学的口吻承认了两人虽立场对立但本质相似的职业宿命。随后情绪发生关键转折，汉纳从惺惺相惜的平静转为冷酷的决绝，明确表示为了保护无辜者，他会毫不犹豫地击毙对方。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪从反思性的平静（00:00）过渡到带有遗憾的职业坦诚（00:15），最后在00:25处转变为一种极度冷静但充满压迫感的致命威胁。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "Vincent Hanna",
+      "transcript_zh": "你知道我们坐在这儿，你和我，就像两个普通人一样。你做你该做的，我做我必须做的。",
+      "transcript_en": "You know we're sitting here, you and I like a couple of regular fellas. You do what you do, I do what I gotta do.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "approval"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速平缓，音调低沉且带有沉思感，'regular fellas'处语气略带轻松。",
+      "visual_cues": "眼神有些游离后聚焦于对方，头部轻微晃动，咀嚼口香糖的动作表现出一种非正式的放松感。",
+      "evidence": "汉纳试图建立一种平等的对话基础，承认双方的角色定位，表现出一种基于现实的接受感。"
+    },
+    {
+      "timestamp_range": "00:09-00:22",
+      "speaker_guess": "Vincent Hanna",
+      "transcript_zh": "既然我们已经面对面了，如果我在场，而且必须把你干掉，我不会喜欢的。但我告诉你...",
+      "transcript_en": "And now that we've been face to face, if I'm there and I gotta put you away, I won't like it. But I'll tell you...",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "remorse",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "在说'I won't like it'时，声音变得更加柔和、真诚，随后在'But I'll tell you'处停顿，语气转硬。",
+      "visual_cues": "眼神紧锁对方，眉头微蹙，在表达不情愿时轻轻摇头，显示出对这种可能性的真实遗憾。",
+      "evidence": "汉纳表达了对对手的尊重，承认杀死对方会让他感到不快，这是一种职业操守与个人情感的复杂交织。"
+    },
+    {
+      "timestamp_range": "00:23-00:35",
+      "speaker_guess": "Vincent Hanna",
+      "transcript_zh": "如果是你和一个可怜虫之间二选一，而你会让那个人的妻子变成寡妇，兄弟，那你死定了。",
+      "transcript_en": "If it's between you and some poor bastard whose wife you're gonna turn into a widow, brother, you are going down.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disapproval",
+        "realization"
+      ],
+      "intensity": 5,
+      "audio_cues": "语速加快，重音强调'widow'和'brother'，最后的'going down'发音清晰、冷酷，没有任何犹豫。",
+      "visual_cues": "身体前倾，眼神变得锐利且不再眨眼，面部肌肉紧绷，传递出绝对的压迫感。",
+      "evidence": "尽管归类为Neutral（因为没有愤怒的吼叫），但这是极高强度的冷酷决心。汉纳划清了底线：在无辜生命和麦考利之间，他会毫不留情地选择前者。"
+    }
+  ]
+}
+```

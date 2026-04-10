@@ -1,0 +1,123 @@
+{
+  "lang": "en",
+  "film": "Hacksaw Ridge",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 4/Greatest Acting Monologues Of All Time PART 4.mp4",
+  "t_start_global": 3847.61,
+  "t_end_global": 3910.6,
+  "duration": 62.99,
+  "clip": "Hacksaw Ridge.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Because when the Japanese attacked Pearl Harbor, I took it personal.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 5.52,
+      "end": 8.54,
+      "text": "Everyone I knew was on fire to join up, including me.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 12.04,
+      "end": 17.13,
+      "text": "There were two men in my hometown, declared 4F unfit.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 17.23,
+      "end": 18.95,
+      "text": "They killed themselves because they couldn't serve.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 23.82,
+      "end": 25.5,
+      "text": "I had a job in a defense plant.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 25.56,
+      "end": 27.5,
+      "text": "I could have taken a deferment, but that ain't right.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 30.72,
+      "end": 33.64,
+      "text": "It isn't right that other men should fight and die",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 33.64,
+      "end": 37.04,
+      "text": "that I would just be sitting at home, safe.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 37.38,
+      "end": 38.24,
+      "text": "I need to serve.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 40.83,
+      "end": 43.15,
+      "text": "I got the energy and the passion to serve as a medic,",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 45.66,
+      "end": 47.04,
+      "text": "right in the middle with the other guys.",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 47.14,
+      "end": 51.84,
+      "text": "No less danger, just while everybody else is taking life,",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 51.94,
+      "end": 52.82,
+      "text": "I'm going to be saving it.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 56.89,
+      "end": 59.25,
+      "text": "With the world so set on tearing itself apart,",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 59.41,
+      "end": 61.21,
+      "text": "it doesn't seem like such a bad thing to me",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 61.21,
+      "end": 62.99,
+      "text": "to want to put a little bit of it back together.",
+      "filename": "segment016.mp4"
+    }
+  ]
+}

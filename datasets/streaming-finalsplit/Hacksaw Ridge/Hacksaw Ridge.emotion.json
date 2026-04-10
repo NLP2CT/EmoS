@@ -1,0 +1,104 @@
+```json
+{
+  "summary": "在军事法庭的听证会上，戴斯蒙德·多斯（Desmond Doss）站在法官面前，深情地辩护自己作为良心拒服兵役者却坚持参军的理由。他从珍珠港事件激发的爱国情怀讲起，叙述了家乡因无法服役而自杀的悲剧，最终坚定地表达了在充满杀戮的战场上作为医疗兵拯救生命的道德使命。情节从沉痛的个人回忆转折为对生命价值的崇高捍卫，氛围庄重且充满情感张力。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪由最初陈述事实时的严肃沉稳（00:00），转向提及自杀悲剧时的悲伤（00:12），随后在阐述参军意愿时转为坚定的渴望与责任感（00:31），最后在结尾处升华为一种悲天悯人的希望与关怀（00:56）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "Desmond Doss",
+      "transcript_zh": "因为当日本人袭击珍珠港时，我把它当作个人的事。我认识的每个人都急着去参军，包括我。",
+      "transcript_en": "Because when the Japanese attacked Pearl Harbor, I took it personal. Everyone I knew was on fire to join up, including me.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "pride"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速平稳，语气诚恳，但在说到'took it personal'时重音加强，显示出内在的决心。",
+      "visual_cues": "身体站得笔直，眼神直视前方，表情严肃认真，眉头微蹙。",
+      "evidence": "他正在向法庭解释他的动机，虽然情绪克制，但表达了强烈的爱国责任感。"
+    },
+    {
+      "timestamp_range": "00:12-00:23",
+      "speaker_guess": "Desmond Doss",
+      "transcript_zh": "我家乡有两个人被宣布为体格不合格（4-F），他们自杀了，因为他们无法服役。",
+      "transcript_en": "There were two men in my hometown declared 4-F unfit, they killed themselves 'cause they couldn't serve.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "sadness"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得低沉、柔和，语速放慢，句尾有轻微的停顿和吞咽声。",
+      "visual_cues": "视线向下移动，不再直视法官，频繁眨眼，喉结滚动，表现出痛苦的回忆。",
+      "evidence": "提及同乡因无法参军而自杀的悲剧，他的神态流露出明显的同情和哀伤。"
+    },
+    {
+      "timestamp_range": "00:24-00:30",
+      "speaker_guess": "Desmond Doss",
+      "transcript_zh": "我在国防工厂有份工作，我本可以申请延期服役，但这不对。",
+      "transcript_en": "I had a job in a defense plant, I could have taken a deferment, but that ain't right.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disapproval",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气重新变得坚定，'that ain't right'说得斩钉截铁。",
+      "visual_cues": "轻轻摇头，眼神重新聚焦在听证人员身上，眉头紧锁，显示出道德上的自我审判。",
+      "evidence": "他在否定自己安逸的选择，表现出对逃避责任的自我否定和不认同。"
+    },
+    {
+      "timestamp_range": "00:31-00:39",
+      "speaker_guess": "Desmond Doss",
+      "transcript_zh": "别人去战斗、去牺牲，而我却安全地坐在家里，这不对。我需要服役。",
+      "transcript_en": "It isn't right that other men should fight and die, that I would just be sitting at home safe. I need to serve.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "caring",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音略带颤抖，充满情感，'fight and die'处语气沉重，'I need to serve'则充满恳求与渴望。",
+      "visual_cues": "眼神急切地在法官之间游移，试图寻求理解，表情痛苦而真挚。",
+      "evidence": "他表达了对战友牺牲的愧疚感（如果他不参军的话）以及强烈的服役愿望。"
+    },
+    {
+      "timestamp_range": "00:40-00:55",
+      "speaker_guess": "Desmond Doss",
+      "transcript_zh": "我有精力和热情去当一名医疗兵。就在中间和其他人在一起，危险一点也不少，只是……当其他人都在夺取生命时，我将去拯救生命。",
+      "transcript_en": "I got the energy and the passion to serve as a medic. Right in the middle with the other guys, no less danger, just... while everybody else is taking life, I'm gonna be saving it.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "determination",
+        "pride"
+      ],
+      "intensity": 5,
+      "audio_cues": "语速加快，音量适度提高，语气中充满了力量和信念感。在'saving it'处语气尤为坚定。",
+      "visual_cues": "下巴微扬，眼神坚定不移，头部随着强调的词语轻微点动，展现出无畏的勇气。",
+      "evidence": "这是他核心论点的陈述，虽然归类为Neutral（严肃/坚定），但充满了想要救人的激情（Caring）和决心。"
+    },
+    {
+      "timestamp_range": "00:56-01:04",
+      "speaker_guess": "Desmond Doss",
+      "transcript_zh": "在这个世界如此决意要将自己撕裂的时候，我想把其中一部分重新拼凑起来，这对我来说似乎并不是什么坏事。",
+      "transcript_en": "With the world so set on tearing itself apart, it don't seem like such a bad thing to me to want to put a little bit of it back together.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "optimism",
+        "caring",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得柔和、感性，带有轻微的哽咽感，语调充满了悲悯。",
+      "visual_cues": "眼眶微湿，眼神中流露出一种超越战场的悲悯和希望，表情极其诚恳。",
+      "evidence": "他承认了世界的残酷（Sadness），但提出了修复世界的愿望（Optimism/Caring），这是一种基于悲伤之上的崇高理想。"
+    }
+  ]
+}
+```

@@ -1,0 +1,634 @@
+{
+  "lang": "zh",
+  "film": "走着瞧",
+  "source_rel": "电影《走着瞧》马杰独白片段 文章饰/电影《走着瞧》马杰独白片段 文章饰.mp4",
+  "t_start_global": 1045.86,
+  "t_end_global": 1326.69,
+  "duration": 280.83,
+  "clip": "走着瞧.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 0.7,
+      "text": "你行,",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 3.72,
+      "end": 4.44,
+      "text": "你还真行,",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 6.9,
+      "end": 8.64,
+      "text": "我都有点佩服你了,",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 12.27,
+      "end": 13.33,
+      "text": "你做的这一切,",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 14.23,
+      "end": 16.35,
+      "text": "每一件事都出乎我的意料,",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 18.03,
+      "end": 20.91,
+      "text": "事后你还做得跟没事似的,",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 21.97,
+      "end": 23.53,
+      "text": "你的目的是什么呀?",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 26.14,
+      "end": 26.9,
+      "text": "你的目的,",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 27.56,
+      "end": 29.78,
+      "text": "就是要置我于死地而后快,",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 30.88,
+      "end": 31.58,
+      "text": "对吗?",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 35.68,
+      "end": 36.16,
+      "text": "但是,",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 37.86,
+      "end": 39.98,
+      "text": "但是每一次我都挺过了,",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 43.52,
+      "end": 44.78,
+      "text": "我历经磨难,",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 45.36,
+      "end": 46.98,
+      "text": "我依然站在你的面前,",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 49.14,
+      "end": 49.64,
+      "text": "看着我,",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 50.64,
+      "end": 51.26,
+      "text": "看着我,",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 56.4,
+      "end": 57.3,
+      "text": "头一回,",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 58.18,
+      "end": 59.84,
+      "text": "你弄倒牲口棚,",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 61.1,
+      "end": 62.06,
+      "text": "幸亏我命大,",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 62.8,
+      "end": 64.66,
+      "text": "我掉到井里我逃过一劫,",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 67.63,
+      "end": 68.09,
+      "text": "二一回,",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 70.34,
+      "end": 72.5,
+      "text": "二一回你用大粪浇我,",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 73.68,
+      "end": 74.76,
+      "text": "你让我恶心,",
+      "filename": "segment023.mp4"
+    },
+    {
+      "index": 24,
+      "start": 76.06,
+      "end": 78.38,
+      "text": "你害得我一个月都不敢看绿色,",
+      "filename": "segment024.mp4"
+    },
+    {
+      "index": 25,
+      "start": 79.64,
+      "end": 80.4,
+      "text": "可是现在呢,",
+      "filename": "segment025.mp4"
+    },
+    {
+      "index": 26,
+      "start": 81.24,
+      "end": 82.38,
+      "text": "我不怕了,",
+      "filename": "segment026.mp4"
+    },
+    {
+      "index": 27,
+      "start": 83.78,
+      "end": 85.38,
+      "text": "我粉碎了你的阴谋,",
+      "filename": "segment027.mp4"
+    },
+    {
+      "index": 28,
+      "start": 88.63,
+      "end": 89.27,
+      "text": "三一回,",
+      "filename": "segment028.mp4"
+    },
+    {
+      "index": 29,
+      "start": 93.91,
+      "end": 96.01,
+      "text": "三一回你让我和彩凤,",
+      "filename": "segment029.mp4"
+    },
+    {
+      "index": 30,
+      "start": 96.85,
+      "end": 100.63,
+      "text": "在那样一种特殊的环境下当众出丑,",
+      "filename": "segment030.mp4"
+    },
+    {
+      "index": 31,
+      "start": 103.72,
+      "end": 106.1,
+      "text": "你让全村人民耻笑我们,",
+      "filename": "segment031.mp4"
+    },
+    {
+      "index": 32,
+      "start": 108.34,
+      "end": 113.51,
+      "text": "人彩凤是一姑娘啊,",
+      "filename": "segment032.mp4"
+    },
+    {
+      "index": 33,
+      "start": 115.33,
+      "end": 118.93,
+      "text": "你有什么话你冲我屎啊,",
+      "filename": "segment033.mp4"
+    },
+    {
+      "index": 34,
+      "start": 121.11,
+      "end": 123.25,
+      "text": "你干嘛要捎带着她啊,",
+      "filename": "segment034.mp4"
+    },
+    {
+      "index": 35,
+      "start": 126.59,
+      "end": 127.27,
+      "text": "觉得不觉得,",
+      "filename": "segment035.mp4"
+    },
+    {
+      "index": 36,
+      "start": 132.1,
+      "end": 134.24,
+      "text": "你这是在犯罪啊,",
+      "filename": "segment036.mp4"
+    },
+    {
+      "index": 37,
+      "start": 141.08,
+      "end": 142.0,
+      "text": "树欲静,",
+      "filename": "segment037.mp4"
+    },
+    {
+      "index": 38,
+      "start": 143.12,
+      "end": 144.12,
+      "text": "而风不止,",
+      "filename": "segment038.mp4"
+    },
+    {
+      "index": 39,
+      "start": 146.18,
+      "end": 146.58,
+      "text": "我知道,",
+      "filename": "segment039.mp4"
+    },
+    {
+      "index": 40,
+      "start": 147.3,
+      "end": 149.1,
+      "text": "我知道你做这一切是为了你哥,",
+      "filename": "segment040.mp4"
+    },
+    {
+      "index": 41,
+      "start": 151.44,
+      "end": 152.4,
+      "text": "在你哥这事之后,",
+      "filename": "segment041.mp4"
+    },
+    {
+      "index": 42,
+      "start": 152.66,
+      "end": 153.94,
+      "text": "我本想息事宁人,",
+      "filename": "segment042.mp4"
+    },
+    {
+      "index": 43,
+      "start": 155.36,
+      "end": 155.84,
+      "text": "可你呢,",
+      "filename": "segment043.mp4"
+    },
+    {
+      "index": 44,
+      "start": 156.26,
+      "end": 157.92,
+      "text": "可你就是不肯放过我,",
+      "filename": "segment044.mp4"
+    },
+    {
+      "index": 45,
+      "start": 159.02,
+      "end": 159.28,
+      "text": "为什么,",
+      "filename": "segment045.mp4"
+    },
+    {
+      "index": 46,
+      "start": 159.96,
+      "end": 162.04,
+      "text": "我跟你哪来那么大仇啊,",
+      "filename": "segment046.mp4"
+    },
+    {
+      "index": 47,
+      "start": 163.18,
+      "end": 164.22,
+      "text": "我问你呢,",
+      "filename": "segment047.mp4"
+    },
+    {
+      "index": 48,
+      "start": 168.16,
+      "end": 170.16,
+      "text": "你觉得是我要杀你哥对吗,",
+      "filename": "segment048.mp4"
+    },
+    {
+      "index": 49,
+      "start": 172.24,
+      "end": 173.52,
+      "text": "我现在告诉你,",
+      "filename": "segment049.mp4"
+    },
+    {
+      "index": 50,
+      "start": 173.78,
+      "end": 175.1,
+      "text": "我也是被逼的,",
+      "filename": "segment050.mp4"
+    },
+    {
+      "index": 51,
+      "start": 175.26,
+      "end": 176.7,
+      "text": "是大连让我杀你哥,",
+      "filename": "segment051.mp4"
+    },
+    {
+      "index": 52,
+      "start": 179.06,
+      "end": 180.14,
+      "text": "我替你哥求过情,",
+      "filename": "segment052.mp4"
+    },
+    {
+      "index": 53,
+      "start": 181.14,
+      "end": 181.68,
+      "text": "没用,",
+      "filename": "segment053.mp4"
+    },
+    {
+      "index": 54,
+      "start": 182.76,
+      "end": 185.0,
+      "text": "你知道你哥临死之前我跟他说什么吗,",
+      "filename": "segment054.mp4"
+    },
+    {
+      "index": 55,
+      "start": 186.12,
+      "end": 188.02,
+      "text": "我跟他说我用闸刀杀他,",
+      "filename": "segment055.mp4"
+    },
+    {
+      "index": 56,
+      "start": 188.22,
+      "end": 189.56,
+      "text": "是为了让他死得痛快,",
+      "filename": "segment056.mp4"
+    },
+    {
+      "index": 57,
+      "start": 190.52,
+      "end": 191.74,
+      "text": "多他妈仁义啊,",
+      "filename": "segment057.mp4"
+    },
+    {
+      "index": 58,
+      "start": 192.88,
+      "end": 193.46,
+      "text": "你知道吗,",
+      "filename": "segment058.mp4"
+    },
+    {
+      "index": 59,
+      "start": 194.16,
+      "end": 194.74,
+      "text": "你不知道,",
+      "filename": "segment059.mp4"
+    },
+    {
+      "index": 60,
+      "start": 194.74,
+      "end": 195.96,
+      "text": "你哥知道,",
+      "filename": "segment060.mp4"
+    },
+    {
+      "index": 61,
+      "start": 199.07,
+      "end": 199.79,
+      "text": "我再说说你那哥,",
+      "filename": "segment061.mp4"
+    },
+    {
+      "index": 62,
+      "start": 200.93,
+      "end": 202.81,
+      "text": "你那哥也不是什么好东西,",
+      "filename": "segment062.mp4"
+    },
+    {
+      "index": 63,
+      "start": 204.03,
+      "end": 206.25,
+      "text": "成天交涉淫逸无所作为,",
+      "filename": "segment063.mp4"
+    },
+    {
+      "index": 64,
+      "start": 206.51,
+      "end": 208.15,
+      "text": "冒充皇帝以配种为生,",
+      "filename": "segment064.mp4"
+    },
+    {
+      "index": 65,
+      "start": 209.17,
+      "end": 210.55,
+      "text": "那姑娘换的,",
+      "filename": "segment065.mp4"
+    },
+    {
+      "index": 66,
+      "start": 210.97,
+      "end": 213.29,
+      "text": "一年一波一年一波啊,",
+      "filename": "segment066.mp4"
+    },
+    {
+      "index": 67,
+      "start": 214.05,
+      "end": 215.63,
+      "text": "自己有多少儿子她都不知道,",
+      "filename": "segment067.mp4"
+    },
+    {
+      "index": 68,
+      "start": 215.93,
+      "end": 216.91,
+      "text": "这就是你那哥,",
+      "filename": "segment068.mp4"
+    },
+    {
+      "index": 69,
+      "start": 218.29,
+      "end": 219.43,
+      "text": "什么东西,",
+      "filename": "segment069.mp4"
+    },
+    {
+      "index": 70,
+      "start": 222.03,
+      "end": 223.83,
+      "text": "我原来以为你就是一头驴,",
+      "filename": "segment070.mp4"
+    },
+    {
+      "index": 71,
+      "start": 225.15,
+      "end": 227.53,
+      "text": "可是后来我发现你不是一头驴,",
+      "filename": "segment071.mp4"
+    },
+    {
+      "index": 72,
+      "start": 229.35,
+      "end": 231.87,
+      "text": "但是现在我一看你还是一头驴,",
+      "filename": "segment072.mp4"
+    },
+    {
+      "index": 73,
+      "start": 234.39,
+      "end": 236.17,
+      "text": "你把你驴眼睁开看看,",
+      "filename": "segment073.mp4"
+    },
+    {
+      "index": 74,
+      "start": 236.75,
+      "end": 239.21,
+      "text": "这些东西哪个不能要了你的驴命,",
+      "filename": "segment074.mp4"
+    },
+    {
+      "index": 75,
+      "start": 240.61,
+      "end": 241.73,
+      "text": "我告诉你,",
+      "filename": "segment075.mp4"
+    },
+    {
+      "index": 76,
+      "start": 242.09,
+      "end": 245.45,
+      "text": "你在我头上撒尿拉屎拉稀我都认,",
+      "filename": "segment076.mp4"
+    },
+    {
+      "index": 77,
+      "start": 246.79,
+      "end": 249.01,
+      "text": "但是你不能拉利己啊,",
+      "filename": "segment077.mp4"
+    },
+    {
+      "index": 78,
+      "start": 249.55,
+      "end": 250.73,
+      "text": "这他妈传染,",
+      "filename": "segment078.mp4"
+    },
+    {
+      "index": 79,
+      "start": 252.25,
+      "end": 253.51,
+      "text": "一会儿你见了你哥,",
+      "filename": "segment079.mp4"
+    },
+    {
+      "index": 80,
+      "start": 254.35,
+      "end": 255.59,
+      "text": "你跟他说说,",
+      "filename": "segment080.mp4"
+    },
+    {
+      "index": 81,
+      "start": 256.35,
+      "end": 257.95,
+      "text": "你他妈让他评评理,",
+      "filename": "segment081.mp4"
+    },
+    {
+      "index": 82,
+      "start": 258.85,
+      "end": 259.29,
+      "text": "嗯,",
+      "filename": "segment082.mp4"
+    },
+    {
+      "index": 83,
+      "start": 263.37,
+      "end": 266.71,
+      "text": "什么时候妈急啊,",
+      "filename": "segment083.mp4"
+    },
+    {
+      "index": 84,
+      "start": 266.77,
+      "end": 267.63,
+      "text": "你要羞羞啊,",
+      "filename": "segment084.mp4"
+    },
+    {
+      "index": 85,
+      "start": 269.75,
+      "end": 270.63,
+      "text": "没有啊,",
+      "filename": "segment085.mp4"
+    },
+    {
+      "index": 86,
+      "start": 271.83,
+      "end": 272.37,
+      "text": "我给你是,",
+      "filename": "segment086.mp4"
+    },
+    {
+      "index": 87,
+      "start": 272.91,
+      "end": 275.27,
+      "text": "从今往后饲养员的司机,",
+      "filename": "segment087.mp4"
+    },
+    {
+      "index": 88,
+      "start": 275.59,
+      "end": 276.83,
+      "text": "你就不要干了,",
+      "filename": "segment088.mp4"
+    },
+    {
+      "index": 89,
+      "start": 279.15,
+      "end": 280.83,
+      "text": "哈哈哈哈哈哈哈哈,",
+      "filename": "segment089.mp4"
+    }
+  ]
+}

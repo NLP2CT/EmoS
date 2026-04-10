@@ -1,0 +1,74 @@
+{
+  "lang": "zh",
+  "film": "堂吉诃德",
+  "source_rel": "可假如他是个看骑士小说的，那么一分钱都不给他…/BV1TrLdzoEuS.mp4",
+  "t_start_global": 89.89,
+  "t_end_global": 138.29,
+  "duration": 48.4,
+  "clip": "堂吉诃德.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 3.16,
+      "text": "没错,我的名字叫做唐吉赫德。",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 3.16,
+      "end": 8.36,
+      "text": "我会成为这个世界上最英勇、最无畏、最强大的骑士。",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 8.82,
+      "end": 15.48,
+      "text": "那么旁边这位亲爱的桑丘先生,我亲爱的侍从,你做好准备了吗?",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 15.92,
+      "end": 19.44,
+      "text": "那么再为我重复一遍,骑士的美德是什么?",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 19.98,
+      "end": 26.04,
+      "text": "荣耀既是生命,灵敏胜于征服,勇气直面深渊,",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 26.04,
+      "end": 33.7,
+      "text": "公正如同天平,灵魂璀璨虔诚,忠诚永不腐朽,",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 34.1,
+      "end": 38.7,
+      "text": "谦逊铸就丰卑,气盛点燃永恒。",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 38.999,
+      "end": 43.9,
+      "text": "很好,那么现在拿起我们的武器,抓好坐骑的缰绳,",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 44.24,
+      "end": 48.4,
+      "text": "看到前面那个巨人了吗?冲锋!",
+      "filename": "segment009.mp4"
+    }
+  ]
+}

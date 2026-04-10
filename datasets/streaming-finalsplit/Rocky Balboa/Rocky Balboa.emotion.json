@@ -1,0 +1,139 @@
+```json
+{
+  "summary": "本片段展示了洛奇（Rocky）在深夜街头对儿子进行的一场深刻的父子对话。洛奇从回忆儿子出生的美好开始，转而严厉地批评儿子现在的受害者心态，随后发表了关于坚韧和自我价值的激情演讲，最后以深情的告白和含泪的鼓励结束。情绪从怀旧的温情转为严厉的失望，推向激昂的励志高潮，最终回归脆弱的爱意。",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "情绪起伏剧烈：00:00-00:23为温和的怀旧与自豪（Joy/Love）；00:24-00:52转为严厉的失望与现实说教（Sadness/Anger）；00:53-01:24情绪爆发，达到激昂的励志高潮（Anger/Optimism）；01:25-01:54迅速回落至极度感性的脆弱与爱意（Sadness/Love）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:13",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "你可能不信，但你以前只有这么大。我会把你举起来对你妈妈说：‘这孩子会是世界上最好的孩子，这孩子会成为超越所有人的大人物。’",
+      "transcript_en": "You ain't gonna believe this, but you used to fit right here. I'd hold you up to say to your mother, 'This kid's gonna be the best kid in the world. This kid's gonna be somebody better than anybody ever knew.'",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "pride",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音柔和，语速缓慢，带有怀旧的温暖色调。",
+      "visual_cues": "用手比划婴儿的大小，眼神温柔地看着手掌，然后看向儿子，面带微笑。",
+      "evidence": "洛奇回忆儿子出生时的情景，语气中充满了作为父亲的自豪和对过去的眷恋。"
+    },
+    {
+      "timestamp_range": "00:14-00:23",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "你长得很好，很棒。看着你长大很棒，每一天都像是一种荣幸。然后是你成为男子汉去闯荡世界的时候了，你也做到了。",
+      "transcript_en": "And you grew up good and wonderful. It was great just watching, every day was like a privilege. Then the time come for you to be your own man and take on the world, and you did.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "approval",
+        "pride",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气肯定，音调略微上扬，强调'privilege'和'did'。",
+      "visual_cues": "点头确认，摊开双手表示认可，眼神坚定地看着儿子。",
+      "evidence": "他对儿子的成长表示认可，情绪依然保持在积极和赞赏的层面。"
+    },
+    {
+      "timestamp_range": "00:24-00:39",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "但在这个过程中，你变了。你不再是你了。你让别人指着你的鼻子说你不行。当事情变得困难时，你开始寻找责怪的对象，就像一个巨大的阴影。",
+      "transcript_en": "But somewhere along the line, you changed. You stopped bein' you. You let people stick a finger in your face and tell you you're no good. And when things got hard, you started lookin' for somethin' to blame, like a big shadow.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "disapproval",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "音调降低，语速变慢，语气变得沉重和严肃。",
+      "visual_cues": "眉头紧锁，用手指着儿子，眼神中流露出失望，头部轻微摇晃。",
+      "evidence": "情绪发生转折，从赞赏转为失望。洛奇指出了儿子的性格缺陷，语气中带着恨铁不成钢的悲伤。"
+    },
+    {
+      "timestamp_range": "00:40-00:52",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "让我告诉你一些你已经知道的事。这世界不全是阳光和彩虹。这是一个非常卑鄙肮脏的地方，我不管你有多强硬，如果你让它得逞，它会把你打得跪地不起，让你永远起不来。",
+      "transcript_en": "Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval",
+        "nervousness"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得沙哑且严厉，音量逐渐提高，语气充满警告意味。",
+      "visual_cues": "身体前倾，眼神犀利，面部肌肉紧绷，手势变得僵硬。",
+      "evidence": "洛奇开始描述世界的残酷，情绪变得严厉（Anger分类在此处代表严厉的说教和警告），试图唤醒儿子。"
+    },
+    {
+      "timestamp_range": "00:53-01:09",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "你、我、任何人都没法打得像生活一样重。但这不在于你出拳多重。而在于你能挨多重的拳还能继续向前！你能承受多少还能继续向前！这才是赢家该做的！",
+      "transcript_en": "You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep movin' forward. How much you can take and keep movin' forward. That's how winnin' is done!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "optimism",
+        "excitement",
+        "pride"
+      ],
+      "intensity": 5,
+      "audio_cues": "近乎咆哮，声音洪亮有力，节奏感极强，充满激情。",
+      "visual_cues": "用力拍打自己的胸口，挥舞手臂，下巴突出，眼神极度坚定。",
+      "evidence": "这是全片的高潮。虽然Primary选为Anger（基于高唤醒度和激烈的表达方式），但其内核是极度的激励和坚韧（Optimism/Determination）。"
+    },
+    {
+      "timestamp_range": "01:10-01:24",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "现在如果你知道你的价值，就去争取你的价值。但你得愿意挨打，而不是指着别人说你没成功是因为他、她或任何人！懦夫才那么做，那不是你！你比那要强！",
+      "transcript_en": "Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointin' fingers sayin' you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "caring",
+        "admiration"
+      ],
+      "intensity": 5,
+      "audio_cues": "持续的高音量，语速极快，语气在'Cowards do that'时达到顶峰。",
+      "visual_cues": "频繁的手指指点动作，身体逼近儿子，眼神中既有愤怒（对懦弱行为）也有期望。",
+      "evidence": "这是“严父”的时刻，通过激烈的否定（指责懦夫行为）来反向激励儿子，表达方式极具攻击性但目的是关爱。"
+    },
+    {
+      "timestamp_range": "01:25-01:42",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "无论如何我都会永远爱你。无论发生什么。你是我的儿子，你是我的骨肉。你是我生命中最美好的事物。",
+      "transcript_en": "I'm always gonna love you no matter what. No matter what happens. You're my son and you're my blood. You're the best thing in my life.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "love",
+        "caring",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音突然破碎，变成哽咽的低语，音量骤降。",
+      "visual_cues": "眼眶含泪，眼神变得极其柔软和脆弱，身体姿态放松，不再具有攻击性。",
+      "evidence": "情绪急转直下，从激昂的说教转为极度感性的告白。Primary选Sadness是因为其表现形式（哽咽、泪水），但核心情感是深沉的Love。"
+    },
+    {
+      "timestamp_range": "01:43-01:54",
+      "speaker_guess": "Rocky",
+      "transcript_zh": "但直到你开始相信你自己，你才会有真正的人生。别忘了去看你妈妈。",
+      "transcript_en": "But until you start believin' in yourself, you ain't gonna have a life. Don't forget to visit your mother.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "optimism",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "声音恢复平静，恢复正常的说话音量，语气平和。",
+      "visual_cues": "转身离开，背影显得有些沉重但坚定，最后回头看了一眼。",
+      "evidence": "激情和感性过后，回归平静的建议。这是一种冷静的收尾，留给儿子思考的空间。"
+    }
+  ]
+}
+```

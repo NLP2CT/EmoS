@@ -1,0 +1,146 @@
+```json
+{
+  "summary": "威尔（Will）试图用不在乎和逞强的态度来掩饰父亲再次抛弃他所带来的痛苦，向菲尔叔叔（Uncle Phil）列举自己没有父亲也能取得的成就。然而，这种防御性的愤怒逐渐瓦解，最终他在情感崩溃中流泪，问出了内心最深处的痛楚：“为什么他不要我？”",
+  "overall_emotion_trend": {
+    "dominant": "Sadness/伤心",
+    "trajectory": "从最初的强颜欢笑（00:02）迅速转变为防御性的愤怒与骄傲（00:31），情绪强度不断攀升直至爆发（00:48），最后防御彻底崩塌，转为极度脆弱的悲伤与哀痛（01:20）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:02-00:07",
+      "speaker_guess": "Will",
+      "transcript_zh": "你知道吗，其实这样对我更好。你知道，如果整个夏天都有个穿得很少的瘦子来班上，那多尴尬。",
+      "transcript_en": "You know what, actually this works out better for me, you know. The slimmies of summer come to class wearing next to nothing, you know what I'm saying?",
+      "emotion_primary": "Neutral/自然",
+      "emotion_secondary": [
+        "optimism",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速轻快，音调上扬，试图表现出轻松和无所谓。",
+      "visual_cues": "整理衣领，身体晃动，避免眼神深度接触，试图用肢体语言表现潇洒。",
+      "evidence": "威尔试图通过谈论女孩和夏天来转移话题，假装父亲的离开对他没有负面影响，这是一种典型的情感隔离防御机制。"
+    },
+    {
+      "timestamp_range": "00:08-00:12",
+      "speaker_guess": "Will",
+      "transcript_zh": "嘿，我为什么要生气？我是说，至少这次他说了再见。",
+      "transcript_en": "Hey, why should I be mad? I'm saying, at least he said goodbye this time.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "annoyance",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "反问句语气尖锐，重音落在“mad”和“goodbye”上，带有讽刺意味。",
+      "visual_cues": "摊开双手，做出夸张的困惑表情，试图用理智压抑情感。",
+      "evidence": "虽然嘴上说不生气，但通过对比“这次至少说了再见”，暗示了对过去不告而别的怨恨，讽刺的口吻暴露了内心的不满。"
+    },
+    {
+      "timestamp_range": "00:13-00:17",
+      "speaker_guess": "Will",
+      "transcript_zh": "我只是希望我没浪费钱买这个愚蠢的礼物。",
+      "transcript_en": "I just wish I hadn't wasted my money buying this stupid present.",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "disappointment",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音低沉下来，语气中带着遗憾和自我厌恶。",
+      "visual_cues": "低头看着手中的礼物，动作变得迟缓，随后将礼物扔在沙发上。",
+      "evidence": "提到“愚蠢的礼物”是对自己付出感情却被辜负的自嘲，此时愤怒转为具体的失落感。"
+    },
+    {
+      "timestamp_range": "00:22-00:30",
+      "speaker_guess": "Will",
+      "transcript_zh": "嘿，你知道吗，你什么都不用做，菲尔叔叔。又不是说我还是五岁小孩，你知道吗？又不是说我会每晚坐着问妈妈“爸爸什么时候回家”。",
+      "transcript_en": "Hey, you know what? You ain't got to do nothing, Uncle Phil. Ain't like I'm still five years old, you know? Ain't like I'm gonna be sitting up every night asking my mom 'When's daddy coming home?'",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "defensive",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速加快，音量提高，语气变得急促且具有攻击性。",
+      "visual_cues": "快速转身面对菲尔，手势频繁，身体前倾，表现出强烈的防御姿态。",
+      "evidence": "他通过否认自己像个孩子一样需要父亲，试图切断与父亲的情感依赖，但这种过度的否认恰恰暴露了内心的创伤。"
+    },
+    {
+      "timestamp_range": "00:31-00:44",
+      "speaker_guess": "Will",
+      "transcript_zh": "谁需要他？嘿，他没教我投进第一个球，但我学会了，不是吗？我还挺厉害的，对吧菲尔叔叔？没有他我也度过了第一次约会！我学会了开车，学会了刮胡子，学会了打架，全都没靠他！",
+      "transcript_en": "Who needs him? Hey, he wasn't there to teach me how to shoot my first basket but I learned, didn't I? Hey I got pretty damn good at it too, didn't I Uncle Phil? Got through my first date without him! I learned how to drive, I learned how to shave, I learned how to fight without him!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "pride",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音逐渐演变为喊叫，呼吸急促，每列举一项成就音量就提高一分。",
+      "visual_cues": "在房间内来回踱步，手指指点点，眼神犀利，试图通过列举成就来证明自我价值。",
+      "evidence": "这是一段经典的宣泄，他用“骄傲”作为武器来攻击缺席的父亲。愤怒源于不得不独自面对成长的艰辛。"
+    },
+    {
+      "timestamp_range": "00:44-00:49",
+      "speaker_guess": "Will",
+      "transcript_zh": "我有十四个很棒的生日都没有他，他甚至连张该死的卡片都没寄过！去他的吧！",
+      "transcript_en": "I had fourteen great birthdays without him. He never even sent me a damn card! TO HELL WITH HIM!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "anger",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "咆哮，声音嘶哑，最后一句“To hell with him”是情绪的最高点。",
+      "visual_cues": "身体剧烈颤抖，脖子上青筋暴起，最后停下脚步，身体僵硬。",
+      "evidence": "提到生日卡片是具体的忽视证据，愤怒在此刻达到顶峰，掩盖了底层的极度悲伤。"
+    },
+    {
+      "timestamp_range": "00:54-00:56",
+      "speaker_guess": "Will",
+      "transcript_zh": "我那时不需要他，我现在也不需要他。",
+      "transcript_en": "I didn't need him then and I don't need him now.",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "disappointment",
+        "sadness"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音突然变小，带着明显的哭腔和颤抖，呼吸不稳。",
+      "visual_cues": "低头，避开菲尔的目光，肩膀塌陷，之前的气势瞬间消失。",
+      "evidence": "虽然台词内容依然是拒绝，但语气的软化和哭腔表明防御已经破裂，悲伤开始占据主导。"
+    },
+    {
+      "timestamp_range": "00:57-01:13",
+      "speaker_guess": "Will",
+      "transcript_zh": "不，你知道吗菲尔叔叔？没有他我也能读完大学，我会找到一份好工作，我会娶个漂亮的姑娘，生一堆孩子，我会成为比他好得多的父亲！我绝对不需要他，因为他永远教不会我怎么去爱我的孩子！",
+      "transcript_en": "No, you know what, Uncle Phil? I'm gonna get through college without him, I'm gonna get a great job without him, I'm gonna marry me a beautiful honey, and I'm having me a whole bunch of kids. I'll be a better father than he ever was! And I sure as hell don't need him for that, 'cause ain't a damn thing he could ever teach me about how to love my kids!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "grief",
+        "determination"
+      ],
+      "intensity": 5,
+      "audio_cues": "一边流泪一边大喊，声音哽咽但充满力量，试图用对未来的承诺来填补现在的空虚。",
+      "visual_cues": "流泪，手势再次变得激烈，摘下帽子摔在地上（画面外动作暗示），直视菲尔叔叔。",
+      "evidence": "这是一种混合了悲伤的愤怒。他通过发誓成为比父亲更好的人来报复父亲的忽视，但“爱孩子”这个话题直接触及了他最缺失的部分。"
+    },
+    {
+      "timestamp_range": "01:20-01:23",
+      "speaker_guess": "Will",
+      "transcript_zh": "为什么他不要我，伙计？",
+      "transcript_en": "How come he don't want me, man?",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "grief",
+        "sadness"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音微弱，破碎，回归到孩子般的无助语气。",
+      "visual_cues": "嘴唇颤抖，满脸泪水，彻底卸下防备，随后倒向菲尔叔叔寻求拥抱。",
+      "evidence": "这是整段表演的核心。所有的愤怒、骄傲、成就列表都只是为了掩盖这个简单而令人心碎的问题。这是纯粹的、未加掩饰的被遗弃感。"
+    }
+  ]
+}
+```

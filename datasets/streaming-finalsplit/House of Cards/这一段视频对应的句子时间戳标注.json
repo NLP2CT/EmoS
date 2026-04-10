@@ -1,0 +1,417 @@
+{
+  "lang": "en",
+  "film": "House of Cards",
+  "source_rel": "下木的独白，算是纸牌屋的经典/下木的独白，算是纸牌屋的经典.mp4",
+  "t_start_global": 4686.31,
+  "t_end_global": 4800.36,
+  "duration": 114.05,
+  "clip": "House of Cards.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 1.88,
+      "text": "The people are angry.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 2.64,
+      "end": 3.6,
+      "text": "Nine weeks ago,",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 3.7,
+      "end": 5.18,
+      "text": "we had an election for this country,",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 5.32,
+      "end": 7.7,
+      "text": "but because two states refused to certify,",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 8.26,
+      "end": 9.68,
+      "text": "neither Conway nor myself",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 9.68,
+      "end": 12.08,
+      "text": "received the 270 electoral votes",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 12.08,
+      "end": 13.46,
+      "text": "required for victory.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 13.46,
+      "end": 15.9,
+      "text": "So they gather here every morning",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 15.9,
+      "end": 18.62,
+      "text": "to exercise their magnificent right,",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 19.14,
+      "end": 20.9,
+      "text": "guaranteed by the First Amendment,",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 21.8,
+      "end": 23.7,
+      "text": "to let their angry voices",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 24.2,
+      "end": 25.2,
+      "text": "be heard.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 27.14,
+      "end": 29.14,
+      "text": "And so Thanksgiving,",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 29.64,
+      "end": 31.52,
+      "text": "Christmas, and half of January",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 31.52,
+      "end": 32.62,
+      "text": "have come and gone,",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 32.82,
+      "end": 34.6,
+      "text": "and all three branches of government",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 34.6,
+      "end": 35.5,
+      "text": "are in crisis.",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 36.0,
+      "end": 37.42,
+      "text": "The Congress is in disarray,",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 37.8,
+      "end": 39.4,
+      "text": "the Supreme Court is down to justice",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 39.4,
+      "end": 40.48,
+      "text": "and doomed to deadlock,",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 40.82,
+      "end": 41.92,
+      "text": "and the executive branch",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 41.92,
+      "end": 43.46,
+      "text": "is without a boss.",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 45.0,
+      "end": 46.2,
+      "text": "You see, my feeling is,",
+      "filename": "segment023.mp4"
+    },
+    {
+      "index": 24,
+      "start": 46.28,
+      "end": 47.5,
+      "text": "I think the Founding Fathers,",
+      "filename": "segment024.mp4"
+    },
+    {
+      "index": 25,
+      "start": 47.64,
+      "end": 48.76,
+      "text": "they just got tired,",
+      "filename": "segment025.mp4"
+    },
+    {
+      "index": 26,
+      "start": 49.28,
+      "end": 50.64,
+      "text": "and really, can you blame them?",
+      "filename": "segment026.mp4"
+    },
+    {
+      "index": 27,
+      "start": 50.74,
+      "end": 52.1,
+      "text": "I mean, you can't think of everything.",
+      "filename": "segment027.mp4"
+    },
+    {
+      "index": 28,
+      "start": 52.46,
+      "end": 54.28,
+      "text": "Black Swan's Murphy's Law,",
+      "filename": "segment028.mp4"
+    },
+    {
+      "index": 29,
+      "start": 54.42,
+      "end": 55.2,
+      "text": "I mean, at a certain point,",
+      "filename": "segment029.mp4"
+    },
+    {
+      "index": 30,
+      "start": 55.26,
+      "end": 56.24,
+      "text": "you just have to sign off",
+      "filename": "segment030.mp4"
+    },
+    {
+      "index": 31,
+      "start": 56.24,
+      "end": 58.3,
+      "text": "and cross your goddamn fingers",
+      "filename": "segment031.mp4"
+    },
+    {
+      "index": 32,
+      "start": 58.3,
+      "end": 59.34,
+      "text": "and hope for the best.",
+      "filename": "segment032.mp4"
+    },
+    {
+      "index": 33,
+      "start": 60.54,
+      "end": 61.92,
+      "text": "Or adopt flipism,",
+      "filename": "segment033.mp4"
+    },
+    {
+      "index": 34,
+      "start": 61.92,
+      "end": 64.02,
+      "text": "a pseudo-philosophy of life",
+      "filename": "segment034.mp4"
+    },
+    {
+      "index": 35,
+      "start": 64.02,
+      "end": 65.48,
+      "text": "in which the most important decisions",
+      "filename": "segment035.mp4"
+    },
+    {
+      "index": 36,
+      "start": 65.48,
+      "end": 67.96,
+      "text": "are made by the flipping of a coin.",
+      "filename": "segment036.mp4"
+    },
+    {
+      "index": 37,
+      "start": 68.54,
+      "end": 69.54,
+      "text": "It was first introduced",
+      "filename": "segment037.mp4"
+    },
+    {
+      "index": 38,
+      "start": 69.54,
+      "end": 71.06,
+      "text": "in the Disney comic book,",
+      "filename": "segment038.mp4"
+    },
+    {
+      "index": 39,
+      "start": 71.22,
+      "end": 72.8,
+      "text": "Flip Decision, one of my favorites,",
+      "filename": "segment039.mp4"
+    },
+    {
+      "index": 40,
+      "start": 73.16,
+      "end": 74.84,
+      "text": "in which Donald Duck is persuaded",
+      "filename": "segment040.mp4"
+    },
+    {
+      "index": 41,
+      "start": 74.84,
+      "end": 76.7,
+      "text": "by Professor Batten to make",
+      "filename": "segment041.mp4"
+    },
+    {
+      "index": 42,
+      "start": 76.7,
+      "end": 78.12,
+      "text": "all the most important decisions",
+      "filename": "segment042.mp4"
+    },
+    {
+      "index": 43,
+      "start": 78.12,
+      "end": 79.92,
+      "text": "based on the flipping of a coin.",
+      "filename": "segment043.mp4"
+    },
+    {
+      "index": 44,
+      "start": 80.56,
+      "end": 81.76,
+      "text": "Life is but a gamble.",
+      "filename": "segment044.mp4"
+    },
+    {
+      "index": 45,
+      "start": 82.42,
+      "end": 84.48,
+      "text": "Let flipism guide your ramble.",
+      "filename": "segment045.mp4"
+    },
+    {
+      "index": 46,
+      "start": 86.69,
+      "end": 88.59,
+      "text": "We've had this sort of trouble before.",
+      "filename": "segment046.mp4"
+    },
+    {
+      "index": 47,
+      "start": 89.03,
+      "end": 90.25,
+      "text": "The election of 1800,",
+      "filename": "segment047.mp4"
+    },
+    {
+      "index": 48,
+      "start": 90.25,
+      "end": 92.21,
+      "text": "Jefferson versus Byrne,",
+      "filename": "segment048.mp4"
+    },
+    {
+      "index": 49,
+      "start": 92.39,
+      "end": 93.55,
+      "text": "they wound up in a tie,",
+      "filename": "segment049.mp4"
+    },
+    {
+      "index": 50,
+      "start": 93.73,
+      "end": 95.31,
+      "text": "73 electoral votes each.",
+      "filename": "segment050.mp4"
+    },
+    {
+      "index": 51,
+      "start": 95.39,
+      "end": 96.79,
+      "text": "That was the number required then.",
+      "filename": "segment051.mp4"
+    },
+    {
+      "index": 52,
+      "start": 96.87,
+      "end": 99.31,
+      "text": "And that's when Congress tried to address",
+      "filename": "segment052.mp4"
+    },
+    {
+      "index": 53,
+      "start": 99.31,
+      "end": 101.89,
+      "text": "what the Founding Fathers just couldn't imagine.",
+      "filename": "segment053.mp4"
+    },
+    {
+      "index": 54,
+      "start": 102.19,
+      "end": 105.01,
+      "text": "And poof, the 12th Amendment was born.",
+      "filename": "segment054.mp4"
+    },
+    {
+      "index": 55,
+      "start": 105.73,
+      "end": 106.47,
+      "text": "And it says",
+      "filename": "segment055.mp4"
+    },
+    {
+      "index": 56,
+      "start": 106.93,
+      "end": 109.21,
+      "text": "that if the states don't certify,",
+      "filename": "segment056.mp4"
+    },
+    {
+      "index": 57,
+      "start": 109.65,
+      "end": 111.59,
+      "text": "it's the House that chooses the President,",
+      "filename": "segment057.mp4"
+    },
+    {
+      "index": 58,
+      "start": 111.89,
+      "end": 114.05,
+      "text": "and the Senate that chooses the Vice President.",
+      "filename": "segment058.mp4"
+    }
+  ]
+}

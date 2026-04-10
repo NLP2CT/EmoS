@@ -1,0 +1,138 @@
+```json
+{
+  "summary": "In a high-stakes courtroom scene, Sam, a father with an intellectual disability, delivers a heartfelt testimony defining good parenting not by perfection, but by constancy, patience, and listening. The atmosphere shifts from contemplative and nervous to deeply vulnerable as Sam admits his own flaws while fiercely defending the irreplaceable bond he shares with his child. The scene culminates in a desperate, tearful plea, warning the court that separating them would cause permanent, irreparable damage.",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "The clip begins with nervous contemplation (Neutral/Nervousness 00:00), transitions into a vulnerable admission of flaws (Sadness/Remorse 00:48), and escalates to a desperate, fearful plea to preserve his family (Fear/Grief 01:10)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:14",
+      "speaker_guess": "Sam",
+      "transcript_zh": "我有... 有很多时间去思考，到底是什么... 让一个人成为好父母。",
+      "transcript_en": "I... have had a lot of time to think about what it is... that makes somebody a good parent.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "nervousness",
+        "realization",
+        "confusion"
+      ],
+      "intensity": 2,
+      "audio_cues": "Stuttering delivery ('I... have had'), slow pace, upward inflection at the end suggesting a question or realization.",
+      "visual_cues": "Looking upward (searching for thoughts), hand gestures counting or emphasizing points, furrowed brow.",
+      "evidence": "Sam is trying to articulate a complex thought while under the pressure of the courtroom; his demeanor is contemplative and slightly anxious."
+    },
+    {
+      "timestamp_range": "00:14-00:22",
+      "speaker_guess": "Sam",
+      "transcript_zh": "那是关于恒久性，那是关于...",
+      "transcript_en": "And it's about a constancy, and it's about...",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "nervousness",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice trembles slightly, repetition of 'and it's about', searching for the right words.",
+      "visual_cues": "Intense blinking, hand gestures become more rhythmic, eyes darting around the room.",
+      "evidence": "He is listing the virtues he believes are necessary, trying to sound convincing despite his speech difficulties."
+    },
+    {
+      "timestamp_range": "00:25-00:36",
+      "speaker_guess": "Sam",
+      "transcript_zh": "耐心，那是关于倾听，那是关于... 那是关于假装在听，即使你已经听不进去了。",
+      "transcript_en": "Patience... and it's about listening, and it's about... and it's about pretending to listen even when you can't listen anymore.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "realization",
+        "amusement"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone becomes slightly warmer and more fluid as he describes the reality of parenting; a slight self-deprecating tone on 'pretending to listen'.",
+      "visual_cues": "A brief smile/grimace of recognition when he mentions pretending to listen, engaging with the lawyer/judge.",
+      "evidence": "Sam moves from abstract concepts to specific, relatable parenting experiences, showing a deep understanding of the role."
+    },
+    {
+      "timestamp_range": "00:36-00:40",
+      "speaker_guess": "Sam",
+      "transcript_zh": "那是关于爱，就像她说的那样。",
+      "transcript_en": "And it's about love, like she said.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "love",
+        "approval",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "Softer, more affirmative tone. He references another person's statement to validate his own.",
+      "visual_cues": "Nods slightly, looking towards the person he is referencing (likely the foster mother or lawyer).",
+      "evidence": "He acknowledges the emotional core of the argument, aligning himself with the previous testimony."
+    },
+    {
+      "timestamp_range": "00:40-00:48",
+      "speaker_guess": "Sam",
+      "transcript_zh": "看，因为比利跟我有个家，我尽我所能把它建好。",
+      "transcript_en": "See, 'cause Billy has a home with me, and I made it the best I could.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "pride",
+        "nervousness",
+        "caring"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice begins to crack, pitch rises slightly indicating emotional stress. (Note: He says 'Billy' in this clip, though the character is usually Lucy).",
+      "visual_cues": "Eyes widen, body leans forward slightly, hand gestures become defensive/explanatory.",
+      "evidence": "The emotion shifts from definition to personal defense. He is pleading his case based on effort and the home he created."
+    },
+    {
+      "timestamp_range": "00:48-00:58",
+      "speaker_guess": "Sam",
+      "transcript_zh": "它并不完美。我也不是个完美的父母。有时候我没有足够的耐心，我忘了他也只是个小孩子。",
+      "transcript_en": "And it is not perfect. And I'm not a perfect parent. And sometimes I don't have enough patience and I forget he's just a little kid.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "embarrassment",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "Voice breaks significantly, breathy delivery, pauses indicate difficulty in admitting faults.",
+      "visual_cues": "Looks down, shakes head, eyes fill with tears, hand touches chest/neck area (self-soothing).",
+      "evidence": "Sam displays high vulnerability here, admitting his shortcomings. The primary emotion is sadness/remorse for not being 'perfect' in the eyes of the court."
+    },
+    {
+      "timestamp_range": "00:58-01:06",
+      "speaker_guess": "Sam",
+      "transcript_zh": "但我们建立了一起的生活，我们深爱着彼此。",
+      "transcript_en": "But we built a life together and we love each other.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "love",
+        "determination",
+        "caring"
+      ],
+      "intensity": 5,
+      "audio_cues": "Stronger emphasis on 'built' and 'love', but the tone remains tearful and pleading.",
+      "visual_cues": "Direct eye contact with the decision-makers, firm nodding, tears visible.",
+      "evidence": "Despite the sadness, there is a strong undercurrent of love and determination to prove the value of their relationship."
+    },
+    {
+      "timestamp_range": "01:06-01:15",
+      "speaker_guess": "Sam",
+      "transcript_zh": "如果你毁了这一切... 那将是... 那将是无法弥补的。",
+      "transcript_en": "And if you destroy that, it'll be... it'll be... irreparable.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "grief",
+        "despair",
+        "nervousness"
+      ],
+      "intensity": 5,
+      "audio_cues": "Stuttering on 'irreparable' (struggling with the complex word and the weight of its meaning), voice is shaky and desperate.",
+      "visual_cues": "Face contorted in pain, hand clenched near face, looking upward/away as if visualizing the loss.",
+      "evidence": "The dominant emotion shifts to Fear of the future. He is terrified of the permanent damage separation would cause, struggling to pronounce the word that seals his fate."
+    }
+  ]
+}
+```

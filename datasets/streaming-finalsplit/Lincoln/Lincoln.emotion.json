@@ -1,0 +1,107 @@
+```json
+{
+  "summary": "In a dimly lit cabinet room, Abraham Lincoln confronts his advisors with explosive frustration regarding the stagnation of the 13th Amendment and the ongoing war. The scene shifts from his violent outburst and table-slamming demand for action to a solemn, visionary plea about the permanent historical impact of abolishing slavery, ending with a cold, urgent command to secure the final two votes.",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "The clip begins with high-intensity frustration and explosive anger (00:00-00:39), transitions into disdainful lecturing (00:40-00:55), shifts to a solemn, heavy seriousness regarding the future (00:56-01:15), and concludes with cold, determined urgency (01:16-01:21)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:13",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "除非我们治愈奴隶制的顽疾，结束这场瘟疫般的战争，否则我无法完成任何具有人类意义或价值的事情！",
+      "transcript_en": "I can't accomplish a goddamn thing of any human meaning or worth until we cure ourselves of slavery and end this pestilential war!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval",
+        "frustration"
+      ],
+      "intensity": 4,
+      "audio_cues": "Low, gravelly voice that rises in volume and pitch; heavy emphasis on 'goddamn' and 'pestilential'.",
+      "visual_cues": "Leaning forward over the table, intense furrowed brows, looking down at papers then sharply up at the advisors.",
+      "evidence": "Lincoln expresses deep frustration with his inability to act ('can't accomplish a goddamn thing') and uses strong negative descriptors for the war."
+    },
+    {
+      "timestamp_range": "00:13-00:23",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "无论你们或其他人是否知道，我知道我需要这个！这项修正案就是解药！",
+      "transcript_en": "And whether any of you or anyone else knows it, I know I need this! This amendment is that cure!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "desire",
+        "realization",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "Volume increases significantly to a shout; a loud, violent sound of a hand slamming against the table punctuates the sentence.",
+      "visual_cues": "Points aggressively at his own chest ('I know'), then slams his palm violently onto the table, maintaining intense eye contact.",
+      "evidence": "The physical act of slamming the table combined with the shouting indicates peak emotional arousal and a desperate demand for the amendment."
+    },
+    {
+      "timestamp_range": "00:24-00:39",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "我们现在已经踏上了世界舞台！现在！人类尊严的命运掌握在我们手中！鲜血已经流淌，才换来这一刻！现在！现在！现在！",
+      "transcript_en": "We are stepped out upon the world stage now! Now! With the fate of human dignity in our hands! Blood's been spilt to afford us this moment! Now! Now! Now!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "excitement",
+        "nervousness",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "Shouting, repetitive use of 'Now!' with increasing urgency and desperation. Voice cracks slightly with strain.",
+      "visual_cues": "Hands gesturing openly to emphasize scope ('world stage'), then pointing aggressively at the table/advisors. Body is tense and leaning in.",
+      "evidence": "He is trying to force his advisors to understand the urgency of the moment, using the repetition of 'Now!' to hammer home the fleeting nature of the opportunity."
+    },
+    {
+      "timestamp_range": "00:40-00:55",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "而你们却像坦慕尼协会那些卑鄙的政客一样，发牢骚、起哄、躲躲闪闪！看看你们面前是什么。看看此时此刻，这是最难的事情，也是唯一重要的事情。",
+      "transcript_en": "And you grousle and heckle and dodge about like pettifogging Tammany Hall hucksters! See what is before you. See the here and now, that's the hardest thing, the only thing that accounts.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval",
+        "contempt"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone shifts from shouting to a mocking, lower register on 'grousle and heckle', then drops to an intense, quiet command on 'See what is before you'.",
+      "visual_cues": "Facial expression shows disdain/contempt. He gestures near his eyes/head to indicate vision/understanding.",
+      "evidence": "He insults his advisors by comparing them to 'hucksters' (disgust/contempt) and then lowers his voice to lecture them on their lack of foresight."
+    },
+    {
+      "timestamp_range": "00:56-01:15",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "通过宪法条款废除奴隶制，将决定未来所有时代的命运。不仅是现在处于枷锁中的数百万人，还有未来无数未出生的数百万人。",
+      "transcript_en": "Abolishing slavery by constitutional provision settles the fate for all coming time. Not only of the millions now in bondage, but of unborn millions to come.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "optimism",
+        "caring",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice becomes deep, slow, and resonant. The anger is gone, replaced by a solemn, prophetic tone.",
+      "visual_cues": "Body language becomes still. He stares directly at his listener with a heavy, serious gaze.",
+      "evidence": "The emotion shifts from interpersonal conflict to a philosophical/moral realization. While serious, it is not 'sad' or 'angry', but a profound statement of purpose (caring for the future).",
+      "note": "Classified as Neutral (Serious) because it lacks the arousal of anger or the valence of simple joy/sadness, representing a state of profound solemnity."
+    },
+    {
+      "timestamp_range": "01:16-01:21",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "两张票挡在路中间。必须搞定这两张票。",
+      "transcript_en": "Two votes stand in its way. These votes must be procured.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "determination",
+        "desire"
+      ],
+      "intensity": 4,
+      "audio_cues": "Sharp, clipped enunciation. The tone is business-like but carries a threatening undertone.",
+      "visual_cues": "Holds up two fingers to emphasize the number. Unblinking stare.",
+      "evidence": "He returns to the immediate practical obstacle. The statement is a command, showing absolute determination to remove the obstacle."
+    }
+  ]
+}
+```

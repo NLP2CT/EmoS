@@ -1,0 +1,132 @@
+```json
+{
+  "summary": "在人类面临外星入侵者毁灭性打击的至暗时刻，惠特摩尔总统（President Whitmore）站在卡车上向即将出征的飞行员们发表战前动员演说。他将“独立日”的含义从美国的国家节日升华为全人类团结求存的象征，情绪由最初的沉重肃穆逐渐攀升至激昂与狂热。演说的转折点在于他引用迪伦·托马斯的诗句“不要温和地走进那个良夜”，将绝望转化为誓死反抗的决心，最终在全场的欢呼声中达到高潮。",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "情绪轨迹呈现显著的上升趋势：从开场的严肃与反思（Neutral/Realization, 00:00）过渡到中段的坚定与凝聚（Optimism, 00:20），最终在结尾处爆发为极具感染力的狂喜与自豪（Joy/Pride, 00:59）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "人类。这个词在今天对我们所有人来说应该有了新的含义。我们不能再被彼此之间微小的分歧所消耗。",
+      "transcript_en": "Mankind. That word should have new meaning for all of us today. We can't be consumed by our petty differences anymore.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速缓慢，音调低沉，带有明显的停顿，语气严肃而深沉。",
+      "visual_cues": "眉头微蹙，眼神扫视人群，身体姿态僵硬，手持麦克风显得有些沉重。",
+      "evidence": "总统在开场时试图定下严肃的基调，通过否定过去的“微小分歧”（petty differences）来唤醒众人的认知。"
+    },
+    {
+      "timestamp_range": "00:11-00:15",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "我们将因共同的利益而团结在一起。",
+      "transcript_en": "We will be united in our common interests.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "optimism",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音稍微提高，语气变得更加坚定和有力。",
+      "visual_cues": "眼神变得更加专注，头部微微点头以示强调。",
+      "evidence": "他开始从反思转向构建愿景，强调“团结”（united），传递出一种理性的乐观。"
+    },
+    {
+      "timestamp_range": "00:15-00:24",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "也许是命运的安排，今天是7月4日，你们将再次为我们的自由而战。",
+      "transcript_en": "Perhaps it's fate that today is the Fourth of July, and you will once again be fighting for our freedom.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "realization",
+        "pride"
+      ],
+      "intensity": 3,
+      "audio_cues": "提到“7月4日”时带有一丝宿命感的感慨，随后语调上扬。",
+      "visual_cues": "嘴角极其细微地上扬，眼神中流露出一种使命感。",
+      "evidence": "他将日期的巧合赋予了神圣的意义，激发听众的自豪感（Pride）。"
+    },
+    {
+      "timestamp_range": "00:25-00:33",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "不是为了反抗暴政、压迫或迫害……而是为了避免被灭绝。",
+      "transcript_en": "Not from tyranny, oppression, or persecution... but from annihilation.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "nervousness",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "在列举政治词汇时语速较快，但在说出“annihilation”（灭绝）时重读并拖长，声音变得严峻。",
+      "visual_cues": "表情瞬间凝重，眼神直视前方，仿佛看到了毁灭的景象。",
+      "evidence": "虽然目的是动员，但他必须先唤起人们对死亡（annihilation）的真实恐惧，以此作为反抗的动力。"
+    },
+    {
+      "timestamp_range": "00:33-00:39",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "我们是为生存的权利而战。为了存在。",
+      "transcript_en": "We're fighting for our right to live. To exist.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "desire",
+        "determination"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音低沉但充满张力，每一个词都咬字清晰，充满力量。",
+      "visual_cues": "手部动作（握着麦克风）收紧，眼神坚定不移。",
+      "evidence": "这是生存本能的宣言，表现出极强的决心（Determination/Desire）。"
+    },
+    {
+      "timestamp_range": "00:40-00:50",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "如果我们赢得了这一天，7月4日将不再仅仅是一个美国的节日，而是全世界用同一个声音宣告的日子：",
+      "transcript_en": "And should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day when the world declared in one voice:",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "背景音乐激昂响起，语速加快，音量逐渐增大，进入演讲的铺垫高潮期。",
+      "visual_cues": "身体前倾，与听众的连接感增强，面部表情展现出领袖的感召力。",
+      "evidence": "他正在构建一个宏大的胜利愿景，情绪从严峻转向充满希望的激昂。"
+    },
+    {
+      "timestamp_range": "00:51-00:59",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "我们不会温和地走进那个良夜！我们不会不作抵抗就消失！",
+      "transcript_en": "We will not go quietly into the night! We will not vanish without a fight!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "pride",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "近乎嘶吼的喊叫，音量达到高点，语气中充满了对敌人的蔑视和反抗的怒火。",
+      "visual_cues": "眉头紧锁，面部肌肉紧绷，表现出一种战斗的凶狠与决绝。",
+      "evidence": "虽然这是鼓舞士气，但其表现形式是激烈的“义愤”（Righteous Anger）和对抗意志，符合Anger的生理特征，但服务于Pride的目的。"
+    },
+    {
+      "timestamp_range": "00:59-01:09",
+      "speaker_guess": "President Whitmore",
+      "transcript_zh": "我们要活下去！我们要生存！今天，我们要庆祝我们的独立日！",
+      "transcript_en": "We're going to live on! We're going to survive! Today we celebrate our Independence Day!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "pride",
+        "triumph"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音达到最高分贝，伴随着人群的欢呼声，语气充满胜利的预言。",
+      "visual_cues": "举起拳头（或姿态上扬），眼神放光，完全释放了压抑的情绪。",
+      "evidence": "这是演讲的最终高潮，将生存的渴望转化为胜利的狂喜（Joy/Excitement）。"
+    }
+  ]
+}
+```

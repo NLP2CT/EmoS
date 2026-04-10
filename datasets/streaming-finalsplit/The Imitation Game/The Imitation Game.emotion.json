@@ -1,0 +1,58 @@
+```json
+{
+  "summary": "本片段展示了艾伦·图灵（Alan Turing）在审讯室中冷静而富有哲理的辩白，他通过类比人类的个体差异来论证机器思考的可能性。情绪氛围由最初的理性陈述逐渐转变为一种寻求理解的压抑与渴望，关键转折点在于他将话题从人类大脑引向“铜与线”构成的机器大脑时，流露出的脆弱感。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "角色情绪从00:00的冷静客观陈述（Neutral），过渡到00:06的逻辑质询（Curiosity/Confusion），最后在00:18处转为带有恳切与淡淡忧伤的哲学思辨（Neutral mixed with underlying Sadness/Desire for approval）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:06",
+      "speaker_guess": "Alan Turing",
+      "transcript_zh": "你看悲剧电影会哭。我对花粉过敏。",
+      "transcript_en": "You cry at sad films. I am allergic to pollen.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调平稳，陈述事实，在两句话之间有明显的停顿，语气客观。",
+      "visual_cues": "面部表情克制，眼神直接注视对话者，伴随轻微的点头以确认事实。",
+      "evidence": "图灵正在建立一个逻辑前提，通过陈述两个不相关的事实来通过对比引出后续观点，情绪保持在理性的基准线上。"
+    },
+    {
+      "timestamp_range": "00:06-00:16",
+      "speaker_guess": "Alan Turing",
+      "transcript_zh": "如果不是为了说明我们的大脑运作方式不同，思考方式不同，那么……那么……不同的口味，不同的偏好又有什么意义呢？",
+      "transcript_en": "What is the point of... of... of different tastes, different preferences, if not to say that our brains work differently, that we think differently?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "出现口吃（'of... of... of'），语速略微加快，句尾语调上扬表示反问，语气中带有一种急于证明逻辑的紧迫感。",
+      "visual_cues": "眉头微皱，眼神游移仿佛在搜索词汇，随后坚定地看向对方，头部轻微摆动以强调观点。",
+      "evidence": "他在进行哲学思辨，试图通过反问句来挑战对方的认知。虽然主要情绪仍是理性的（Neutral），但包含了对这种差异存在的困惑（Confusion）和寻求认同的渴望。"
+    },
+    {
+      "timestamp_range": "00:18-00:26",
+      "speaker_guess": "Alan Turing",
+      "transcript_zh": "如果我们彼此之间都能这样说，那为什么我们不能对那些……由铜、电线……钢铁构成的大脑说同样的话呢？",
+      "transcript_en": "And if we can say that about one another, then why can't we say the same thing for brains... built of copper and wire... steel?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "sadness",
+        "desire",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音变得更加柔和、低沉，语速放慢，在列举机器材质时有明显的犹豫和停顿，带有一种恳求理解的脆弱感。",
+      "visual_cues": "视线向下移动（00:19），表现出内省或回避，随后再次抬起眼睛寻求对方的反应，表情中带有一丝不易察觉的哀伤或孤独。",
+      "evidence": "虽然他在谈论机器，但这实际上是他在为自己（作为一个与众不同的人）寻求社会的接纳。理性的外壳下（Neutral）隐藏着希望被理解的渴望（Desire）和对自己处境的淡淡忧伤（Sadness）。"
+    }
+  ]
+}
+```

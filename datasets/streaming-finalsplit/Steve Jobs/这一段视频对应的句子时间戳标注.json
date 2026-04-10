@@ -1,0 +1,109 @@
+{
+  "lang": "en",
+  "film": "Steve Jobs",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 1_有史以来最伟大的表演独白 PART 1/Greatest Acting Monologues Of All Time PART 1_有史以来最伟大的表演独白 PART 1.mp4",
+  "t_start_global": 752.95,
+  "t_end_global": 807.72,
+  "duration": 54.77,
+  "clip": "Steve Jobs.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 2.22,
+      "text": "What's been wrong with me for 19 years?",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 5.55,
+      "end": 8.49,
+      "text": "I've been a witness, and I tell you I've been complicit.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 10.67,
+      "end": 11.77,
+      "text": "I love you, Steve.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 12.21,
+      "end": 13.41,
+      "text": "You know how much.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 14.63,
+      "end": 17.71,
+      "text": "I love that you don't care how much money a person makes.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 17.81,
+      "end": 19.09,
+      "text": "You care what they make.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 19.83,
+      "end": 22.65,
+      "text": "But what you make isn't supposed to be the best part of you.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 23.35,
+      "end": 29.05,
+      "text": "But when you're a father, that's what's supposed to be the best part of you.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 29.19,
+      "end": 36.23,
+      "text": "And it's caused me two decades of agony, Steve, that it is for you the worst.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 39.53,
+      "end": 40.59,
+      "text": "It's a little thing.",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 40.67,
+      "end": 43.01,
+      "text": "It's a very small thing.",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 45.69,
+      "end": 46.57,
+      "text": "Fix it.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 47.27,
+      "end": 48.23,
+      "text": "Fix it now.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 48.41,
+      "end": 54.77,
+      "text": "Or you can contact me at my new job, working anywhere I want.",
+      "filename": "segment014.mp4"
+    }
+  ]
+}

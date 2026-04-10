@@ -1,0 +1,382 @@
+{
+  "lang": "en",
+  "film": "The Legend of 1900",
+  "source_rel": "电影《海上钢琴师》经典片段---1900的自我独白.mp4",
+  "t_start_global": 4920.64,
+  "t_end_global": 5070.04,
+  "duration": 149.4,
+  "clip": "The Legend of 1900.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 1.4,
+      "text": "It was what I didn't see.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 3.22,
+      "end": 4.56,
+      "text": "You understand that?",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 6.58,
+      "end": 8.08,
+      "text": "What I didn't see",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 10.47,
+      "end": 12.63,
+      "text": "in all that sprawling city",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 12.63,
+      "end": 14.43,
+      "text": "there was everything except an end.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 16.96,
+      "end": 18.08,
+      "text": "There was no end.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 21.38,
+      "end": 22.64,
+      "text": "What I did not see",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 22.64,
+      "end": 24.64,
+      "text": "was where the whole thing",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 24.64,
+      "end": 26.08,
+      "text": "came to an end.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 28.85,
+      "end": 30.17,
+      "text": "The end of the world.",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 38.92,
+      "end": 39.76,
+      "text": "Take a piano.",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 43.14,
+      "end": 43.74,
+      "text": "Keys begin.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 45.24,
+      "end": 46.04,
+      "text": "Keys end.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 48.04,
+      "end": 49.8,
+      "text": "You know there are 88 of them.",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 49.96,
+      "end": 51.2,
+      "text": "Nobody can tell you any different.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 52.72,
+      "end": 53.68,
+      "text": "They are not infinite.",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 54.9,
+      "end": 56.06,
+      "text": "You are infinite.",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 58.68,
+      "end": 59.82,
+      "text": "And on those keys",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 59.82,
+      "end": 61.06,
+      "text": "the music that you can make",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 61.76,
+      "end": 62.56,
+      "text": "is infinite.",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 64.54,
+      "end": 65.48,
+      "text": "I like that.",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 67.35,
+      "end": 68.39,
+      "text": "That I can live by.",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 69.91,
+      "end": 71.43,
+      "text": "You get me up on that gangway",
+      "filename": "segment023.mp4"
+    },
+    {
+      "index": 24,
+      "start": 71.43,
+      "end": 72.87,
+      "text": "and you roll out in front of me",
+      "filename": "segment024.mp4"
+    },
+    {
+      "index": 25,
+      "start": 72.87,
+      "end": 74.61,
+      "text": "a keyboard of millions of keys.",
+      "filename": "segment025.mp4"
+    },
+    {
+      "index": 26,
+      "start": 74.75,
+      "end": 76.73,
+      "text": "Millions and billions of keys that never end.",
+      "filename": "segment026.mp4"
+    },
+    {
+      "index": 27,
+      "start": 76.79,
+      "end": 77.91,
+      "text": "And that's the truth, Max.",
+      "filename": "segment027.mp4"
+    },
+    {
+      "index": 28,
+      "start": 78.45,
+      "end": 79.51,
+      "text": "That they never end.",
+      "filename": "segment028.mp4"
+    },
+    {
+      "index": 29,
+      "start": 80.77,
+      "end": 81.87,
+      "text": "That keyboard is infinite.",
+      "filename": "segment029.mp4"
+    },
+    {
+      "index": 30,
+      "start": 84.21,
+      "end": 85.75,
+      "text": "And if that keyboard is infinite",
+      "filename": "segment030.mp4"
+    },
+    {
+      "index": 31,
+      "start": 85.75,
+      "end": 86.71,
+      "text": "then on that keyboard",
+      "filename": "segment031.mp4"
+    },
+    {
+      "index": 32,
+      "start": 86.71,
+      "end": 88.15,
+      "text": "there is no music you can play.",
+      "filename": "segment032.mp4"
+    },
+    {
+      "index": 33,
+      "start": 90.15,
+      "end": 90.75,
+      "text": "You're sitting",
+      "filename": "segment033.mp4"
+    },
+    {
+      "index": 34,
+      "start": 90.75,
+      "end": 91.51,
+      "text": "on the wrong bench.",
+      "filename": "segment034.mp4"
+    },
+    {
+      "index": 35,
+      "start": 93.75,
+      "end": 94.87,
+      "text": "That's God's piano.",
+      "filename": "segment035.mp4"
+    },
+    {
+      "index": 36,
+      "start": 99.34,
+      "end": 99.78,
+      "text": "Christ.",
+      "filename": "segment036.mp4"
+    },
+    {
+      "index": 37,
+      "start": 100.0,
+      "end": 101.34,
+      "text": "Did you see the streets?",
+      "filename": "segment037.mp4"
+    },
+    {
+      "index": 38,
+      "start": 101.42,
+      "end": 103.6,
+      "text": "Just the streets. There were thousands of them.",
+      "filename": "segment038.mp4"
+    },
+    {
+      "index": 39,
+      "start": 105.04,
+      "end": 105.58,
+      "text": "How do you",
+      "filename": "segment039.mp4"
+    },
+    {
+      "index": 40,
+      "start": 105.58,
+      "end": 107.76,
+      "text": "do it down there? How do you choose just one?",
+      "filename": "segment040.mp4"
+    },
+    {
+      "index": 41,
+      "start": 109.88,
+      "end": 110.7,
+      "text": "One woman.",
+      "filename": "segment041.mp4"
+    },
+    {
+      "index": 42,
+      "start": 112.74,
+      "end": 113.46,
+      "text": "One house.",
+      "filename": "segment042.mp4"
+    },
+    {
+      "index": 43,
+      "start": 115.52,
+      "end": 117.4,
+      "text": "One piece of land to call your own.",
+      "filename": "segment043.mp4"
+    },
+    {
+      "index": 44,
+      "start": 117.4,
+      "end": 119.06,
+      "text": "One landscape to look at.",
+      "filename": "segment044.mp4"
+    },
+    {
+      "index": 45,
+      "start": 120.82,
+      "end": 121.96,
+      "text": "One way to die.",
+      "filename": "segment045.mp4"
+    },
+    {
+      "index": 46,
+      "start": 126.99,
+      "end": 128.15,
+      "text": "All that world",
+      "filename": "segment046.mp4"
+    },
+    {
+      "index": 47,
+      "start": 128.15,
+      "end": 129.57,
+      "text": "just weighing down on you.",
+      "filename": "segment047.mp4"
+    },
+    {
+      "index": 48,
+      "start": 129.61,
+      "end": 131.17,
+      "text": "You don't even know where it comes to an end.",
+      "filename": "segment048.mp4"
+    },
+    {
+      "index": 49,
+      "start": 131.77,
+      "end": 134.67,
+      "text": "And aren't you ever just scared of breaking apart",
+      "filename": "segment049.mp4"
+    },
+    {
+      "index": 50,
+      "start": 134.67,
+      "end": 135.37,
+      "text": "at the thought of it?",
+      "filename": "segment050.mp4"
+    },
+    {
+      "index": 51,
+      "start": 135.79,
+      "end": 137.37,
+      "text": "The enormity of living it.",
+      "filename": "segment051.mp4"
+    },
+    {
+      "index": 52,
+      "start": 142.54,
+      "end": 144.42,
+      "text": "I was born on this ship.",
+      "filename": "segment052.mp4"
+    },
+    {
+      "index": 53,
+      "start": 148.5,
+      "end": 149.4,
+      "text": "And the world",
+      "filename": "segment053.mp4"
+    }
+  ]
+}

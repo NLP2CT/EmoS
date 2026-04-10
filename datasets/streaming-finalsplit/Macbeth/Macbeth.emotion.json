@@ -1,0 +1,105 @@
+```json
+{
+  "summary": "麦克白（Macbeth）在得知妻子死讯后，陷入了极度的虚无主义与绝望之中，独自面对镜头低语。他感叹时间的无情流逝与生命的毫无意义，情绪从疲惫的麻木逐渐过渡到对人生本质的愤世嫉俗与彻底幻灭。",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "情绪始于一种极度疲惫和麻木的悲伤（00:00），随着独白的推进，逐渐融入了对命运的嘲弄与苦涩（00:40），最终在结尾处定格于一种看透世事荒谬的虚无与绝望（01:10）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:13",
+      "speaker_guess": "Macbeth",
+      "transcript_zh": "明天，明天，再一个明天...",
+      "transcript_en": "Tomorrow, and tomorrow, and tomorrow...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief 😢",
+        "realization 💡"
+      ],
+      "intensity": 3,
+      "audio_cues": "极慢的语速，单调且重复的节奏，声音低沉仿佛从喉咙深处发出，每一个词之间都有沉重的停顿。",
+      "visual_cues": "面部几乎静止，眼神空洞地凝视着前方（或虚空），只有嘴唇微动，展现出一种灵魂被抽空的疲惫感。",
+      "evidence": "角色重复念叨着'tomorrow'，表现出对时间无休止流逝的厌倦与无力感。"
+    },
+    {
+      "timestamp_range": "00:13-00:24",
+      "speaker_guess": "Macbeth",
+      "transcript_zh": "这一天一天的日子就这样琐碎地爬行，直到由于时间记录的最后一刻。",
+      "transcript_en": "Creeps in this petty pace from day to day to the last syllable of recorded time.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disapproval 👎",
+        "annoyance 😟",
+        "disappointment 😞"
+      ],
+      "intensity": 3,
+      "audio_cues": "在说到'petty pace'（琐碎的步伐）时，语气中带有一丝轻蔑的咬字；'last syllable'发音清晰但充满宿命感。",
+      "visual_cues": "眉毛极其细微地挑动，眼神中流露出一丝对生活琐碎的厌恶与不屑。",
+      "evidence": "用'creeps'和'petty'形容时间的流逝，表达了对生存状态的轻蔑与痛苦。"
+    },
+    {
+      "timestamp_range": "00:24-00:32",
+      "speaker_guess": "Macbeth",
+      "transcript_zh": "我们所有的昨天不过是照亮了傻瓜们通往死亡尘土的路。",
+      "transcript_en": "And all our yesterdays have lighted fools the way to dusty death.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization 💡",
+        "disappointment 😞",
+        "remorse 😔"
+      ],
+      "intensity": 4,
+      "audio_cues": "语调在'fools'（傻瓜）一词上加重，带有自嘲的意味；'dusty death'处理得轻柔如叹息。",
+      "visual_cues": "眨眼频率降低，目光似乎穿透了镜头，看到了一种不可避免的悲剧结局。",
+      "evidence": "将过去的光荣（yesterdays）视为通向死亡的陷阱，承认了奋斗的徒劳。"
+    },
+    {
+      "timestamp_range": "00:32-00:39",
+      "speaker_guess": "Macbeth",
+      "transcript_zh": "熄灭吧，熄灭吧，短促的烛火。",
+      "transcript_en": "Out, out, brief candle.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief 😢",
+        "desire 😍"
+      ],
+      "intensity": 3,
+      "audio_cues": "命令式的语气但缺乏攻击性，更像是一种疲惫的乞求或接受。声音非常轻。",
+      "visual_cues": "头部微侧，眼神稍微聚焦，仿佛在看着生命的火光熄灭。",
+      "evidence": "将生命比作'brief candle'并要求其熄灭，显示出对死亡的渴望或至少是接受。"
+    },
+    {
+      "timestamp_range": "00:39-00:55",
+      "speaker_guess": "Macbeth",
+      "transcript_zh": "人生不过是一个行走的影子，一个在舞台上指手画脚的拙劣伶人，登场片刻，便在无声无息中悄然退下。",
+      "transcript_en": "Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and then is heard no more.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment 😞",
+        "realization 💡",
+        "disapproval 👎"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气中充满了讽刺与悲凉，'struts and frets'（指手画脚）读得急促，模拟那种可笑的忙碌感，随后'heard no more'归于死寂。",
+      "visual_cues": "嘴角极其轻微地抽动，似笑非笑，眼神中充满了对人类虚荣的怜悯与嘲弄。",
+      "evidence": "通过'walking shadow'和'poor player'的比喻，彻底否定了人生的真实性与价值。"
+    },
+    {
+      "timestamp_range": "00:55-01:13",
+      "speaker_guess": "Macbeth",
+      "transcript_zh": "它是一个愚人讲的故事，充满着喧哗与骚动，却没有任何意义。",
+      "transcript_en": "It is a tale told by an idiot, full of sound and fury, signifying... nothing.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disgust 🤢",
+        "anger 😡",
+        "realization 💡"
+      ],
+      "intensity": 5,
+      "audio_cues": "在'idiot'（愚人）一词上咬牙切齿，'signifying'之后有极长的停顿，最后的'nothing'说得极轻却极重，仿佛判决。",
+      "visual_cues": "眼神变得锐利而冰冷，直视前方，在说出'nothing'时，面部表情凝固，传达出绝对的虚无。",
+      "evidence": "这是全段的高潮，将人生定义为'没有任何意义'（signifying nothing），展现了彻底的幻灭与存在主义危机。"
+    }
+  ]
+}
+```

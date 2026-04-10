@@ -1,0 +1,123 @@
+```json
+{
+  "summary": "本片段展现了理查（Richard）的一段极具张力的独白，揭示了他对王位的极度渴望以及为此不择手段的决心。情绪从最初对现状的压抑、痛苦与迷茫，逐渐转变为充满暴力的决绝，最终在对自己欺诈天赋的炫耀中达到一种病态的自信与狂喜。",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "情绪由压抑的悲愤（00:00）转向迷茫与挣扎（00:22），在暴力的宣泄中爆发（00:43），最后转变为阴险的狂喜与自信（00:55）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:12",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "我会把梦想王冠当作我的天堂，而只要我活着，就把这世界视为地狱。",
+      "transcript_en": "I'll make my heaven to dream upon the crown, And whiles I live to account this world but hell.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "disappointment",
+        "sadness"
+      ],
+      "intensity": 3,
+      "audio_cues": "低沉、压抑的语调，在'hell'一词上重读，带有痛苦的喘息声。",
+      "visual_cues": "眉头紧锁，眼神凝重且充满渴望，面部肌肉紧绷。",
+      "evidence": "角色表达了对当前生活的极度不满（视作地狱）和对权力的渴望，基调是压抑和痛苦的。"
+    },
+    {
+      "timestamp_range": "00:13-00:22",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "然而我还不知道如何获取王冠，因为许多生命横亘在我与王位之间。",
+      "transcript_en": "And yet I know not how to get the crown, For many lives stand between me and home.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "disappointment",
+        "annoyance"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速稍快，语气中带着无奈和算计，'many lives'处有强调。",
+      "visual_cues": "眼神游移，似乎在盘算障碍，头部轻微摇动表示否认或困难。",
+      "evidence": "角色理性分析现状，承认障碍重重，流露出一种面对现实的受挫感。"
+    },
+    {
+      "timestamp_range": "00:22-00:36",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "我就像一个迷失在荆棘林中的人，撕扯着荆棘，也被荆棘撕扯，寻找出路却偏离了正途。",
+      "transcript_en": "And I, like one lost in a thorny wood, that rents the thorns and is rent with the thorns, seeking a way and straying from the way.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "confusion",
+        "nervousness",
+        "pain"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音逐渐颤抖，语速加快，呼吸急促，模拟出一种受困的恐慌感。",
+      "visual_cues": "眼神焦躁不安，仿佛真的在寻找出路，面部表情痛苦扭曲。",
+      "evidence": "通过迷失在荆棘林的比喻，表达了内心的挣扎、痛苦和方向感的缺失。"
+    },
+    {
+      "timestamp_range": "00:36-00:43",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "不知道如何找到开阔的天地，却绝望地劳碌着想要找到它，折磨自己去抓取那顶英国王冠。",
+      "transcript_en": "Not knowing how to find the open air, but toiling desperately to find it out, torment myself to catch the English crown.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "desire",
+        "annoyance",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "在'desperately'和'torment'上加重语气，声音变得粗糙刺耳。",
+      "visual_cues": "目光变得锐利，头部前倾，表现出一种近乎病态的执着。",
+      "evidence": "情绪从迷茫转为愤怒的自我折磨，对目标的执着压倒了痛苦。"
+    },
+    {
+      "timestamp_range": "00:43-00:51",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "从这种折磨中，我要解救我自己，或者用一把血腥的斧头砍出一条路来。",
+      "transcript_en": "And from that torment I will free myself, Or hew my way out with a bloody axe.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "determination",
+        "excitement",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音突然变得强硬、冷酷，'bloody axe'发音极具爆发力。",
+      "visual_cues": "眼神凶狠，下巴抬起，展现出暴力的决断力。",
+      "evidence": "这是情绪的转折点，角色决定诉诸暴力，情绪由内耗转为外向的攻击性。"
+    },
+    {
+      "timestamp_range": "00:55-01:10",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "呵，我会微笑，一边微笑一边杀人……让那残忍的马基雅维利都得向我学习。",
+      "transcript_en": "Why, I can smile, and murder whiles I smile... and set the murderous Machiavel to school.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "amusement",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "语调变得轻快、戏谑，带有嘲讽的笑意，节奏变得从容。",
+      "visual_cues": "嘴角上扬露出诡异的微笑，眉毛挑起，神态轻松自信。",
+      "evidence": "角色开始炫耀自己的欺诈才能，对自己的邪恶本质感到自豪和愉悦。"
+    },
+    {
+      "timestamp_range": "01:11-01:19",
+      "speaker_guess": "Richard (Ralph Fiennes)",
+      "transcript_zh": "我有这般手段却得不到王冠？哼，哪怕它再远，我也要把它摘下来。",
+      "transcript_en": "Can I do this, and cannot get a crown? Tut, were it further off, I'll pluck it down.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "pride",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "发出轻蔑的'Tut'声，最后一句语气坚定有力，充满必胜的信念。",
+      "visual_cues": "自信的点头，眼神中闪烁着野心的光芒，完全的掌控感。",
+      "evidence": "独白以绝对的自信结束，角色确信自己能够通过手段达成目标，情绪高昂。"
+    }
+  ]
+}
+```

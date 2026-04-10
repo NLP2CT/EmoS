@@ -1,0 +1,30 @@
+{
+  "num_items": 2000,
+  "slice": {
+    "start_idx": 3000,
+    "end_idx": 5000
+  },
+  "annotators": [
+    "a10",
+    "a11",
+    "a12"
+  ],
+  "high_confidence_count": 1964,
+  "low_confidence_count": 36,
+  "basic_changed_count": 381,
+  "mean_confidence": 0.9454185668468988,
+  "label_distribution": {
+    "Neutral": 0.479,
+    "Joy": 0.188,
+    "Anger": 0.1305,
+    "Sadness": 0.0735,
+    "Surprise": 0.0685,
+    "Disgust": 0.0335,
+    "Fear": 0.027
+  },
+  "pairwise_basic_agreement": {
+    "a10_vs_a11": 0.7445,
+    "a10_vs_a12": 0.664,
+    "a11_vs_a12": 0.6535
+  }
+}

@@ -1,0 +1,281 @@
+```json
+{
+  "summary": "在昏暗的牛棚中，主角马杰（黄渤饰）对着一头驴进行了一场充满情绪张力的独白。他细数驴对他造成的种种“迫害”（弄塌棚、泼粪、让他出丑），随后情绪从委屈转为愤怒的辩解，声称自己杀驴的兄弟是被迫的，并试图通过贬低驴的兄弟来合理化自己的行为。最后他恼羞成怒企图杀驴，却被突然出现的村民喝止，瞬间从癫狂转为惊慌否认。",
+  "overall_emotion_trend": {
+    "dominant": "Anger/愤怒",
+    "trajectory": "情绪起伏剧烈：00:00-00:40 从无奈的钦佩与恐惧开始；00:41-02:15 转为混合了厌恶与尴尬的愤怒控诉；02:16-03:18 变为急切的辩解与委屈；03:19-04:18 升级为对他人的蔑视与杀意；04:19-04:37 最终在被抓包时瞬间跌落至恐惧与尴尬。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:08",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你行，你真行。我都有些佩服你了。",
+      "transcript_en": "Great. You're truly something. I've got to say I admire you a little.",
+      "emotion_primary": "Neutral/自然",
+      "emotion_secondary": [
+        "admiration",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速缓慢，语气低沉，带有一种无奈的叹息感。",
+      "visual_cues": "身体蜷缩，眼神直视前方（驴的方向），手中摆弄着东西，神情疲惫。",
+      "evidence": "虽然台词是“佩服”，但结合语境是反讽，表达对驴折腾能力的无奈认可。"
+    },
+    {
+      "timestamp_range": "00:12-00:20",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你做的这一切，每一件事都出乎我的意料。事后你还做得跟没事似的。",
+      "transcript_en": "Everything you've done... it was all completely unexpected. And then, you act like nothing happened.",
+      "emotion_primary": "Surprise/惊讶",
+      "emotion_secondary": [
+        "confusion",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "重音落在“出乎我的意料”和“没事似的”，语气中带有不可置信。",
+      "visual_cues": "微微摇头，眼神中流露出困惑和指责。",
+      "evidence": "他在复盘驴的行为，对驴造成破坏后的淡定感到不可思议。"
+    },
+    {
+      "timestamp_range": "00:21-00:33",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你的目的是什么啊？你的目的，就是要置我于死地而后快，对吗？嗯？",
+      "transcript_en": "What are you aiming for? You want to dance on my grave, is it? Am I right? Hmm?",
+      "emotion_primary": "Fear/恐惧",
+      "emotion_secondary": [
+        "nervousness",
+        "curiosity"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调上扬变成疑问句，最后的“嗯？”带有逼问但底气不足的颤抖。",
+      "visual_cues": "身体前倾，试图从驴的反应中寻找答案，眼神显得神经质。",
+      "evidence": "他将动物的行为拟人化为谋杀企图，表现出被害妄想的恐惧。"
+    },
+    {
+      "timestamp_range": "00:36-00:52",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "但是，每一次我都挺过来了。我历经磨难，我依然站在你的面前！看着我！看着我！",
+      "transcript_en": "But... but every time, I've gotten back up. I've been through tribulations, but still I stand here before you. Look at me! Look at me!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "pride",
+        "excitement"
+      ],
+      "intensity": 4,
+      "audio_cues": "音量显著提高，从低语变为咆哮，最后几声嘶吼破音。",
+      "visual_cues": "猛地站起身，挥舞手臂，强迫驴看着自己，姿态变得具有攻击性。",
+      "evidence": "通过强调自己的幸存来建立心理优势，是一种防御性的愤怒和自豪。"
+    },
+    {
+      "timestamp_range": "00:56-01:05",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "头一回，你弄倒牲口棚，幸亏我命大，我掉到井里我逃过一劫。",
+      "transcript_en": "The first time, you toppled the stable. But I was lucky, and landed in the well. I escaped your first trap.",
+      "emotion_primary": "Neutral/自然",
+      "emotion_secondary": [
+        "relief",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语气恢复平叙，像是在算账。",
+      "visual_cues": "面部表情严肃，眼神回忆过去。",
+      "evidence": "他在陈述事实，虽然事情很危险，但此刻更多是庆幸。"
+    },
+    {
+      "timestamp_range": "01:07-01:20",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "二一回，你用大粪浇我。你让我恶心，你害得我一个月都不敢看绿色。",
+      "transcript_en": "The second time, you poured excrement on me. You made me vomit. I couldn't see green for a month!",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "disgust",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "提到“大粪”和“恶心”时，面部肌肉抽搐，声音带着嫌弃。",
+      "visual_cues": "皱眉，撇嘴，仿佛闻到了味道。",
+      "evidence": "对过往遭受的生理羞辱表现出强烈的生理性厌恶。"
+    },
+    {
+      "timestamp_range": "01:21-01:25",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "可是现在呢？我不怕了，我粉碎了你的阴谋。",
+      "transcript_en": "But now... I'm not afraid. I've blown your plan.",
+      "emotion_primary": "Joy/喜悦",
+      "emotion_secondary": [
+        "pride",
+        "optimism"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调轻快，带有一丝得意的笑意。",
+      "visual_cues": "嘴角上扬，眼神挑衅。",
+      "evidence": "短暂的胜利感，认为自己战胜了驴的“算计”。"
+    },
+    {
+      "timestamp_range": "01:29-01:50",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "三一回，你让我和彩凤，在那样一种特殊的环境下当众出丑。你让全村人民耻笑我们。",
+      "transcript_en": "The third time, you took me and Caifeng... away from that special place... You made us a laughingstock. Everyone in the village mocked us.",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "embarrassment",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音变得哽咽、低沉，语速放慢，充满痛苦。",
+      "visual_cues": "眼神低垂，不敢直视，仿佛重温了当时的羞耻。",
+      "evidence": "这是他最在意的心理创伤，提到“彩凤”和“耻笑”时情绪低落。"
+    },
+    {
+      "timestamp_range": "01:55-02:13",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你有什么坏你冲我使呀！你干嘛要捎带着她啊？缺德不缺德？嗯？你这是在犯罪啊！",
+      "transcript_en": "If you have evil plans, aim them at me. Why bring her into it? Have you no shame? It's criminal, what you've done.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disapproval",
+        "anger"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音再次拔高，变成指责和质问，语气尖锐。",
+      "visual_cues": "手指指着驴，身体前倾，表情狰狞。",
+      "evidence": "从自身的羞耻转为对连累他人的愤怒，站在道德高地指责驴。"
+    },
+    {
+      "timestamp_range": "02:21-02:30",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "树欲静而风不止。我知道，我知道你做这一切是为了你哥。",
+      "transcript_en": "\"The tree seeks calm but the wind blows on.\" I know. I know that everything you did was for your brother.",
+      "emotion_primary": "Neutral/自然",
+      "emotion_secondary": [
+        "realization",
+        "understanding"
+      ],
+      "intensity": 2,
+      "audio_cues": "引用古语时语气平缓，随后转为理解的口吻。",
+      "visual_cues": "情绪稍作平复，试图与驴进行“理性”沟通。",
+      "evidence": "情绪转折点，从控诉转为解释因果，试图解开“误会”。"
+    },
+    {
+      "timestamp_range": "02:31-02:45",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "我本想息事宁人，可你呢？可你就是不肯放过我。为什么？我跟你哪来那么大仇啊？",
+      "transcript_en": "I wanted to patch things over. But you... you wouldn't let it go. Why? Why is there such ill will between us?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "annoyance",
+        "confusion"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，充满委屈和不解，声音颤抖。",
+      "visual_cues": "摊开双手表示无奈，眉头紧锁。",
+      "evidence": "表达自己作为受害者的无奈，不理解为何遭到针对。"
+    },
+    {
+      "timestamp_range": "02:48-02:58",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你觉得是我要杀你哥对吗？我现在告诉你，我也是被逼的！是大莲让我杀你哥！",
+      "transcript_en": "You think I wanted to kill your brother? I'm telling you now, I was forced! Dalian was the one who had me kill him!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "fear",
+        "desperation"
+      ],
+      "intensity": 5,
+      "audio_cues": "歇斯底里的吼叫，急于撇清责任。",
+      "visual_cues": "眼睛瞪大，面部充血，极度激动的辩解状态。",
+      "evidence": "这是核心冲突的爆发，他试图通过推卸责任给“大莲”来洗白自己。"
+    },
+    {
+      "timestamp_range": "02:59-03:10",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "我替你哥求过情，没用。你知道你哥临死之前我跟它说什么吗？我跟它说我用铡刀杀它，是为了让它死个痛快。",
+      "transcript_en": "I tried to ask for mercy, but I failed. Do you know what I said to your brother... right before he died? I told him I was using a hay chopper to let him die a quick death.",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "remorse",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气软化，带着一丝自我感动的悲情。",
+      "visual_cues": "眼神变得柔和，试图表现出自己的仁慈。",
+      "evidence": "试图通过描述自己给予的“仁慈”来博取驴的谅解，同时也带有自我安慰的成分。"
+    },
+    {
+      "timestamp_range": "03:19-03:40",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你那哥也不是什么好东西。成天骄奢淫逸无所作为... 那姑娘换的... 自己有多少儿子他都不知道。",
+      "transcript_en": "Another thing about your brother: He wasn't anything special. Lazing around all day... He changes his ladies by the year... No idea how many children he has.",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "disapproval",
+        "contempt"
+      ],
+      "intensity": 3,
+      "audio_cues": "充满鄙夷的语气，唾弃感。",
+      "visual_cues": "歪着头，眼神斜视，一脸不屑。",
+      "evidence": "通过贬低死者（驴的兄弟）的私生活来减轻自己的负罪感，情绪转向轻蔑。"
+    },
+    {
+      "timestamp_range": "03:41-03:50",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "我原来以为你就是一头驴... 但是现在我一看，你丫还是一头驴！",
+      "transcript_en": "I once thought you were just a donkey... But now, looking at you now, I see that you're still just a donkey.",
+      "emotion_primary": "Neutral/自然",
+      "emotion_secondary": [
+        "realization",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "前半句铺垫似乎要升华，后半句突然转折骂人，语气肯定。",
+      "visual_cues": "指着驴的鼻子，最后一下重重地点头确认。",
+      "evidence": "逻辑闭环的辱骂，否定了驴的灵性，将其还原为畜生，为接下来的暴力做心理建设。"
+    },
+    {
+      "timestamp_range": "03:54-04:10",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "你把你那驴眼睛睁开看看... 我告诉你，你在我头上撒尿拉屎我都认，但是你丫不能拉痢疾呀！这他妈传染！",
+      "transcript_en": "Open up your donkey eyes and look around... Listen, you can piss on my head... but no diarrhea, damn you! That's fucking contagious!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disgust",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音极其愤怒，最后几句关于“痢疾”的吼叫既荒谬又真实。",
+      "visual_cues": "展示周围的农具（凶器），表情凶狠。",
+      "evidence": "虽然是在威胁，但理由（怕传染痢疾）显得非常市井和荒诞，体现了人物的底层逻辑。"
+    },
+    {
+      "timestamp_range": "04:12-04:18",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "一会你见了你哥，你跟它说说，你他妈让它评评理！",
+      "transcript_en": "You'll be meeting your brother in a moment. Tell him, you fucking have him judge the truth!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "anger",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "杀气腾腾，最后一声怒吼伴随着动作。",
+      "visual_cues": "转身去拿铡刀，动作决绝。",
+      "evidence": "图穷匕见，直接发出生死威胁，准备动手。"
+    },
+    {
+      "timestamp_range": "04:26-04:31",
+      "speaker_guess": "Ma Jie",
+      "transcript_zh": "没有嘛！",
+      "transcript_en": "No, I wasn't!",
+      "emotion_primary": "Fear/恐惧",
+      "emotion_secondary": [
+        "nervousness",
+        "embarrassment"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音瞬间变怂，带着惊慌失措的颤音。",
+      "visual_cues": "举着刀的手僵在半空，眼神闪躲，身体畏缩。",
+      "evidence": "被村民大姐喝止后，刚才的嚣张气焰瞬间消失，转为对被发现行凶的恐惧和否认。"
+    }
+  ]
+}
+```

@@ -1,0 +1,111 @@
+```json
+{
+  "summary": "该片段展示了电台DJ阿德里安·克劳纳（Adrian Cronauer）以标志性的高能量呐喊开启他在越南的早间广播，随后进行了一连串即兴的喜剧独白。整体氛围狂热、幽默且充满表演性，关键转折点在于播放唱片时速度出错，他迅速利用这一技术故障进行即兴创作，通过模仿慢速和快速的语调将尴尬化为笑料。",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "情绪从开场极高强度的兴奋（Excitement）爆发，转为持续的娱乐（Amusement）和表演性的喜悦。虽然中间出现了技术故障，但主体人物的情绪从未低落，而是通过幽默将意外转化为高潮，始终保持着高昂的积极能量。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:08",
+      "speaker_guess": "Adrian Cronauer",
+      "transcript_zh": "早——————安，越南！",
+      "transcript_en": "Goooooood Morning Vietnam!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "pride"
+      ],
+      "intensity": 5,
+      "audio_cues": "极度响亮、拉长的高音呐喊，气息控制极强，音调上扬。",
+      "visual_cues": "嘴巴张大到极致，颈部静脉暴起，眼睛紧闭后猛然睁开，全身都在用力。",
+      "evidence": "这是标志性的开场白，人物通过极端的声乐表现释放巨大的能量和热情，旨在唤醒听众。"
+    },
+    {
+      "timestamp_range": "00:08-00:17",
+      "transcript_zh": "嘿，这不是演习，这是摇滚乐！我们要从湄公河三角洲一直摇滚到非军事区。是我听错了还是这听起来像猫王电影？岘港万岁！",
+      "transcript_en": "Hey, this is not a test. This is rock and roll. Time to rock it from the Delta to the DMZ. Is that me or does that sound like an Elvis Presley movie? Viva Da Nang.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "excitement"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速极快，充满节奏感，模仿猫王（Elvis）的颤音和腔调。",
+      "visual_cues": "头部随着节奏晃动，眉毛上挑，眼神在麦克风和控制台之间快速切换，面带自信的微笑。",
+      "evidence": "他迅速进入角色扮演模式，享受这种快节奏的语言游戏和模仿带来的乐趣。"
+    },
+    {
+      "timestamp_range": "00:17-00:24",
+      "transcript_zh": "噢，岘港万岁。岘港我？岘港我？干嘛不拿根绳子吊死我？嘿，这么大声是不是有点太早了？嘿，太晚了。",
+      "transcript_en": "Oh, Viva Da Nang. Da Nang me? Da Nang me? Why don't they get a rope and hang me? Hey, is it a little too early for being that loud? Hey, too late.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "从歌唱腔调突然转变为自嘲的低语，然后又迅速反驳自己。",
+      "visual_cues": "做鬼脸，假装痛苦地歪头，然后对着麦克风耸肩。",
+      "evidence": "他在进行自我指涉的幽默（关于被吊死和太吵），情绪核心是逗乐听众和自己。"
+    },
+    {
+      "timestamp_range": "00:24-00:31",
+      "transcript_zh": "现在是0600时。'O'代表什么？噢（O）我的天，太早了。说到早，那个克罗马农人马蒂·德莱维茨怎么样？谢谢你马蒂，这丝般顺滑的声音。",
+      "transcript_en": "It's 0600. What's the O stand for? Oh my god, it's early. Speaking of early, how about that Cro-Magnon, Marty Dreiwitz? Thank you Marty for silky smooth sound.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调变得像深夜电台DJ那样夸张的柔和与磁性，带有讽刺意味。",
+      "visual_cues": "身体后仰，手指向玻璃窗后的工程师，表情轻松戏谑。",
+      "evidence": "他用夸张的赞美来调侃同事，维持着轻松愉快的广播氛围。"
+    },
+    {
+      "timestamp_range": "00:31-00:42",
+      "transcript_zh": "弗雷迪和梦想家们... （音乐变慢）噢，速度不对。我们放错速度了。对于那些正在宿醉恢复中的人来说，这听起来刚刚好。",
+      "transcript_en": "Freddie and the Dreamers... [Music slows] Oh, that's the wrong speed. We've got it on the wrong speed. For those of you recovering from a hangover, that's gonna sound just right.",
+      "emotion_primary": "Surprise",
+      "emotion_secondary": [
+        "amusement",
+        "realization",
+        "confusion"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音随着音乐变慢而变得低沉拖沓，随后恢复正常语速进行解说。",
+      "visual_cues": "眼睛突然睁大，头随着慢速音乐缓慢转动，表现出夸张的困惑。",
+      "evidence": "面对突发的技术故障，他先是表现出表演性质的惊讶，随即迅速将其转化为关于宿醉的笑话。"
+    },
+    {
+      "timestamp_range": "00:42-00:52",
+      "transcript_zh": "让我们把它调回来。再试快一点，看看能不能提神。调到78转！[极速语流] 那些飞行员现在正... 我真的很喜欢这音乐！",
+      "transcript_en": "Let's put it right back down again. Let's try a little faster, see if that picks it up a little bit. Let's get it up on 78! [Fast gibberish] Those pilots are going right now... I really like the music!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "amusement"
+      ],
+      "intensity": 5,
+      "audio_cues": "极高频、极快语速的类似花栗鼠的声音，几乎听不清单词，充满躁动。",
+      "visual_cues": "头部像通电一样剧烈颤抖，身体前倾，完全沉浸在混乱的快节奏中。",
+      "evidence": "他主动制造混乱，享受这种由速度变化带来的荒诞喜剧效果，情绪达到狂躁的顶点。"
+    },
+    {
+      "timestamp_range": "00:52-01:00",
+      "transcript_zh": "噢，还是一首烂歌。嘿等一下，我们试试别的。让我们倒着放，看看会不会好听点... [模仿倒放恶魔音] 弗雷迪是恶魔...",
+      "transcript_en": "Oh, still a bad song. Hey wait a minute, let's try something. Let's play this backwards and see if it gets any better... Freddie is the devil...",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "curiosity",
+        "amusement"
+      ],
+      "intensity": 3,
+      "audio_cues": "恢复正常语调评价歌曲，随后压低嗓音发出阴森的喉音。",
+      "visual_cues": "表情变得严肃神秘，凑近麦克风，眼神聚焦在虚构的恐怖点上。",
+      "evidence": "这是对当时摇滚乐“倒放以此崇拜撒旦”都市传说的讽刺模仿，展示了他思维的跳跃性和持续的幽默感。"
+    }
+  ]
+}
+```

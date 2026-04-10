@@ -1,0 +1,183 @@
+```json
+{
+  "summary": "在公园的长椅上，心理治疗师尚恩（Sean）平静地面对天才少年威尔（Will），通过一段震撼人心的独白拆解了威尔的心理防线。尚恩从最初的平和反思，转为深情地讲述自己关于艺术、战争、爱情和丧妻之痛的切身体验，以此反衬威尔虽然知识渊博却缺乏真实的生活经历，最终以一种包容但坚定的态度向威尔发出了敞开心扉的挑战。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪起初为平静的顿悟（00:00-00:27），随后转变为带有教育意义的严肃（00:28-01:54），在谈及亡妻时达到悲伤与深情的顶点（01:55-02:37），最后回归到一种带有挑战意味的坚定与期待（03:51-04:17）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:16",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "我在想你那天对我说的话，关于我的画。我想了大半个晚上。突然我意识到了一些事情，然后我陷入了深沉平静的睡眠，之后就再没想过你了。",
+      "transcript_en": "Thought about what you said to me the other day, about my painting. Stayed up half the night thinking about it. Something occurred to me, I fell into a deep peaceful sleep, and haven't thought about you since.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "relief",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "Low pitch, calm pace, slight raspiness indicating tiredness but resolution.",
+      "visual_cues": "Looking down initially, then making eye contact; relaxed facial muscles.",
+      "evidence": "Sean reveals he has processed the conflict and found peace, indicated by his description of 'deep peaceful sleep'."
+    },
+    {
+      "timestamp_range": "00:17-00:27",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "你知道我意识到什么了吗？你只是个孩子。你根本不知道自己在说什么。",
+      "transcript_en": "You know what occurred to me? You're just a kid. You don't have the faintest idea what you're talking about.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "amusement",
+        "caring"
+      ],
+      "intensity": 2,
+      "audio_cues": "Soft tone, almost whispering the realization, lacking aggression.",
+      "visual_cues": "A slight, almost forgiving smile/smirk; direct and gentle eye contact.",
+      "evidence": "He labels Will a 'kid' not as an insult, but as a factual observation that explains Will's behavior, showing understanding rather than anger."
+    },
+    {
+      "timestamp_range": "00:28-00:33",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "你从来没离开过波士顿吧？... 没。",
+      "transcript_en": "You've never been out of Boston. ... Nope.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "realization"
+      ],
+      "intensity": 1,
+      "audio_cues": "Rhetorical questioning tone, answering for Will.",
+      "visual_cues": "Observant gaze, nodding slightly.",
+      "evidence": "He is confirming his hypothesis about Will's lack of worldly experience."
+    },
+    {
+      "timestamp_range": "00:34-01:07",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "如果我问你关于艺术，你可能会把每一本写过的艺术书里的内容都倒背如流。米开朗基罗，你知道很多关于他的事... 但你无法告诉我西斯廷教堂里的气味是什么样的。",
+      "transcript_en": "So if I asked you about art, you'd probably give me the skinny on every art book ever written. Michelangelo, you know a lot about him... But I bet you can't tell me what it smells like in the Sistine Chapel.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "admiration",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Rhythmic delivery, listing facts quickly, then slowing down for the 'smell' line.",
+      "visual_cues": "Looks up at the sky as if visualizing the chapel, then back to Will.",
+      "evidence": "He acknowledges Will's book smarts (admiration) but highlights the lack of sensory experience (disapproval of pure intellect)."
+    },
+    {
+      "timestamp_range": "01:08-01:29",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "如果我问你关于女人，你可能会列举你喜欢的类型... 但你无法告诉我，在一个女人身边醒来并感到真正幸福是什么感觉。",
+      "transcript_en": "If I ask you about women, you'd probably give me a syllabus of your personal favorites... But you can't tell me what it feels like to wake up next to a woman and feel truly happy.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "nostalgia",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice softens significantly on 'truly happy', becoming warmer.",
+      "visual_cues": "Eyes soften, a genuine, reminiscent smile appears.",
+      "evidence": "While challenging Will, Sean recalls his own happiness, shifting the primary emotion briefly to the joy of that memory."
+    },
+    {
+      "timestamp_range": "01:30-01:54",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "你是个强硬的孩子。如果我问你关于战争... 但你从未把挚友的头放在膝盖上，看着他吐出最后一口气向你求助。",
+      "transcript_en": "You're a tough kid. I ask you about war... You've never held your best friend's head in your lap, watch him gasp his last breath looking to you for help.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "remorse",
+        "neutral"
+      ],
+      "intensity": 4,
+      "audio_cues": "Tone becomes somber, serious, and slightly darker.",
+      "visual_cues": "Intense, unblinking stare; face hardens slightly at the memory of war.",
+      "evidence": "The imagery is graphic and tragic, reflecting deep trauma and sadness associated with his past."
+    },
+    {
+      "timestamp_range": "01:55-02:37",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "如果我问你关于爱... 但你从未看着一个女人并感到完全脆弱... 甚至不知道那是为了她。你不知道在医院病房里坐两个月握着她的手是什么感觉，因为医生看到你眼中的神情就知道‘探视时间’对你不适用。",
+      "transcript_en": "I ask you about love... But you've never looked at a woman and been totally vulnerable... And you wouldn't know what it's like to be her angel... You wouldn't know about sleeping sitting up in a hospital room for two months, holding her hand, because the doctors could see in your eyes that the terms 'visiting hours' don't apply to you.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "love",
+        "grief",
+        "admiration"
+      ],
+      "intensity": 5,
+      "audio_cues": "Voice cracks, pauses are longer, breath is shaky. High emotional resonance.",
+      "visual_cues": "Eyes glisten with tears, looking away into the distance (memory) then back to Will.",
+      "evidence": "This is the emotional climax. He is reliving the death of his wife. The sadness is profound, mixed with deep love."
+    },
+    {
+      "timestamp_range": "02:38-02:51",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "你不知道真正的失去，因为那只有当你爱某样东西胜过爱自己时才会发生。我怀疑你从未敢那样爱过任何人。",
+      "transcript_en": "You don't know about real loss, 'cause it only occurs when you've loved something more than you love yourself. I doubt you've ever dared to love anybody that much.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disappointment",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice stabilizes, becoming firm and authoritative.",
+      "visual_cues": "Direct, challenging eye contact. Head tilts slightly.",
+      "evidence": "He shifts from his own grief to analyzing Will's inability to be vulnerable."
+    },
+    {
+      "timestamp_range": "02:52-03:27",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "我看着你，并没有看到一个聪明自信的男人... 我看到的是一个自负、被吓坏了的孩子。但你是个天才，威尔，没人否认这一点。",
+      "transcript_en": "I look at you, I don't see an intelligent, confident man... I see a cocky, scared shitless kid. But you're a genius, Will. No one denies that.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "realization",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Honest, blunt tone. 'Scared shitless' is emphasized but not shouted.",
+      "visual_cues": "Studying Will's face closely, expression is serious but not malicious.",
+      "evidence": "He is stripping away Will's persona. The emotion is a neutral, clinical, yet compassionate dismantling of Will's ego."
+    },
+    {
+      "timestamp_range": "03:28-03:50",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "你以为我会知道你生活的艰辛、你的感受、你是谁，仅仅因为我读过《雾都孤儿》吗？那能概括你吗？",
+      "transcript_en": "Do you think I'd know the first thing about how hard your life has been, how you feel, who you are, because I read Oliver Twist? Does that encapsulate you?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone becomes sharper, slightly faster. Rhetorical questions delivered with bite.",
+      "visual_cues": "Head shake, incredulous expression.",
+      "evidence": "He expresses irritation at the idea that a book can define a human life, mirroring Will's earlier judgment of him."
+    },
+    {
+      "timestamp_range": "03:51-04:17",
+      "speaker_guess": "Sean Maguire",
+      "transcript_zh": "就我个人而言，我根本不在乎那些... 除非你想谈谈你自己，你是谁。那样我就感兴趣了。我奉陪到底。但你不想那样做，对吧，孩子？你被你可能说出的话吓坏了。... 该你了，首领。",
+      "transcript_en": "Personally, I don't give a shit about all that... Unless you want to talk about you, who you are. Then I'm fascinated. I'm in. But you don't want to do that, do you sport? You're terrified of what you might say. ... Your move, chief.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "optimism",
+        "curiosity"
+      ],
+      "intensity": 2,
+      "audio_cues": "Voice drops to a whisper at the end. 'Your move, chief' is final but inviting.",
+      "visual_cues": "Leans in slightly, then sits back. Leaves the space open for Will.",
+      "evidence": "He offers an ultimatum wrapped in an invitation. It's a neutral stance waiting for a reaction, showing he cares enough to listen if Will is real."
+    }
+  ]
+}
+```

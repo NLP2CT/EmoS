@@ -1,0 +1,8 @@
+ds_label,Anger,Disgust,Fear,Joy,Neutral,Sadness,Surprise
+Anger,92,97,10,11,15,18,29
+Disgust,14,52,5,5,29,5,15
+Fear,3,9,25,6,8,11,11
+Joy,1,0,1,654,19,3,52
+Neutral,6,23,5,190,220,10,19
+Sadness,12,11,1,9,35,108,14
+Surprise,0,0,0,3,7,5,26

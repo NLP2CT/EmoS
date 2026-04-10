@@ -1,0 +1,269 @@
+```json
+{
+  "summary": "The character theatrically embodies Don Quixote, introducing himself with grandiose pride and addressing his imaginary squire, Sancho Panza. The scene escalates from a confident introduction to a passionate, high-intensity recitation of chivalric virtues, culminating in a delusional but heroic battle cry against an imaginary giant.",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "The clip begins with confident Pride (00:00), builds into passionate Admiration and religious-like fervor during the recitation of virtues (00:19-00:38), and peaks at high-arousal Excitement and Determination during the final charge (00:46)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:03",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "没错，我的名字叫做堂吉诃德",
+      "transcript_en": "That's right, my name is Don Quixote.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Clear, declarative tone with a confident pitch.",
+      "visual_cues": "Direct eye contact, slight smile, self-referential hand gesture.",
+      "evidence": "The character introduces himself with a sense of satisfaction and identity affirmation."
+    },
+    {
+      "timestamp_range": "00:03-00:08",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "我会成为这个世界上最英勇、最无畏、最强大的骑士",
+      "transcript_en": "I will become the world's most heroic, fearless, and powerful knight.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "pride",
+        "excitement"
+      ],
+      "intensity": 4,
+      "audio_cues": "Rising intonation, emphasizing adjectives like 'most heroic' and 'powerful'.",
+      "visual_cues": "Expansive arm gestures, intense and bright facial expression.",
+      "evidence": "The speaker expresses a grand ambition with unwavering belief and enthusiasm."
+    },
+    {
+      "timestamp_range": "00:08-00:13",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "那么旁边这位亲爱的桑丘先生，我亲爱的侍从",
+      "transcript_en": "And this dear Mr. Sancho by my side, my dear squire.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "caring",
+        "admiration",
+        "love"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone softens to be warmer and more affectionate.",
+      "visual_cues": "Gestures to the side indicating an imaginary companion, softer eyes.",
+      "evidence": "The character addresses his companion with affection and respect."
+    },
+    {
+      "timestamp_range": "00:13-00:15",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "你做好准备了吗",
+      "transcript_en": "Are you ready?",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "anticipation"
+      ],
+      "intensity": 3,
+      "audio_cues": "Inquisitive but encouraging tone.",
+      "visual_cues": "Leaning slightly forward, engaging with the imaginary squire.",
+      "evidence": "He is checking his companion's readiness for the upcoming adventure."
+    },
+    {
+      "timestamp_range": "00:15-00:19",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "那么再为我重复一遍，骑士的美德是什么",
+      "transcript_en": "Then repeat for me once more, what are the virtues of a knight?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "anticipation"
+      ],
+      "intensity": 3,
+      "audio_cues": "Instructional tone, rhythmic delivery.",
+      "visual_cues": "Hand raised like a conductor or teacher.",
+      "evidence": "He is setting the stage for the recitation of the creed, acting as a mentor."
+    },
+    {
+      "timestamp_range": "00:19-00:21",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "荣耀即是生命",
+      "transcript_en": "Honor is life.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "Strong, punchy delivery.",
+      "visual_cues": "Sharp hand gesture emphasizing 'honor'.",
+      "evidence": "He declares the first virtue with absolute conviction."
+    },
+    {
+      "timestamp_range": "00:21-00:23",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "怜悯胜于征服",
+      "transcript_en": "Mercy is greater than conquest.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "caring",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "Softer, more reverent tone.",
+      "visual_cues": "Hand placed over the heart/chest area.",
+      "evidence": "The gesture and tone reflect the gentler virtue of mercy."
+    },
+    {
+      "timestamp_range": "00:23-00:25",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "勇气直面深渊",
+      "transcript_en": "Courage faces the abyss.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice drops slightly in pitch but increases in force.",
+      "visual_cues": "Pointing forward and down, simulating facing a threat.",
+      "evidence": "He embodies the bravery required to face danger."
+    },
+    {
+      "timestamp_range": "00:25-00:27",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "公正如同天平",
+      "transcript_en": "Justice is like a scale.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "approval",
+        "admiration"
+      ],
+      "intensity": 3,
+      "audio_cues": "Balanced, rhythmic enunciation.",
+      "visual_cues": "Hands held out to mimic the weighing of a scale.",
+      "evidence": "He physically enacts the metaphor of justice."
+    },
+    {
+      "timestamp_range": "00:27-00:29",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "灵魂璀璨虔诚",
+      "transcript_en": "The soul is bright and devout.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "awe"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice lifts, sounding inspired.",
+      "visual_cues": "Looking upwards, hands spreading open.",
+      "evidence": "The delivery suggests spiritual elevation and purity."
+    },
+    {
+      "timestamp_range": "00:29-00:32",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "忠诚永不腐朽",
+      "transcript_en": "Loyalty never decays.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "Firm, unwavering tone.",
+      "visual_cues": "Arms wide open, chest forward.",
+      "evidence": "He emphasizes the enduring nature of loyalty."
+    },
+    {
+      "timestamp_range": "00:32-00:34",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "谦逊铸就丰碑",
+      "transcript_en": "Humility builds monuments.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Respectful tone.",
+      "visual_cues": "Slight bow or lowering of the head/hands.",
+      "evidence": "He portrays the grounded nature of humility."
+    },
+    {
+      "timestamp_range": "00:34-00:38",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "牺牲点燃永恒",
+      "transcript_en": "Sacrifice ignites eternity.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "pride",
+        "admiration"
+      ],
+      "intensity": 5,
+      "audio_cues": "Loudest volume, shouting with passion.",
+      "visual_cues": "Arms fully raised to the sky, head thrown back.",
+      "evidence": "This is the climax of the creed, delivered with maximum theatrical passion."
+    },
+    {
+      "timestamp_range": "00:38-00:39",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "很好",
+      "transcript_en": "Very good.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "approval",
+        "relief"
+      ],
+      "intensity": 2,
+      "audio_cues": "Sudden drop in volume and pitch, conversational.",
+      "visual_cues": "Nodding, satisfied smile.",
+      "evidence": "He breaks character from the recitation to approve of the performance/moment."
+    },
+    {
+      "timestamp_range": "00:39-00:43",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "那么现在拿起我们的武器，抓好坐骑的缰绳",
+      "transcript_en": "Now pick up our weapons, grab the mount's reins.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "anticipation"
+      ],
+      "intensity": 4,
+      "audio_cues": "Fast-paced, urgent, commanding.",
+      "visual_cues": "Miming the action of holding reins and preparing for battle.",
+      "evidence": "He transitions immediately into action mode."
+    },
+    {
+      "timestamp_range": "00:43-00:46",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "看到前面那个巨人了吗",
+      "transcript_en": "Do you see that giant ahead?",
+      "emotion_primary": "Surprise",
+      "emotion_secondary": [
+        "excitement",
+        "curiosity"
+      ],
+      "intensity": 4,
+      "audio_cues": "Focused, intense projection.",
+      "visual_cues": "Staring intently at a fixed point in the distance.",
+      "evidence": "He spots the enemy (the windmill/giant), triggering the conflict."
+    },
+    {
+      "timestamp_range": "00:46-00:48",
+      "speaker_guess": "Don Quixote (Character)",
+      "transcript_zh": "冲锋",
+      "transcript_en": "Charge!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "desire"
+      ],
+      "intensity": 5,
+      "audio_cues": "Shouted battle cry.",
+      "visual_cues": "Lunging forward physically.",
+      "evidence": "He initiates the attack with high-energy enthusiasm typical of the character's delusions."
+    }
+  ]
+}
+```

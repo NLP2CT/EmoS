@@ -1,0 +1,225 @@
+```json
+{
+  "summary": "在阴暗的地下墓穴中，哈姆雷特独自一人徘徊，陷入了关于生与死的深刻哲学沉思。他权衡着忍受世间苦难与通过自杀寻求安宁的利弊，情绪从最初对死亡带来的解脱的渴望，转变为对死后未知世界的恐惧。这种对未知的恐惧最终导致了意志的瘫痪，使他意识到过度的思考会扼杀行动的决心。",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "情绪始于深沉的忧郁（Sadness）和对死亡的渴望（00:00-00:59）；在意识到死后可能做梦时，转折为恐惧（Fear）和焦虑（01:00-01:35）；随后在历数世间不公时表现出厌恶与痛苦（Disgust/Sadness）（01:36-02:13）；最终回归到一种因怯懦和无力改变现状而产生的绝望与悔恨（Sadness/Remorse）（02:51-03:26）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:15",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "生存还是毁灭，这是一个问题。",
+      "transcript_en": "To be or not to be, that is the question.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "curiosity",
+        "confusion",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音低沉，语速缓慢，带有呼吸声，表现出内心的沉重。",
+      "visual_cues": "特写镜头，眼神凝视虚空，眉头微蹙，面部肌肉紧绷。",
+      "evidence": "哈姆雷特在提出核心哲学问题时，语气中充满了存在主义的痛苦，眼神迷离，显示出内心的挣扎。"
+    },
+    {
+      "timestamp_range": "00:16-00:27",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "是否应默默忍受坎坷命运之无情打击，还是应与深如大海的无涯苦难奋战，通过反抗把它们扫清。",
+      "transcript_en": "Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "annoyance",
+        "confusion"
+      ],
+      "intensity": 3,
+      "audio_cues": "他在走下楼梯时声音略微提高，带有回声，语气中透露出一种疲惫的愤怒。",
+      "visual_cues": "他在墓穴的楼梯上行走，身体语言显得沉重，环顾四周的石墙。",
+      "evidence": "他在权衡忍受与反抗，提到“命运的矢石”时，表情痛苦，显示出对生活苦难的厌倦。"
+    },
+    {
+      "timestamp_range": "00:27-00:36",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "死了，睡着了；什么都完了。",
+      "transcript_en": "To die, to sleep. No more.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "relief",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "声音变得柔和，仿佛在安慰自己，语调下降。",
+      "visual_cues": "他停下脚步，站在石棺旁，眼神变得柔和，仿佛看到了解脱。",
+      "evidence": "将死亡等同于睡眠，他的语气中流露出一种对终结痛苦的渴望和暂时的解脱感。"
+    },
+    {
+      "timestamp_range": "00:37-00:50",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "要是在这一种睡眠之中，我们心头的创痛，以及其他无数血肉之躯所不能避免的打击，都可以从此消失...",
+      "transcript_en": "And by a sleep to say we end the heartache and the thousand natural shocks that flesh is heir to.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "optimism"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，语气中带有一种急切的希望。",
+      "visual_cues": "他俯身看着石棺上的雕像，手轻轻触碰，仿佛在寻求确认。",
+      "evidence": "他详细描述死亡能带来的好处（结束心痛），表现出对这种状态的强烈向往。"
+    },
+    {
+      "timestamp_range": "00:50-00:59",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "那正是我们求之不得的结局。",
+      "transcript_en": "'Tis a consummation devoutly to be wished.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "relief"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变成急切的耳语，双手紧握在嘴边，如同祈祷。",
+      "visual_cues": "极度特写，双手合十抵住嘴唇，闭眼或眼神极度渴望。",
+      "evidence": "“Devoutly to be wished”这句台词配合他祈祷般的姿势，显示了他对死亡带来的安宁的极度渴望。"
+    },
+    {
+      "timestamp_range": "00:59-01:15",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "死了，睡着了... 睡着了也许还会做梦。嗯，阻碍就在这儿。",
+      "transcript_en": "To die, to sleep. To sleep, perchance to dream. Ay, there's the rub.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "realization",
+        "nervousness",
+        "surprise"
+      ],
+      "intensity": 4,
+      "audio_cues": "在说到“dream”时停顿，语气突然变得警觉，“Ay, there's the rub”时声音紧绷。",
+      "visual_cues": "眼神突然睁大，从祈祷的姿势中惊醒，目光转向侧面，流露出惊恐。",
+      "evidence": "这是情绪的关键转折点。对“做梦”的意识到打破了对死亡的浪漫化幻想，恐惧瞬间占据主导。"
+    },
+    {
+      "timestamp_range": "01:16-01:35",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "因为当我们摆脱了这一具朽腐的皮囊以后，在那死的睡眠里，究竟将会有什么样的梦魇发生，那不能不使我们踌躇顾虑。",
+      "transcript_en": "For in that sleep of death what dreams may come when we have shuffled off this mortal coil, must give us pause.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "confusion",
+        "nervousness"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音颤抖，充满了不确定性和忧虑。",
+      "visual_cues": "他在墓穴中踱步，显得焦躁不安，不再平静地注视石棺。",
+      "evidence": "他解释了恐惧的来源——死后的未知。这种不确定性（give us pause）使他的肢体语言变得犹豫。"
+    },
+    {
+      "timestamp_range": "01:35-01:47",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "谁愿意忍受人世的鞭挞和讥嘲...",
+      "transcript_en": "For who would bear the whips and scorns of time...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "annoyance",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得沙哑，带有哭腔或极度的痛苦。",
+      "visual_cues": "他将头靠在石棺边缘，身体蜷缩，显得极度疲惫和痛苦。",
+      "evidence": "他开始历数人生的苦难，身体上的痛苦姿态（手扶额头）强化了这种难以忍受的沉重感。"
+    },
+    {
+      "timestamp_range": "01:48-02:00",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "压迫者的凌辱、傲慢者的冷眼、被轻蔑的爱情的惨痛、法律的迁延、官吏的横暴...",
+      "transcript_en": "The oppressor's wrong, the proud man's contumely, the pangs of disprized love, the law's delay, the insolence of office...",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "anger",
+        "disapproval",
+        "sadness"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速加快，列举一系列社会不公时，语气中充满了愤恨和厌恶。",
+      "visual_cues": "侧脸特写，面部表情扭曲，眼神中透露出对这些社会现象的鄙视。",
+      "evidence": "他在列举具体的社会丑恶现象（如傲慢、官僚），情绪从单纯的悲伤转向了对外部世界的厌恶和愤怒。"
+    },
+    {
+      "timestamp_range": "02:01-02:13",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "只要用一把小小的刀子，就可以清算他自己的一生？",
+      "transcript_en": "When he himself might his quietus make with a bare bodkin?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "curiosity",
+        "desire"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气中带有一种荒谬感和质问。",
+      "visual_cues": "他似乎在注视着虚空中的某种武器，或者在比划动作，眼神锐利。",
+      "evidence": "他在思考自杀的轻易性（一把匕首即可），这种对比（巨大的痛苦vs简单的解脱）加深了他的悲剧感。"
+    },
+    {
+      "timestamp_range": "02:14-02:32",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "谁愿意负着这样的重担，在烦劳的生命下呻吟流汗，倘不是因为惧怕不可知的死后...",
+      "transcript_en": "Who would fardels bear, to grunt and sweat under a weary life, but that the dread of something after death...",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "grief",
+        "nervousness"
+      ],
+      "intensity": 4,
+      "audio_cues": "呼吸沉重，声音压抑，表现出身体和精神的双重重负。",
+      "visual_cues": "他靠在墙上，显得无力支撑，眼神向下，充满了恐惧。",
+      "evidence": "提到“dread”（恐惧），他承认是恐惧迫使人们忍受痛苦。他的声音和姿态都传达出一种被困住的绝望。"
+    },
+    {
+      "timestamp_range": "02:33-02:50",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "那个从来不曾有一个旅人回来过的神秘之国，是它迷惑了我们的意志...",
+      "transcript_en": "The undiscovered country from whose bourn no traveler returns, puzzles the will...",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "confusion",
+        "sadness"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音变得空灵、敬畏，充满了对未知的迷茫。",
+      "visual_cues": "他凝视着黑暗的深处，仿佛在寻找那个“未发现的国度”。",
+      "evidence": "他对死后世界的描述（无归客的国度）充满了神秘和恐怖，这种未知直接导致了意志的瘫痪（puzzles the will）。"
+    },
+    {
+      "timestamp_range": "02:51-03:03",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "因此，良心把我们都变成了懦夫。",
+      "transcript_en": "Thus conscience does make cowards of us all.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "realization",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气断定，带有一种自我厌恶的苦涩。",
+      "visual_cues": "他转身离开石棺，低头行走，显得挫败。",
+      "evidence": "这是总结性的陈述，他承认了自己的怯懦。语气中没有了之前的激昂，只剩下无奈的接受。"
+    },
+    {
+      "timestamp_range": "03:04-03:26",
+      "speaker_guess": "Hamlet",
+      "transcript_zh": "而决断的本色，也因为顾虑的阴影，而变得苍白病态；轰轰烈烈的伟业，也因为这层顾虑... 失去了行动的名义。",
+      "transcript_en": "And thus the native hue of resolution is sicklied o'er with the pale cast of thought... and lose the name of action.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "grief"
+      ],
+      "intensity": 2,
+      "audio_cues": "声音逐渐微弱，最后几乎消失，象征着行动力的消散。",
+      "visual_cues": "他仰起头，光线打在脸上，眼神中充满了悲剧性的领悟，但身体静止不动。",
+      "evidence": "他描述了思想如何扼杀行动（sicklied o'er），最终以“失去行动的名义”结束，表现出一种深刻的无力感和对自我无能的哀叹。"
+    }
+  ]
+}
+```

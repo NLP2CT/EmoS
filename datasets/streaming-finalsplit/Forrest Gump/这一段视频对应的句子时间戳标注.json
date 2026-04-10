@@ -1,0 +1,151 @@
+{
+  "lang": "en",
+  "film": "Forrest Gump",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 2/Greatest Acting Monologues Of All Time PART 2.mp4",
+  "t_start_global": 1814.54,
+  "t_end_global": 1920.62,
+  "duration": 106.08,
+  "clip": "Forrest Gump.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "You died on a Saturday morning.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 5.45,
+      "end": 8.79,
+      "text": "I had you placed here under our tree.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 13.87,
+      "end": 18.67,
+      "text": "And I had that house of your father bulldozed to the ground.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 22.82,
+      "end": 30.44,
+      "text": "Mama always said dying was a part of life.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 33.98,
+      "end": 35.17,
+      "text": "I sure wish it wasn't.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 39.03,
+      "end": 42.93,
+      "text": "Little Forrest, you're doing just fine.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 43.91,
+      "end": 47.61,
+      "text": "About to start school again soon.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 49.58,
+      "end": 53.71,
+      "text": "I make his breakfast, lunch and dinner every day.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 55.87,
+      "end": 61.87,
+      "text": "I make sure he combs his hair and brushes his teeth every day.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 64.81,
+      "end": 66.61,
+      "text": "Teach him how to play ping pong.",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 68.79,
+      "end": 71.17,
+      "text": "Okay, he's really good.",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 71.39,
+      "end": 72.35,
+      "text": "Forrest, you go.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 74.65,
+      "end": 78.76,
+      "text": "We fish a lot.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 83.16,
+      "end": 84.34,
+      "text": "And every night we read a book.",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 84.44,
+      "end": 85.78,
+      "text": "You're so smart, Jenny.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 89.64,
+      "end": 91.38,
+      "text": "You'd be so proud of him.",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 93.27,
+      "end": 98.69,
+      "text": "I have here, wrote you a letter.",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 100.69,
+      "end": 102.63,
+      "text": "And he says, I can't read it.",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 102.75,
+      "end": 103.97,
+      "text": "Not supposed to.",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 104.05,
+      "end": 106.08,
+      "text": "So I just leave it here for you.",
+      "filename": "segment020.mp4"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+```json
+{
+  "summary": "在这一场景中，坐在轮椅上的Emma Brookner医生面对一群政府官员，愤怒地质问他们为何忽视艾滋病危机并拒绝资助研究。情绪从尖刻的讽刺和指责迅速升级为绝望的咆哮，最终她将原本珍视的研究资料愤怒地扔向官员，恳求他们采取行动。",
+  "overall_emotion_trend": {
+    "dominant": "Anger/愤怒",
+    "trajectory": "情绪由00:00处的轻蔑与讽刺（Annoyance/Disapproval）开始，随着列举官僚主义的拖延，怒火逐渐积压（00:30）；在提到法国的研究被忽视时转化为极度的厌恶（Disgust）；最终在01:05处爆发为歇斯底里的愤怒与绝望（Rage/Fear），伴随着激烈的肢体动作。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:05",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "怎么总是发生这种事，所有的蠢货总是都在你们那一队？",
+      "transcript_en": "How does it always happen that all of the idiots are always on your team?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval",
+        "disgust"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调尖刻，重音落在'always'和'idiots'上，充满讽刺意味。",
+      "visual_cues": "侧脸特写，眼神犀利，下巴微扬，表现出轻蔑。",
+      "evidence": "她使用侮辱性词汇（idiots）并以反问句开场，直接攻击听众的能力。"
+    },
+    {
+      "timestamp_range": "00:05-00:10",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "你们怎么能拒绝资助我的研究，或者不邀请我参与你们的研究？",
+      "transcript_en": "How can you refuse to fund my research or not invite me to participate in yours?",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "confusion",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，语气中带有难以置信的质问感。",
+      "visual_cues": "眉毛上扬，眼睛睁大，头部随着说话节奏轻微晃动。",
+      "evidence": "她对被排除在研究之外表示不解和愤怒，强调对方决策的不合理。"
+    },
+    {
+      "timestamp_range": "00:10-00:20",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "你们国立卫生研究院两年前就收到了我的第一份拨款申请。你们光是印申请表就花了一年时间。",
+      "transcript_en": "Your National Institutes of Health received my first request for money two years ago. It took you one year just to print up application forms.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得更加坚定和响亮，清晰地强调时间跨度（two years, one year）。",
+      "visual_cues": "直视前方，面部肌肉紧绷，表现出对官僚效率低下的极度不满。",
+      "evidence": "通过列举具体的时间延误事实来指责机构的无能。"
+    },
+    {
+      "timestamp_range": "00:20-00:36",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "从我报告首个病例到现在你们花了三年时间才露面看一眼，而你们每年收到四十亿美元用来保护美国人民的健康。",
+      "transcript_en": "It's taken you three years from my first reported case just to show up here for a look... out of the four billion dollars you now receive each and every year to protect the health of the American people.",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "在提到'four billion dollars'时音量显著提高，语气充满指责。",
+      "visual_cues": "身体前倾，眼神死死盯着听众，强调资金与行动的不匹配。",
+      "evidence": "对比巨额预算和零作为，表达了强烈的道德谴责。"
+    },
+    {
+      "timestamp_range": "00:36-00:40",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "只有上帝知道这笔钱什么时候才会用到人身上。",
+      "transcript_en": "Won't come to anyone before only God knows when.",
+      "emotion_primary": "Sadness/伤心",
+      "emotion_secondary": [
+        "disappointment",
+        "pessimism"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调短暂下沉，带有一种无力感和讽刺。",
+      "visual_cues": "眼神短暂游离，随即又恢复愤怒的注视。",
+      "evidence": "表达了对未来的悲观预期，愤怒之下掩藏着对现状的失望。"
+    },
+    {
+      "timestamp_range": "00:40-00:54",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "法国已经发现了一种很有希望的病毒。你们为什么拒绝与法国人合作？...就为了在传播死亡的同时窃取诺贝尔奖吗？",
+      "transcript_en": "A promising virus has been discovered in France. Why do you refuse to cooperate with the French?... Just so you can steal a Nobel Prize while something is being passed around that causes death?",
+      "emotion_primary": "Disgust/厌恶",
+      "emotion_secondary": [
+        "anger",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音颤抖，音高上升，语速极快，几乎是在咆哮。",
+      "visual_cues": "双手抱头（00:51），表现出极度的挫败感和难以置信，面部表情痛苦。",
+      "evidence": "指责官员为了名誉（诺贝尔奖）而置人命于不顾，这是一种极度的道德厌恶。"
+    },
+    {
+      "timestamp_range": "00:54-01:04",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "在非洲已经发现女性感染了这种病...这只是时间问题。在你们采取行动之前，我们可能都死光了。",
+      "transcript_en": "Women have been discovered to have it in Africa... It is only a question of time. We could all be dead before you do anything.",
+      "emotion_primary": "Fear/恐惧",
+      "emotion_secondary": [
+        "fear",
+        "nervousness",
+        "realization"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音中带着哭腔和恐慌，特别是在说'We could all be dead'时。",
+      "visual_cues": "眼睛瞪得极大，瞳孔放大，面色苍白，身体僵硬。",
+      "evidence": "她从指责转向了对人类灭绝前景的真实恐惧预警。"
+    },
+    {
+      "timestamp_range": "01:05-01:12",
+      "speaker_guess": "Dr. Emma Brookner",
+      "transcript_zh": "你们想要我的数据？想要我的想法？想要我的病人？拿去！只要做点什么！",
+      "transcript_en": "You want my data? You want my ideas? You want my patients? Take them! Just do something with them!",
+      "emotion_primary": "Anger/愤怒",
+      "emotion_secondary": [
+        "anger",
+        "grief",
+        "desire"
+      ],
+      "intensity": 5,
+      "audio_cues": "嘶吼，声音嘶哑，伴随着猛烈的撞击声。",
+      "visual_cues": "猛烈地将一叠叠文件扔向听众席，动作剧烈，完全失控。",
+      "evidence": "这是绝望的爆发，通过抛弃自己的心血（文件）来换取对方的一点点行动，愤怒中夹杂着乞求。"
+    }
+  ]
+}
+```

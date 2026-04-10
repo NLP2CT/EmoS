@@ -1,0 +1,161 @@
+```json
+{
+  "summary": "主体人物Malcolm X在哈莱姆区向人群发表演讲，起初以冷静、权威的口吻剥离政治和宗教标签，强调共同的种族身份。随着演讲深入，他将矛头指向系统性的政治欺骗与剥削，情绪由严肃的教导转为激昂的愤慨。关键转折点在于他开始列举毒品与犯罪是当权者的控制手段，最终以极具爆发力的排比句揭露民众受骗的真相，将现场气氛推向高潮。",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "从开场的冷静与坚定（Neutral/Determination 00:00）逐渐过渡到身份认同的自豪（Pride 00:40），随后转为对压迫的厌恶与指责（Disgust/Anger 01:20），最终在结尾处爆发为极高强度的义愤（High Intensity Anger 01:50）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:12",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "我必须在一开始就强调，尊敬的伊利亚·穆罕默德并不是政治家。所以我今天下午站在这里，不是作为共和党人，也不是作为民主党人。",
+      "transcript_en": "I must emphasize at the outstart that the Honorable Elijah Muhammad is not a politician. So I'm not here this afternoon as a Republican, nor as a Democrat.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disapproval",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调平稳，发音清晰，重音落在否定词'not'上，节奏受控。",
+      "visual_cues": "面部表情严肃，眼神坚定地扫视人群，手势克制。",
+      "evidence": "他正在设定演讲的基调，通过否定常规标签来建立新的对话框架，情绪尚处于铺垫阶段。"
+    },
+    {
+      "timestamp_range": "00:12-00:27",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "不是作为共济会成员，也不是作为麋鹿会成员。不是作为新教徒，也不是天主教徒。不是作为基督徒，也不是犹太人。不是作为浸信会教徒，也不是卫理公会教徒。事实上，甚至不是作为一个美国人。",
+      "transcript_en": "Not as a Mason, nor as an Elk. Not as a Protestant, nor a Catholic. Not as a Christian, nor a Jew. Not as a Baptist, nor a Methodist. In fact, not even as an American.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速加快，形成排比的韵律感，音量略微提升，语气中带有一种拒绝和切割的坚决。",
+      "visual_cues": "频繁的否定手势，身体随着列举的节奏轻微摆动，眼神犀利。",
+      "evidence": "通过连续的排比否定，他系统性地剥离了社会赋予的身份标签，表现出对这些分类的摒弃。"
+    },
+    {
+      "timestamp_range": "00:27-00:37",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "因为如果我是美国人，今天困扰我们人民的问题甚至根本不会存在。",
+      "transcript_en": "Because if I was an American, the problem that confronts our people today wouldn't even exist.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disappointment",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调中出现了讽刺和苦涩的意味，'wouldn't even exist'发音用力。",
+      "visual_cues": "眉毛上扬表示反讽，身体前倾，试图让听众理解这个逻辑悖论。",
+      "evidence": "他指出了身份与现实的矛盾，情绪中开始渗入对不公待遇的不满。"
+    },
+    {
+      "timestamp_range": "00:37-00:46",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "所以我今天必须站在这里，以我出生时的身份：一个黑人。",
+      "transcript_en": "So I have to stand here today as what I was when I was born: A Black man.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval"
+      ],
+      "intensity": 4,
+      "audio_cues": "在说'A Black man'之前有明显的停顿，随后以坚定、自豪的重音说出，引发人群欢呼。",
+      "visual_cues": "昂首挺胸，下巴抬起，眼神充满自信和尊严。",
+      "evidence": "这是演讲的第一个情感确立点，他拥抱了自己的核心身份，表现出强烈的自豪感（归类为Joy/Pride）。"
+    },
+    {
+      "timestamp_range": "00:47-01:04",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "在有共和党或民主党这种东西之前，我们是黑人... 在有犹太人或基督徒这种东西之前，我们是黑人。事实上，在有美国这个地方之前，我们就是黑人。",
+      "transcript_en": "Before there was any such thing as a Republican or a Democrat, we were Black... Before there was any such thing as a Jew or a Christian, we were Black people. In fact, before there was any such place as America, we were Black.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "pride",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调具有教育性和历史厚重感，节奏稳健，反复强调'We were Black'。",
+      "visual_cues": "手势配合节奏敲击讲台或指向虚空，强调历史的先在性。",
+      "evidence": "他在构建历史叙事，情绪是根植于事实的坚定和对根源的认同。"
+    },
+    {
+      "timestamp_range": "01:05-01:12",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "而在美国早已从舞台上消失之后，依然会有黑人存在。",
+      "transcript_en": "And after America has long passed from the scene, there will still be Black people.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "optimism",
+        "pride"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气带有一种预言般的确定性，音调在句尾下降，显示出不可动摇的信念。",
+      "visual_cues": "目光深邃，仿佛在展望未来，神态庄重。",
+      "evidence": "表达了对种族生命力的信念，超越了当前的政治国家概念。"
+    },
+    {
+      "timestamp_range": "01:12-01:23",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "我要告诉你们真相。每个选举年，这些政客被派到这里来安抚我们。他们被白人派到这里，安插在这里。",
+      "transcript_en": "I'm gonna tell you like it really is. Every election year these politicians are sent up here to pacify us. They're sent here and set up here by the white man.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速突然加快，音量提高，语气变得尖锐和指责，'pacify'一词咬字很重。",
+      "visual_cues": "手指开始频繁指点，面部肌肉紧绷，表现出攻击性。",
+      "evidence": "演讲进入对抗阶段，直接揭露政治阴谋，愤怒情绪开始主导。"
+    },
+    {
+      "timestamp_range": "01:23-01:34",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "他们把毒品送到哈莱姆区来安抚我们！他们把酒精送到这里来安抚我们！他们把卖淫送到这里来安抚我们！",
+      "transcript_en": "They send drugs in Harlem down here to pacify us! They send alcohol down here to pacify us! They send prostitution down here to pacify us!",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "anger",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "排比句式，每一句的音量都在递增，语气中充满了对这些社会毒瘤的厌恶。",
+      "visual_cues": "皱眉，眼神中流露出鄙夷，头部随着强调的节奏猛烈摆动。",
+      "evidence": "列举社区的堕落现象并归咎于外部势力，表现出强烈的道德厌恶和愤慨。"
+    },
+    {
+      "timestamp_range": "01:34-01:50",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "没有白人的允许，你在哈莱姆甚至搞不到毒品！没有白人的允许，你搞不到卖淫！... 每当你以此破坏那个酒瓶上的封条，你破坏的是政府的封条！",
+      "transcript_en": "Why you can't even get drugs in Harlem without the white man's permission! You can't get prostitution in Harlem without the white man's permission!... Every time you break the seal on that liquor bottle, that's a government seal you're breaking!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "realization"
+      ],
+      "intensity": 5,
+      "audio_cues": "近乎咆哮，声音嘶哑，语速极快，充满爆发力。",
+      "visual_cues": "摘下眼镜（或调整眼镜），身体剧烈前倾，手指用力指向听众和虚空的权威，青筋暴起。",
+      "evidence": "他揭露了控制系统的运作机制，情绪达到激愤的状态，试图唤醒听众的危机感。"
+    },
+    {
+      "timestamp_range": "01:50-02:02",
+      "speaker_guess": "Malcolm X",
+      "transcript_zh": "我说了一遍又一遍，你们被耍了！你们被骗了！你们被蒙蔽了！被忽悠了！误入歧途！",
+      "transcript_en": "I say and I say it again, you've been had! You've been took! You've been hoodwinked! Bamboozled! Led astray!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "极具节奏感的断句，每一个词都像重锤一样砸下，音量达到顶峰，伴随着人群的呼应。",
+      "visual_cues": "全身都在用力，面部表情极度生动，每一个词都配合着斩钉截铁的手势。",
+      "evidence": "这是演讲的高潮，使用俚语和强烈的动词来描述被欺骗的状态，情绪是纯粹的、煽动性的义愤。"
+    }
+  ]
+}
+```

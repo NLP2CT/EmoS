@@ -1,0 +1,46 @@
+{
+  "lang": "en",
+  "film": "The Imitation Game",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 2/Greatest Acting Monologues Of All Time PART 2.mp4",
+  "t_start_global": 1217.86,
+  "t_end_global": 1243.56,
+  "duration": 25.7,
+  "clip": "The Imitation Game.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 4.52,
+      "text": "You cry at sad films. I am allergic to pollen.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 6.22,
+      "end": 11.1,
+      "text": "What is the point of different tastes, different preferences,",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 11.1,
+      "end": 15.7,
+      "text": "if not to say that our brains work differently, that we think differently?",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 18.02,
+      "end": 19.72,
+      "text": "I mean, if we could say that about one another,",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 19.78,
+      "end": 25.7,
+      "text": "then why can't we say the same thing for brains built of copper and wire, steel?",
+      "filename": "segment005.mp4"
+    }
+  ]
+}

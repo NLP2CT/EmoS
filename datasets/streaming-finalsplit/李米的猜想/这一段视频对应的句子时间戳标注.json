@@ -1,0 +1,165 @@
+{
+  "lang": "zh",
+  "film": "李米的猜想",
+  "source_rel": "电影《李米的猜想》李米独白 周迅饰/电影《李米的猜想》李米独白 周迅饰.mp4",
+  "t_start_global": 938.86,
+  "t_end_global": 1020.48,
+  "duration": 81.62,
+  "clip": "李米的猜想.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 4.38,
+      "text": "我们上中学的时候相爱,",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 5.34,
+      "end": 6.48,
+      "text": "后来一直在一起,",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 8.28,
+      "end": 9.74,
+      "text": "我们学习成绩都不好,",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 10.04,
+      "end": 11.06,
+      "text": "都没考上大学,",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 12.38,
+      "end": 13.94,
+      "text": "他爱看武侠,",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 15.66,
+      "end": 17.74,
+      "text": "还有就是跟我谈恋爱,",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 21.46,
+      "end": 22.6,
+      "text": "我们都不起眼,",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 22.76,
+      "end": 23.94,
+      "text": "没有人在乎我们,",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 25.12,
+      "end": 26.16,
+      "text": "高考结束那天,",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 26.62,
+      "end": 27.52,
+      "text": "我们都很沮丧,",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 30.16,
+      "end": 33.94,
+      "text": "那天我们也没见面,",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 35.66,
+      "end": 37.06,
+      "text": "他从考场出来,",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 37.72,
+      "end": 40.34,
+      "text": "花了五块钱买了一张游泳票,",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 41.06,
+      "end": 42.72,
+      "text": "在游泳池里待了一个下午,",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 46.82,
+      "end": 48.6,
+      "text": "霓虹黄的太阳下,",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 50.22,
+      "end": 51.12,
+      "text": "他第一次哭,",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 57.28,
+      "end": 59.07,
+      "text": "后来他就开始了",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 59.52,
+      "end": 61.14,
+      "text": "出租车司机的生活,",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 67.48,
+      "end": 68.38,
+      "text": "后来,",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 69.66,
+      "end": 70.92,
+      "text": "他跟我说,",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 72.88,
+      "end": 73.78,
+      "text": "遇上我,",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 78.34,
+      "end": 81.62,
+      "text": "是他那么大最开心的一件事,",
+      "filename": "segment022.mp4"
+    }
+  ]
+}

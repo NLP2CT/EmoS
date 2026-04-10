@@ -1,0 +1,194 @@
+```json
+{
+  "summary": "Cyrano de Bergerac delivers a passionate, theatrical monologue rejecting his friend's suggestion to seek patronage, mocking the sycophancy required to succeed in society with biting sarcasm. The mood shifts from scornful defiance to a soaring, romantic celebration of artistic independence, where he declares his willingness to accept poverty and solitude in exchange for absolute freedom of soul.",
+  "overall_emotion_trend": {
+    "dominant": "Disgust",
+    "trajectory": "The clip begins with intense Disgust and Mockery (00:05-00:59) as Cyrano lists humiliating acts of submission. It transitions at 01:00 into Pride and Joy as he describes the beauty of freedom, ending with a mix of Pride and biting Amusement regarding his enemies (02:08-02:25)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:05-00:06",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "你要我怎么做？",
+      "transcript_en": "What would you have me do?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "Sharp, rhetorical tone; quick delivery indicating impatience.",
+      "visual_cues": "Head snaps toward the interlocutor; eyebrows raised in challenge.",
+      "evidence": "Cyrano immediately challenges Le Bret's premise with a rhetorical question."
+    },
+    {
+      "timestamp_range": "00:06-00:14",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "去寻求某位大人物的庇护，像常春藤爬大树一样，爬到我无法独自站立的高度？不，谢谢。",
+      "transcript_en": "Seek for the patronage of some great man, and like a creeping vine on a tall tree, crawl upward where I cannot stand alone? No, thank you.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "pride"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice drops to a mocking, sneering tone on 'creeping vine'; sharp staccato on 'No, thank you.'",
+      "visual_cues": "Hand gestures mimicking a climbing vine; body leans in mockingly.",
+      "evidence": "He uses the metaphor of a parasite (creeping vine) to express his revulsion at dependency."
+    },
+    {
+      "timestamp_range": "00:15-00:21",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "做一个小丑，卑鄙地希望能博得那张冷脸的一笑？不，谢谢。",
+      "transcript_en": "Be a buffoon in the vile hope of teasing out a smile on some cold face? No, thank you.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "anger"
+      ],
+      "intensity": 3,
+      "audio_cues": "Emphasizes 'vile' and 'cold face' with venomous articulation.",
+      "visual_cues": "Mocking smile that quickly turns into a grimace of rejection.",
+      "evidence": "He rejects the role of an entertainer for the elite, labeling the hope as 'vile'."
+    },
+    {
+      "timestamp_range": "00:21-00:29",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "每天早上吃癞蛤蟆当早餐？把膝盖跪出老茧？练就一副软骨头？把肚皮在尘土里磨破？不，谢谢。",
+      "transcript_en": "Eat a toad for breakfast every morning? Make my knees callous? Cultivate a supple spine? Wear out my belly groveling in the dust? No, thank you.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "anger",
+        "disgust"
+      ],
+      "intensity": 4,
+      "audio_cues": "Tempo increases; voice becomes guttural on 'groveling'.",
+      "visual_cues": "Physical acting of bending and bowing; touching his knee and stomach to emphasize the physical degradation.",
+      "evidence": "The imagery of eating toads and physical groveling highlights intense physical and moral repulsion."
+    },
+    {
+      "timestamp_range": "00:30-00:39",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "用左手给任何能给我金子的猪挠背，而右手——太骄傲而不屑知道搭档在干什么——却把钱收下？不，谢谢。",
+      "transcript_en": "With my left hand scratch the back of any swine that roots up gold for me, while my right, too proud to know his partner's business, takes in the fee? No, thank you.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "disgust"
+      ],
+      "intensity": 4,
+      "audio_cues": "Sarcastic, high-pitched tone when mimicking the 'proud' right hand; sharp rejection at the end.",
+      "visual_cues": "Pantomimes scratching with one hand and secretly taking money with the other.",
+      "evidence": "He attacks the hypocrisy of taking dirty money while pretending to be honorable."
+    },
+    {
+      "timestamp_range": "00:39-00:44",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "我要用上帝赐予我的火焰整天去烧香进贡吗？不，谢谢。",
+      "transcript_en": "Shall I use the fire God gave me to burn incense all day long? No, thank you.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "pride",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice rises in indignation; 'fire God gave me' is spoken with resonance.",
+      "visual_cues": "Hand on chest indicating his soul/talent; intense eye contact.",
+      "evidence": "He views his talent as a divine gift not to be wasted on flattery (burning incense)."
+    },
+    {
+      "timestamp_range": "00:45-00:59",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "费尽心机把名字挤进报纸专栏？算计、策划、担惊受怕……不，谢谢！不，我谢谢你！再一次，我谢谢你！",
+      "transcript_en": "Struggle to insinuate my name into the columns of the Gazette? Calculate, scheme, be afraid... No thank you! No, I thank you! And again I thank you!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "Rapid-fire delivery listing verbs; volume peaks at the final repetitive 'No thank yous'.",
+      "visual_cues": "Violent waving of the hand; turning away and walking toward the door; dramatic bowing.",
+      "evidence": "The repetition and volume indicate a climax of rejection, physically distancing himself from the lifestyle described."
+    },
+    {
+      "timestamp_range": "01:00-01:15",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "但是……去歌唱，去欢笑，去梦想，走我自己的路，自由自在，用眼睛看清事物的本质。",
+      "transcript_en": "But... to sing, to laugh, to dream, to walk in my own way, free, with an eye to see things as they are.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "pride",
+        "relief"
+      ],
+      "intensity": 4,
+      "audio_cues": "Tone shifts completely to soft, melodic, and resonant; pacing slows down.",
+      "visual_cues": "Opens the door to reveal light; looks upward; posture straightens and relaxes.",
+      "evidence": "The contrast in tone and the list of positive verbs (sing, laugh, dream) marks the shift to celebrating independence."
+    },
+    {
+      "timestamp_range": "01:16-01:29",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "一种意味着男子汉气概的声音。想把帽子戴哪儿就戴哪儿。对于一句话，说是，或不。去战斗，或写作。绝不写下一句不是发自内心的话。",
+      "transcript_en": "A voice that means manhood. To cock my hat where I choose. At a word, a yes, a no. To fight, or write. But never to make a line I have not heard in my own heart.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "determination"
+      ],
+      "intensity": 3,
+      "audio_cues": "Firm, grounded voice; emphasis on 'manhood' and 'own heart'.",
+      "visual_cues": "Touches his hat brim; gestures to his heart.",
+      "evidence": "He defines his happiness through autonomy and artistic integrity."
+    },
+    {
+      "timestamp_range": "01:30-01:53",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "在阳光下，在星光下，走任何一条路。不在乎名利是否在彼岸。却能谦卑地说：我的灵魂满足于花朵，满足于野草，甚至荆棘……只要它们是我自己花园里采摘的。",
+      "transcript_en": "To travel any road under the sun, under the stars, nor care if fame or fortune lie beyond the bourne. Yet with all modesty to say: my soul be satisfied with flowers, with weeds, with thorns even... but gather them in the one garden you may call your own.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "optimism",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "Poetic, soaring delivery; voice softens on 'flowers' and 'weeds'.",
+      "visual_cues": "Arms spread wide in the doorway; looking out into the distance/light.",
+      "evidence": "He finds joy in ownership of his own life, even if it yields only 'thorns', as long as they are his."
+    },
+    {
+      "timestamp_range": "01:55-02:08",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "简而言之，我太骄傲，不愿做寄生虫。如果我的天性不像那棵高耸入云的山松，我也许站得不高，但我是独自站立。",
+      "transcript_en": "In a word I am too proud to be a parasite. And if my nature lacks the germ that grows towering to heaven like the mountain pine, I stand not high it may be, but alone.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval"
+      ],
+      "intensity": 5,
+      "audio_cues": "Strong, declarative finale; deep resonance on 'alone'.",
+      "visual_cues": "Stands tall in the doorway; chin up; confident posture.",
+      "evidence": "He reclaims the word 'alone' not as isolation, but as a badge of honor and pride."
+    },
+    {
+      "timestamp_range": "02:11-02:25",
+      "speaker_guess": "Cyrano",
+      "transcript_zh": "看着别人交朋友……就像狗交朋友一样。我观察这些犬类的礼节，心想：谢天谢地，又来了一个敌人！",
+      "transcript_en": "Watching other people making friends... everywhere, as a dog makes friends. I mark the manner of these canine courtesies and think: Here comes, thank heaven, another enemy!",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "amusement",
+        "pride",
+        "disgust"
+      ],
+      "intensity": 3,
+      "audio_cues": "Sarcastic, biting tone; laughs shortly at 'canine courtesies'; triumphant tone on 'another enemy'.",
+      "visual_cues": "Sneering expression; dismissive hand wave; leans back against the doorframe.",
+      "evidence": "He compares social climbers to dogs sniffing each other, expressing disgust for them and amusement/pride in being their enemy."
+    }
+  ]
+}
+```

@@ -1,0 +1,101 @@
+```json
+{
+  "summary": "弗兰克·安德伍德（Frank Underwood）打破第四面墙，向观众阐述了美国大选陷入僵局后的宪法危机，从愤怒的抗议人群过渡到对开国元勋局限性的哲学思考。他以一种愤世嫉俗的幽默感引用了迪士尼漫画中的“抛硬币主义（Flipism）”，最终自信地引出第十二修正案作为解决当前政治死局的机制，展现了从冷静观察到掌控全局的情绪转变。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪从开场的严肃观察（00:00）逐渐过渡到中段的讽刺与黑色幽默（01:00），最后在结尾处转变为一种掌控局势的自信与满足（01:42）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:26",
+      "speaker_guess": "Frank Underwood",
+      "transcript_zh": "人民很愤怒。九周前，我们国家举行了一场大选，但是由于两个州拒绝确认选举结果，康威和我都没拿到270张选举人票，而这是胜选的必要条件。所以他们每天早上聚集在这里，来履行他们神圣的权利，被宪法第一修正案保障的权利，发出他们愤怒的声音。",
+      "transcript_en": "The people are angry. Nine weeks ago, we had an election in this country, but because two states refused to certify, neither Conway nor myself received the 270 electoral votes required for victory. So they gather here every morning to exercise their magnificent right, guaranteed by the First Amendment... to let their angry voices be heard.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "disapproval"
+      ],
+      "intensity": 2,
+      "audio_cues": "Low pitch, steady cadence, narrating with a detached, observational tone. Slight emphasis on 'angry'.",
+      "visual_cues": "Standing behind iron bars, face is stoic, looking out at the crowd but emotionally separated from them.",
+      "evidence": "弗兰克的声音冷静且具有权威感，他在陈述事实而非表达个人愤怒。尽管他在描述愤怒的人群，但他自己的状态是抽离和分析性的。"
+    },
+    {
+      "timestamp_range": "00:27-00:43",
+      "speaker_guess": "Frank Underwood",
+      "transcript_zh": "就这样，感恩节、圣诞节，再加上半个月来了又去，政府的三大分支全都深陷危机。国会吵成一团，最高法院少了一位法官，必将陷入僵局，而行政机关也群龙无首。",
+      "transcript_en": "And so, Thanksgiving, Christmas, and half of January have come and gone, and all three branches of government are in crisis. The Congress is in disarray, the Supreme Court is down a justice and doomed to deadlock, and the executive branch is without a boss.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disapproval",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "Rhythmic listing of events, tone is grave but controlled. A slight drop in pitch at 'without a boss'.",
+      "visual_cues": "Walking confidently down a path, direct eye contact with the camera, hands moving naturally.",
+      "evidence": "他列举了政府的瘫痪状态，语气中带有一种对现状的批判性陈述，但依然保持着政治家的沉稳。"
+    },
+    {
+      "timestamp_range": "00:44-00:59",
+      "speaker_guess": "Frank Underwood",
+      "transcript_zh": "你看，我觉得，国父们就是乏了。说真的，谁能怪他们呢？你怎么可能把方方面面都考虑周全。各种意外，各种难以避免的灾难。到了一定程度，你也只能放弃，双手合十祈祷，祈求能有个好结果。",
+      "transcript_en": "You see, my feeling is, I think the Founding Fathers, they just got tired. And really, can you blame them? I mean, you can't think of everything. Black swans, Murphy's Law. I mean, at a certain point, you just have to sign off and cross your goddamn fingers and hope for the best.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "amusement",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "Conversational tone, slight scoff/chuckle when mentioning 'goddamn fingers'.",
+      "visual_cues": "Standing by the water, relaxed posture, hands in pockets. A slight smirk appears.",
+      "evidence": "他开始对建国者进行一种近乎调侃的评价，语气中流露出对人类局限性的讽刺性理解（cynical amusement）。"
+    },
+    {
+      "timestamp_range": "01:00-01:24",
+      "speaker_guess": "Frank Underwood",
+      "transcript_zh": "或者使用“扔硬币原理”。这是一种伪哲学，意思是生活中最重要的事都要通过扔硬币来决定。这个说法最先出现在迪士尼的漫画书《硬币决定法》里，我最喜欢这期了。里面讲到巴蒂教授说服唐老鸭，所有重大的人生决定都通过扔硬币来决断。“生活就是场赌博，让扔硬币原理指引你”。",
+      "transcript_en": "Or adopt \"flipism,\" a pseudo-philosophy of life in which the most important decisions are made by the flipping of a coin. It was first introduced in the Disney comic book Flip Decision, one of my favorites, in which Donald Duck is persuaded by Professor Batty to make all the most important decisions based on the flipping of a coin. \"Life is but a gamble. Let flipism guide your ramble.\"",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "curiosity"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone becomes lighter, almost storytelling. He emphasizes 'Donald Duck' and rhymes 'gamble' with 'ramble' playfully.",
+      "visual_cues": "He flips an imaginary coin (or gestures as such), smiling slightly, eyes widening with intellectual engagement.",
+      "evidence": "弗兰克显然很享受这个关于唐老鸭的荒谬比喻，这表现出一种智力上的优越感和娱乐感（amusement），因此归类为Joy（尽管是冷幽默）。"
+    },
+    {
+      "timestamp_range": "01:26-01:41",
+      "speaker_guess": "Frank Underwood",
+      "transcript_zh": "我们以前也有过这种麻烦。1800年大选，杰斐逊对伯尔。他们最后打成了平手，每人73张选举人票。这是当时的胜选要求。这时国会试图解决这种国父们根本想象不到的局面。",
+      "transcript_en": "We've had this sort of trouble before. The election of 1800. Jefferson versus Burr. They wound up in a tie. 73 electoral votes each. That was the number required then. And that's when Congress tried to address what the Founding Fathers just couldn't imagine.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "Voice becomes resonant, echoing in the memorial. Tone is educational and historical.",
+      "visual_cues": "Standing in front of the Jefferson statue, looking small compared to history, but speaking with equal weight.",
+      "evidence": "回归到严肃的历史叙述，他在为接下来的策略铺垫法律和历史基础，情绪回归冷静。"
+    },
+    {
+      "timestamp_range": "01:42-01:54",
+      "speaker_guess": "Frank Underwood",
+      "transcript_zh": "于是，第十二修正案诞生了。里面说，如果各州不能确认选举结果，那么就由众议院来挑选总统，由参议院来选副总统。",
+      "transcript_en": "And, poof, the Twelfth Amendment was born. And it says that if the states don't certify, it's the House that chooses the president and the Senate that chooses the vice president.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval",
+        "excitement"
+      ],
+      "intensity": 4,
+      "audio_cues": "Sharp intake of breath before 'poof', emphatic delivery on 'House' and 'Senate'. A tone of finality and satisfaction.",
+      "visual_cues": "Hand gesture mimicking magic ('poof'), intense eye contact, a look of calculating satisfaction.",
+      "evidence": "当他提到第十二修正案时，表现出一种找到“解题钥匙”的满足感和自信。'Poof'这个词的使用带有戏剧性的得意（Pride/Excitement）。"
+    }
+  ]
+}
+```

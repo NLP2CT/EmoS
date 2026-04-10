@@ -1,0 +1,192 @@
+```json
+{
+  "summary": "梅姨（Aunt May）向彼得讲述邻居男孩对蜘蛛侠的崇拜，借此发表了一段关于英雄主义本质的深刻独白。她从温暖的赞赏转为庄严的哲理探讨，强调英雄不仅能以此激励他人，更需要做出巨大的个人牺牲。关键转折点在于她提到“放弃我们最想要的东西，甚至是我们的梦想”，这既是对英雄宿命的阐述，也是对彼得放弃蜘蛛侠身份的隐晦劝诫。",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "情绪从轻松的喜爱（00:00）逐渐升华为充满敬意的崇拜（00:24），随后在谈及牺牲时转为沉重与感伤（00:55），最后回归到充满希望的坚定（01:12）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:02",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "蜘蛛侠。",
+      "transcript_en": "Spider-Man.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "amusement",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调轻松，带有一丝幽默感，音高平稳。",
+      "visual_cues": "梅姨低头看着箱子，嘴角带着淡淡的微笑，神态放松。",
+      "evidence": "她以一种轻松、略带调侃的口吻回答彼得关于邻居男孩在做什么的问题。"
+    },
+    {
+      "timestamp_range": "00:02-00:05",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "哦，他能认出谁是英雄。",
+      "transcript_en": "Oh, he knows a hero when he sees one.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气变得温暖肯定，重音落在“knows”和“hero”上。",
+      "visual_cues": "她抬起头看向彼得，眼神中流露出赞许和慈爱。",
+      "evidence": "她肯定了邻居男孩的眼光，同时也间接表达了对蜘蛛侠（即彼得）的认可。"
+    },
+    {
+      "timestamp_range": "00:05-00:11",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "外面的这种人物太少了，飞来飞去，救我这种老太婆。",
+      "transcript_en": "Too few characters out there, flying around like that, saving old girls like me.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "gratitude",
+        "amusement"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速适中，带有自嘲的幽默感（old girls like me），笑声轻微。",
+      "visual_cues": "她笑着摇头，手部有轻微的挥动动作，表情生动。",
+      "evidence": "她回忆起被救的经历，用幽默化解了危险的回忆，表达了感激之情。"
+    },
+    {
+      "timestamp_range": "00:12-00:21",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "上帝知道，像亨利这样的孩子需要英雄。勇敢、自我牺牲的人。为我们所有人树立榜样。",
+      "transcript_en": "And Lord knows, kids like Henry need a hero. Courageous, self-sacrificing people. Setting examples for all of us.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "caring"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气变得严肃而真诚，语速放缓，强调“courageous”和“self-sacrificing”。",
+      "visual_cues": "她停止了手中的动作，眼神变得深邃，仿佛在思考更深层的意义。",
+      "evidence": "她从个人经历上升到社会层面，定义了英雄的特质，充满了敬意。"
+    },
+    {
+      "timestamp_range": "00:22-00:24",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "人人都爱英雄。",
+      "transcript_en": "Everybody loves a hero.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "approval",
+        "love"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气坚定，像是在陈述一个普遍真理。",
+      "visual_cues": "她转身面对彼得，眼神直接接触，传递着信念。",
+      "evidence": "这是一个过渡句，引出接下来关于大众对英雄崇拜的描述。"
+    },
+    {
+      "timestamp_range": "00:24-00:37",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "人们排队等候他们，为他们欢呼，高喊他们的名字。多年以后，他们会讲述自己如何在雨中站了几个小时，只为看一眼那个教导他们再坚持一秒钟的人。",
+      "transcript_en": "People line up for 'em... cheer them... scream their names... and years later they'll tell how they stood in the rain for hours just to get a glimpse of the one who taught them to hold on a second longer.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "optimism",
+        "pride"
+      ],
+      "intensity": 5,
+      "audio_cues": "语调逐渐上扬，充满激情和感染力，但在最后一句“hold on a second longer”时变得温柔而有力。",
+      "visual_cues": "她的表情充满光彩，仿佛看到了那个场景，眼神闪烁着希望的光芒。",
+      "evidence": "她生动地描绘了英雄对普通人的精神激励作用，情感达到了高潮。"
+    },
+    {
+      "timestamp_range": "00:38-00:49",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "我相信我们每个人心中都有一个英雄，让我们保持诚实，给我们力量，让我们高尚...",
+      "transcript_en": "I believe there's a hero in all of us... that keeps us honest, gives us strength, makes us noble...",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气变得更加哲学化和内省，语速缓慢，每一个词都充满分量。",
+      "visual_cues": "镜头推进，特写她的面部，眼神坚定而温柔。",
+      "evidence": "她将英雄主义内化为一种普遍的人性光辉，表达了对人类潜能的信仰。"
+    },
+    {
+      "timestamp_range": "00:50-00:54",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "...最后让我们带着尊严死去。",
+      "transcript_en": "...and finally allows us to die with pride.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "pride",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音略微低沉，带有一种庄严的平静感。",
+      "visual_cues": "她的表情变得肃穆，眼神中流露出一丝对生死的超然。",
+      "evidence": "虽然提到了死亡，但情感核心是“尊严”带来的平静，而非悲伤。"
+    },
+    {
+      "timestamp_range": "00:55-01:02",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "尽管有时我们必须坚定，放弃我们最想要的东西。",
+      "transcript_en": "Even though sometimes we have to be steady, and give up the thing we want the most.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "caring",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音开始颤抖，语调变得沉重，充满了同情和不舍。",
+      "visual_cues": "她紧紧盯着彼得，眼神中充满了理解和心疼，仿佛看穿了他的内心挣扎。",
+      "evidence": "这是全片的情感转折点，她含蓄地指出了彼得作为英雄必须付出的代价。"
+    },
+    {
+      "timestamp_range": "01:03-01:06",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "甚至是我们的梦想。",
+      "transcript_en": "Even our dreams.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "caring"
+      ],
+      "intensity": 5,
+      "audio_cues": "近乎耳语，声音哽咽，充满了情感的张力。",
+      "visual_cues": "她的眼眶微湿，眼神中流露出深深的哀伤，但依然坚定地看着彼得。",
+      "evidence": "这句话直击彼得的痛处，梅姨用最温柔的方式说出了最残酷的现实。"
+    },
+    {
+      "timestamp_range": "01:07-01:12",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "蜘蛛侠为亨利做到了这一点，而他在想蜘蛛侠去哪了。",
+      "transcript_en": "Spider-Man did that for Henry, and he wonders where he's gone.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气恢复平静，带有一种探询和引导的意味。",
+      "visual_cues": "她稍微收回了目光，给彼得留出思考的空间，表情柔和。",
+      "evidence": "她将话题拉回现实，用亨利的困惑来暗示世界对蜘蛛侠的需要。"
+    },
+    {
+      "timestamp_range": "01:12-01:15",
+      "speaker_guess": "Aunt May",
+      "transcript_zh": "他需要他。",
+      "transcript_en": "He needs him.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "desire",
+        "caring"
+      ],
+      "intensity": 4,
+      "audio_cues": "简短有力，语气肯定，像是一个请求，也像是一个命令。",
+      "visual_cues": "她再次看向彼得，眼神中充满了期待和信任。",
+      "evidence": "这是最后的总结，直接点明了彼得的责任，情感上是一种充满关怀的催促。"
+    }
+  ]
+}
+```

@@ -1,0 +1,399 @@
+```json
+{
+  "summary": "本片段展示了托尼·达马托教练（阿尔·帕西诺饰）在更衣室发表的一场极具感染力的赛前演讲。情节从教练低沉、自省的个人忏悔开始，他承认自己人生的失败，营造出一种沉重而真实的氛围；随后话锋一转，通过“寸土必争”的比喻，将情绪逐渐推向激昂，最终以咆哮般的激情号召队员团结一致、为彼此牺牲，完成从绝望到战斗意志的巨大情感转折。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪起伏剧烈：00:00-01:40 处于低谷，主导情绪为伤心（Sadness）与悔恨，语调低沉；01:40-02:17 转为冷静的理性分析（Neutral/Realization），能量开始积蓄；02:18-03:15 爆发为高强度的激情与战斗意志，表现为愤怒（Anger，指激昂的攻击性）与兴奋；03:16-04:06 回归深沉的坚定与期待（Neutral/Optimism）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:05",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我真的不知道该说什么。",
+      "transcript_en": "I don't know what to say, really.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "confusion",
+        "nervousness"
+      ],
+      "intensity": 2,
+      "audio_cues": "低沉的声音，语速缓慢，带有犹豫的停顿。",
+      "visual_cues": "低头看地，来回踱步，避免眼神接触，肢体语言显得疲惫。",
+      "evidence": "开场表现出不知所措和疲惫，为演讲定下低调的基调。"
+    },
+    {
+      "timestamp_range": "00:05-00:14",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "还有三分钟，我们将迎来职业生涯中最重要的一战。一切都看今天了。",
+      "transcript_en": "Three minutes to the biggest battle of our professional lives. All comes down to today.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "nervousness",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气变得严肃沉重，强调时间紧迫。",
+      "visual_cues": "抬头环视球员，神情凝重。",
+      "evidence": "陈述客观事实，但语气中透露出大战在即的压力。"
+    },
+    {
+      "timestamp_range": "00:15-00:27",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我们要么作为一个团队痊愈，要么分崩离析。一寸一寸，一球一球，直到彻底完蛋。",
+      "transcript_en": "Either we heal as a team, or we're gonna crumble. Inch by inch, play by play, till we're finished.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "fear",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音低沉沙哑，带有警告意味。",
+      "visual_cues": "眼神忧郁，手部动作微弱。",
+      "evidence": "描绘失败的惨淡前景，情绪基调悲观。"
+    },
+    {
+      "timestamp_range": "00:28-00:31",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "先生们，我们现在身处地狱。相信我。",
+      "transcript_en": "We're in hell right now, gentlemen. Believe me.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气肯定但沉重，'Believe me' 说得很轻。",
+      "visual_cues": "目光深邃，面部肌肉松弛，显得苍老。",
+      "evidence": "承认现状的糟糕，带有深深的无力感。"
+    },
+    {
+      "timestamp_range": "00:33-00:47",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我们可以留在这里被人痛扁，或者我们可以杀出一条血路，重见光明。我们可以爬出地狱。",
+      "transcript_en": "And, we can stay here, get the shit kicked out of us, or we can fight our way back into the light. We can climb out of hell.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "optimism",
+        "determination"
+      ],
+      "intensity": 3,
+      "audio_cues": "在提出第二个选项时，语调略微上扬，带有一丝希望。",
+      "visual_cues": "身体前倾，眼神开始聚焦。",
+      "evidence": "开始提出选择，虽然语气依然严肃，但引入了希望的主题。"
+    },
+    {
+      "timestamp_range": "00:48-00:52",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "一次一英寸。",
+      "transcript_en": "One inch at a time.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "determination"
+      ],
+      "intensity": 2,
+      "audio_cues": "耳语般的强调。",
+      "visual_cues": "竖起一根手指，眼神坚定。",
+      "evidence": "强调核心概念，情绪内敛但有力。"
+    },
+    {
+      "timestamp_range": "00:53-00:56",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "但我无法帮你们做这件事。我太老了。",
+      "transcript_en": "Now I can't do it for you. I'm too old.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "声音再次低沉，带有自嘲。",
+      "visual_cues": "摊开双手，耸肩，显得无奈。",
+      "evidence": "坦诚自己的局限性，回归悲伤基调。"
+    },
+    {
+      "timestamp_range": "00:59-01:08",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我环顾四周，看到这些年轻的面孔，我想……我犯了一个中年男人能犯的所有错误。",
+      "transcript_en": "I look around, I see these young faces and I think... I mean, I've made every wrong choice a middle-aged man can make.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速缓慢，充满遗憾。",
+      "visual_cues": "眼神游离，似乎在回忆过去。",
+      "evidence": "深刻的自我剖析和忏悔。"
+    },
+    {
+      "timestamp_range": "01:11-01:22",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "信不信由你，我挥霍光了所有的钱。我赶走了所有爱过我的人。",
+      "transcript_en": "I, uh, I pissed away all my money, believe it or not. I chased off anyone who's ever loved me.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音颤抖，情感真挚痛苦。",
+      "visual_cues": "面部表情痛苦，眼神中流露出孤独。",
+      "evidence": "极度脆弱的时刻，完全暴露自己的失败。"
+    },
+    {
+      "timestamp_range": "01:23-01:29",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "最近，我甚至无法忍受镜子里的那张脸。",
+      "transcript_en": "And lately, I can't even stand the face I see in the mirror.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "sadness",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气中带着厌恶和自我唾弃。",
+      "visual_cues": "低头，似乎在躲避视线。",
+      "evidence": "对自己感到厌恶，是情绪低谷的最低点。"
+    },
+    {
+      "timestamp_range": "01:32-01:40",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "你知道，当你老了，东西会被夺走。这就是……这就是生活的一部分。",
+      "transcript_en": "You know, when you get old in life, things get taken from you. I mean that's... that's part of life.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "acceptance"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气变得哲学化，带有无奈的接受。",
+      "visual_cues": "手势变得平缓，像是在讲道理。",
+      "evidence": "从个人痛苦转向普遍的人生哲理。"
+    },
+    {
+      "timestamp_range": "01:40-01:49",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "但是，只有当你开始失去时，你才会明白这一点。你会发现生活就是一场寸土必争的游戏。足球也是如此。",
+      "transcript_en": "But, you only learn that when you start losing stuff. You find out life's this game of inches. So is football.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "curiosity"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调开始变得坚定，逻辑清晰。",
+      "visual_cues": "眼神重新变得锐利，开始与球员建立联系。",
+      "evidence": "情绪转折点，将人生感悟与足球比赛联系起来。"
+    },
+    {
+      "timestamp_range": "01:52-02:07",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "因为在这两场游戏中，生活或足球，犯错的余地都太小了……晚半步或早半步，你就无法成功……",
+      "transcript_en": "Because in either game, life or football, the margin for error is so small... one half a step too late or too early and you don't quite make it...",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "nervousness",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "节奏加快，强调精确性。",
+      "visual_cues": "手部动作配合'一点点'的描述，非常具体。",
+      "evidence": "通过具体的描述建立紧张感和专注度。"
+    },
+    {
+      "timestamp_range": "02:08-02:17",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我们需要的那一英寸就在我们周围。在比赛的每一个间隙，每一分，每一秒。",
+      "transcript_en": "The inches we need are everywhere around us. They're in every break of the game, every minute, every second.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "optimism"
+      ],
+      "intensity": 4,
+      "audio_cues": "音量逐渐提高，语气变得激昂。",
+      "visual_cues": "张开双臂，仿佛在拥抱这些机会。",
+      "evidence": "情绪开始高涨，传递出机会无处不在的积极信息。"
+    },
+    {
+      "timestamp_range": "02:18-02:23",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "在这个团队里，我们为那一英寸而战。",
+      "transcript_en": "On this team, we fight for that inch.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "determination",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得强硬，充满力量。",
+      "visual_cues": "身体紧绷，眼神凶狠。",
+      "evidence": "使用'Fight'（战斗）一词，表现出攻击性的决心。"
+    },
+    {
+      "timestamp_range": "02:24-02:36",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "在这个团队里，为了那一英寸，我们会把自己和周围的所有人都撕成碎片。我们会用指甲去抓那一英寸！",
+      "transcript_en": "On this team we tear ourselves and everyone else around us to pieces for that inch. We claw with our fingernails for that inch.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "excitement",
+        "determination"
+      ],
+      "intensity": 5,
+      "audio_cues": "咆哮，声音嘶哑，极具爆发力。",
+      "visual_cues": "做出抓挠的手势，面部表情狰狞而充满激情。",
+      "evidence": "情绪达到高潮，用暴力的意象表达极度的渴望和决心。"
+    },
+    {
+      "timestamp_range": "02:37-02:49",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "因为我们知道，当我们把所有这些英寸加起来，那就是赢与输的该死的区别！是生与死的区别！",
+      "transcript_en": "Because we know when we add up all those inches, that's gonna make the fucking difference between winning and losing! Between living and dying!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "excitement",
+        "realization"
+      ],
+      "intensity": 5,
+      "audio_cues": "声嘶力竭的呐喊，重音强调'winning'和'living'。",
+      "visual_cues": "手指猛烈指点，全身都在用力。",
+      "evidence": "将比赛提升到生死的高度，极具煽动性。"
+    },
+    {
+      "timestamp_range": "02:51-02:59",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我告诉你们，在任何战斗中，愿意去死的人才能赢得那一英寸。",
+      "transcript_en": "I'll tell you this, in any fight, it's the guy who's willing to die who's gonna win that inch.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "admiration",
+        "approval"
+      ],
+      "intensity": 4,
+      "audio_cues": "音量稍降，但语气依然坚定有力。",
+      "visual_cues": "眼神坚定地注视着球员，传递信念。",
+      "evidence": "阐述牺牲精神，语气中充满敬意。"
+    },
+    {
+      "timestamp_range": "03:00-03:12",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我知道如果我还想活下去，那是因为我还愿意为那一英寸去战斗和牺牲。因为那就是生活！",
+      "transcript_en": "And I know if I'm gonna have any life anymore, it's because I'm still willing to fight and die for that inch. Because that's what living is!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "pride"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音因激动而破音，充满激情。",
+      "visual_cues": "眼中闪烁着光芒，仿佛找到了生命的意义。",
+      "evidence": "将战斗与生命的意义等同，表现出一种超越痛苦的狂喜和坚定。"
+    },
+    {
+      "timestamp_range": "03:13-03:15",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "就在你脸前的这六英寸！",
+      "transcript_en": "The six inches in front of your face!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "excitement"
+      ],
+      "intensity": 4,
+      "audio_cues": "短促有力的喊叫。",
+      "visual_cues": "手掌在脸前比划。",
+      "evidence": "用具体的距离再次强调目标的近在咫尺。"
+    },
+    {
+      "timestamp_range": "03:16-03:26",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我不能强迫你们去做。你们得看看身边的人。看着他的眼睛。",
+      "transcript_en": "Now I can't make you do it. You got to look at the guy next to you. Look into his eyes.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气变得柔和、引导性。",
+      "visual_cues": "手势指向球员之间，鼓励互动。",
+      "evidence": "从个人激情转向团队连接，语气变得温情。"
+    },
+    {
+      "timestamp_range": "03:26-03:38",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "我想你会看到一个愿意和你一起去争取那一英寸的人。你会看到一个愿意为这个团队牺牲自己的人，因为他知道……你也会为他做同样的事。",
+      "transcript_en": "Now I think you're gonna see a guy who will go that inch with you. You're gonna see a guy who will sacrifice himself for this team because he knows... you're gonna do the same for him.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "trust",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气充满信任和情感，语速适中。",
+      "visual_cues": "眼神充满期待和肯定。",
+      "evidence": "构建团队信任和兄弟情谊，情感温暖而有力。"
+    },
+    {
+      "timestamp_range": "03:39-03:41",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "这就是团队，先生们。",
+      "transcript_en": "That's a team, gentlemen.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气坚定，带有自豪感。",
+      "visual_cues": "点头确认。",
+      "evidence": "对团队精神的最终定义。"
+    },
+    {
+      "timestamp_range": "03:42-03:52",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "要么我们现在作为一个团队痊愈……要么我们将作为个体死去。",
+      "transcript_en": "And, either we heal, now, as a team... or we will die as individuals.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "fear",
+        "determination"
+      ],
+      "intensity": 3,
+      "audio_cues": "最后的通牒，语气严肃。",
+      "visual_cues": "目光扫视全场，等待回应。",
+      "evidence": "回归现实的选择，冷静但具有压迫感。"
+    },
+    {
+      "timestamp_range": "03:55-04:01",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "这就是足球，伙计们。仅此而已。",
+      "transcript_en": "That's football guys. That's all it is.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "轻声细语，仿佛尘埃落定。",
+      "visual_cues": "耸肩，放松姿态。",
+      "evidence": "演讲结束后的平静总结。"
+    },
+    {
+      "timestamp_range": "04:03-04:06",
+      "speaker_guess": "Tony D'Amato",
+      "transcript_zh": "现在，你们打算怎么做？",
+      "transcript_en": "Now, what are you gonna do?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "anticipation",
+        "challenge"
+      ],
+      "intensity": 3,
+      "audio_cues": "挑战性的语气。",
+      "visual_cues": "直视镜头（球员），等待行动。",
+      "evidence": "将行动权交给球员，充满期待。"
+    }
+  ]
+}
+```

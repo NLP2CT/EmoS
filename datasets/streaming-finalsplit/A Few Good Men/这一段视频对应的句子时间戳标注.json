@@ -1,0 +1,144 @@
+{
+  "lang": "en",
+  "film": "A Few Good Men",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 1_有史以来最伟大的表演独白 PART 1/Greatest Acting Monologues Of All Time PART 1_有史以来最伟大的表演独白 PART 1.mp4",
+  "t_start_global": 2.95,
+  "t_end_global": 80.13,
+  "duration": 77.18,
+  "clip": "A Few Good Men.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 2.16,
+      "text": "You can't handle the truth!",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 3.6,
+      "end": 8.02,
+      "text": "Son, we live in a world that has walls, and those walls have to be guarded by men with guns.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 8.4,
+      "end": 11.72,
+      "text": "Who's gonna do it? You? You, Lieutenant Weinberg?",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 12.76,
+      "end": 16.28,
+      "text": "I have a greater responsibility than you can possibly fathom.",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 17.0,
+      "end": 19.78,
+      "text": "You weep for Santiago and you curse the Marines.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 20.48,
+      "end": 24.2,
+      "text": "You have that luxury. You have the luxury of not knowing what I know.",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 24.46,
+      "end": 28.32,
+      "text": "That Santiago's death, while tragic, probably saved lives.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 28.32,
+      "end": 33.96,
+      "text": "And my existence, while grotesque and incomprehensible to you, saves lives.",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 34.6,
+      "end": 38.34,
+      "text": "You don't want the truth because deep down in places you don't talk about at parties.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 38.82,
+      "end": 42.7,
+      "text": "You want me on that wall. You need me on that wall.",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 43.88,
+      "end": 47.8,
+      "text": "We use words like honor, code, loyalty.",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 48.46,
+      "end": 51.94,
+      "text": "We use these words as the backbone of a life spent defending something.",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 52.2,
+      "end": 53.76,
+      "text": "You use them as a punchline.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 53.76,
+      "end": 59.8,
+      "text": "I have neither the time nor the inclination to explain myself to a man who rises and sleeps",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 59.8,
+      "end": 62.26,
+      "text": "under the blanket of the very freedom that I provide,",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 62.54,
+      "end": 65.08,
+      "text": "and then questions the manner in which I provide it.",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 65.3,
+      "end": 68.34,
+      "text": "I would rather you just said thank you and went on your way.",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 68.64,
+      "end": 72.1,
+      "text": "Otherwise, I suggest you pick up a weapon and stand a post.",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 72.66,
+      "end": 77.18,
+      "text": "Either way, I don't give a damn what you think you are entitled to!",
+      "filename": "segment019.mp4"
+    }
+  ]
+}

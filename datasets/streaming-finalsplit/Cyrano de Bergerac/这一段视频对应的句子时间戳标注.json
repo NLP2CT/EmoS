@@ -1,0 +1,522 @@
+{
+  "lang": "en",
+  "film": "Cyrano de Bergerac",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 4/Greatest Acting Monologues Of All Time PART 4.mp4",
+  "t_start_global": 4273.33,
+  "t_end_global": 4418.63,
+  "duration": 145.3,
+  "clip": "Cyrano de Bergerac.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Your precious independence, your white plume.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 2.6,
+      "end": 4.46,
+      "text": "How do you expect to succeed in life?",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 4.5,
+      "end": 6.8,
+      "text": "What would you have me do? Seek for the patronage",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 6.8,
+      "end": 8.64,
+      "text": "of some great man and like a creeping",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 8.64,
+      "end": 10.76,
+      "text": "vine on a tall tree, crawl up",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 10.76,
+      "end": 12.26,
+      "text": "where I cannot stand alone?",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 12.74,
+      "end": 13.78,
+      "text": "No, thank you.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 14.48,
+      "end": 16.32,
+      "text": "Be a buffoon in the vile hope of",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 16.32,
+      "end": 18.32,
+      "text": "teasing out a smile on some cold",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 18.32,
+      "end": 20.56,
+      "text": "face? No, thank you.",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 21.4,
+      "end": 22.28,
+      "text": "Eat a toad for",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 22.28,
+      "end": 24.14,
+      "text": "breakfast every morning, make my knees",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 24.14,
+      "end": 26.52,
+      "text": "callous, cultivate a supple spine,",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 26.7,
+      "end": 28.26,
+      "text": "wear out my belly groveling in the dust?",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 28.58,
+      "end": 29.32,
+      "text": "No, thank you.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 30.2,
+      "end": 32.3,
+      "text": "With my left hand, scratch the back of",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 32.3,
+      "end": 34.22,
+      "text": "any swine the roots of gold for me, while my",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 34.22,
+      "end": 36.44,
+      "text": "right, too proud to know his partner's",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 36.44,
+      "end": 38.16,
+      "text": "business, takes in the fee? No,",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 38.26,
+      "end": 40.2,
+      "text": "thank you. Shall I use the",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 40.2,
+      "end": 42.16,
+      "text": "fire God gave me to burn incense all",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 42.16,
+      "end": 43.88,
+      "text": "day long? No, thank you.",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 44.44,
+      "end": 46.18,
+      "text": "Struggle to insinuate my name",
+      "filename": "segment023.mp4"
+    },
+    {
+      "index": 24,
+      "start": 46.18,
+      "end": 48.48,
+      "text": "into the columns of the Gazette? Calculate,",
+      "filename": "segment024.mp4"
+    },
+    {
+      "index": 25,
+      "start": 48.82,
+      "end": 50.14,
+      "text": "scheme, be afraid,",
+      "filename": "segment025.mp4"
+    },
+    {
+      "index": 26,
+      "start": 50.52,
+      "end": 52.06,
+      "text": "love more to make a visit than a poem?",
+      "filename": "segment026.mp4"
+    },
+    {
+      "index": 27,
+      "start": 52.38,
+      "end": 53.72,
+      "text": "Seek introductions, favors,",
+      "filename": "segment027.mp4"
+    },
+    {
+      "index": 28,
+      "start": 53.94,
+      "end": 56.02,
+      "text": "influences? No, thank you.",
+      "filename": "segment028.mp4"
+    },
+    {
+      "index": 29,
+      "start": 56.22,
+      "end": 57.98,
+      "text": "No, I thank you, and again",
+      "filename": "segment029.mp4"
+    },
+    {
+      "index": 30,
+      "start": 57.98,
+      "end": 59.22,
+      "text": "I thank you.",
+      "filename": "segment030.mp4"
+    },
+    {
+      "index": 31,
+      "start": 62.94,
+      "end": 63.4,
+      "text": "But",
+      "filename": "segment031.mp4"
+    },
+    {
+      "index": 32,
+      "start": 63.4,
+      "end": 64.6,
+      "text": "to sing,",
+      "filename": "segment032.mp4"
+    },
+    {
+      "index": 33,
+      "start": 65.18,
+      "end": 67.1,
+      "text": "to laugh, to dream,",
+      "filename": "segment033.mp4"
+    },
+    {
+      "index": 34,
+      "start": 67.84,
+      "end": 69.7,
+      "text": "to walk in my own way, free",
+      "filename": "segment034.mp4"
+    },
+    {
+      "index": 35,
+      "start": 69.7,
+      "end": 71.36,
+      "text": "with an eye to see things as they are,",
+      "filename": "segment035.mp4"
+    },
+    {
+      "index": 36,
+      "start": 72.22,
+      "end": 73.5,
+      "text": "a voice that means",
+      "filename": "segment036.mp4"
+    },
+    {
+      "index": 37,
+      "start": 73.5,
+      "end": 74.18,
+      "text": "manhood,",
+      "filename": "segment037.mp4"
+    },
+    {
+      "index": 38,
+      "start": 75.58,
+      "end": 77.5,
+      "text": "to cock my hat where I choose,",
+      "filename": "segment038.mp4"
+    },
+    {
+      "index": 39,
+      "start": 77.66,
+      "end": 79.12,
+      "text": "add a word, a yes,",
+      "filename": "segment039.mp4"
+    },
+    {
+      "index": 40,
+      "start": 80.2,
+      "end": 80.88,
+      "text": "a no,",
+      "filename": "segment040.mp4"
+    },
+    {
+      "index": 41,
+      "start": 81.34,
+      "end": 82.1,
+      "text": "to fight,",
+      "filename": "segment041.mp4"
+    },
+    {
+      "index": 42,
+      "start": 83.84,
+      "end": 84.84,
+      "text": "or write,",
+      "filename": "segment042.mp4"
+    },
+    {
+      "index": 43,
+      "start": 85.96,
+      "end": 87.56,
+      "text": "but never to make a line I have not heard",
+      "filename": "segment043.mp4"
+    },
+    {
+      "index": 44,
+      "start": 87.56,
+      "end": 88.4,
+      "text": "in my own heart,",
+      "filename": "segment044.mp4"
+    },
+    {
+      "index": 45,
+      "start": 89.3,
+      "end": 91.12,
+      "text": "to travel any road under the sun,",
+      "filename": "segment045.mp4"
+    },
+    {
+      "index": 46,
+      "start": 92.32,
+      "end": 93.48,
+      "text": "under the stars,",
+      "filename": "segment046.mp4"
+    },
+    {
+      "index": 47,
+      "start": 94.9,
+      "end": 95.4,
+      "text": "nor",
+      "filename": "segment047.mp4"
+    },
+    {
+      "index": 48,
+      "start": 95.4,
+      "end": 97.42,
+      "text": "care if fame or fortune lie",
+      "filename": "segment048.mp4"
+    },
+    {
+      "index": 49,
+      "start": 97.42,
+      "end": 98.34,
+      "text": "beyond the bourne,",
+      "filename": "segment049.mp4"
+    },
+    {
+      "index": 50,
+      "start": 99.46,
+      "end": 101.0,
+      "text": "yet with all modesty to say,",
+      "filename": "segment050.mp4"
+    },
+    {
+      "index": 51,
+      "start": 102.2,
+      "end": 103.74,
+      "text": "my soul be satisfied",
+      "filename": "segment051.mp4"
+    },
+    {
+      "index": 52,
+      "start": 103.74,
+      "end": 104.56,
+      "text": "with flowers,",
+      "filename": "segment052.mp4"
+    },
+    {
+      "index": 53,
+      "start": 105.82,
+      "end": 106.56,
+      "text": "with weeds,",
+      "filename": "segment053.mp4"
+    },
+    {
+      "index": 54,
+      "start": 108.12,
+      "end": 109.42,
+      "text": "with thorns even,",
+      "filename": "segment054.mp4"
+    },
+    {
+      "index": 55,
+      "start": 110.76,
+      "end": 111.56,
+      "text": "but gather",
+      "filename": "segment055.mp4"
+    },
+    {
+      "index": 56,
+      "start": 111.56,
+      "end": 113.34,
+      "text": "them in the one garden you may call",
+      "filename": "segment056.mp4"
+    },
+    {
+      "index": 57,
+      "start": 113.34,
+      "end": 115.6,
+      "text": "your own. In a word,",
+      "filename": "segment057.mp4"
+    },
+    {
+      "index": 58,
+      "start": 115.64,
+      "end": 117.32,
+      "text": "I am too proud to be a parasite,",
+      "filename": "segment058.mp4"
+    },
+    {
+      "index": 59,
+      "start": 117.78,
+      "end": 119.46,
+      "text": "and if my nature lacks the germ that grows",
+      "filename": "segment059.mp4"
+    },
+    {
+      "index": 60,
+      "start": 119.46,
+      "end": 121.48,
+      "text": "towering to heaven like the mountain pine,",
+      "filename": "segment060.mp4"
+    },
+    {
+      "index": 61,
+      "start": 122.12,
+      "end": 123.68,
+      "text": "I stand not high,",
+      "filename": "segment061.mp4"
+    },
+    {
+      "index": 62,
+      "start": 123.78,
+      "end": 124.48,
+      "text": "it may be,",
+      "filename": "segment062.mp4"
+    },
+    {
+      "index": 63,
+      "start": 125.88,
+      "end": 127.08,
+      "text": "but alone.",
+      "filename": "segment063.mp4"
+    },
+    {
+      "index": 64,
+      "start": 127.44,
+      "end": 128.36,
+      "text": "Alone, yes,",
+      "filename": "segment064.mp4"
+    },
+    {
+      "index": 65,
+      "start": 128.42,
+      "end": 129.98,
+      "text": "but why go about making enemies?",
+      "filename": "segment065.mp4"
+    },
+    {
+      "index": 66,
+      "start": 130.9,
+      "end": 132.36,
+      "text": "Watching other people making",
+      "filename": "segment066.mp4"
+    },
+    {
+      "index": 67,
+      "start": 132.36,
+      "end": 134.24,
+      "text": "friends, everywhere,",
+      "filename": "segment067.mp4"
+    },
+    {
+      "index": 68,
+      "start": 135.02,
+      "end": 136.68,
+      "text": "as a dog makes friends.",
+      "filename": "segment068.mp4"
+    },
+    {
+      "index": 69,
+      "start": 137.5,
+      "end": 138.68,
+      "text": "I mark the manner",
+      "filename": "segment069.mp4"
+    },
+    {
+      "index": 70,
+      "start": 138.68,
+      "end": 140.52,
+      "text": "of these canine courtesies,",
+      "filename": "segment070.mp4"
+    },
+    {
+      "index": 71,
+      "start": 140.7,
+      "end": 142.9,
+      "text": "and think, here comes,",
+      "filename": "segment071.mp4"
+    },
+    {
+      "index": 72,
+      "start": 143.14,
+      "end": 143.74,
+      "text": "thank heaven,",
+      "filename": "segment072.mp4"
+    },
+    {
+      "index": 73,
+      "start": 144.46,
+      "end": 145.3,
+      "text": "another enemy.",
+      "filename": "segment073.mp4"
+    }
+  ]
+}

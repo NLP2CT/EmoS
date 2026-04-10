@@ -1,0 +1,185 @@
+```json
+{
+  "summary": "The video primarily features Rose Maxson (from the film Fences) in an emotionally devastating confrontation with her husband, Troy. She transitions from defensive anger to profound grief as she articulates her sacrificed dreams and the realization that her emotional investment in their marriage was wasted on 'hard and rocky' soil. The clip concludes with a brief, abrupt scene of Abraham Lincoln slamming a table in frustration, signaling a sudden shift in tone and setting.",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "The clip begins with Rose in a state of reactive Anger and Disbelief (00:00), descends into deep, wailing Grief and Sadness as she describes her lost self (00:30), spikes into bitter Realization/Anger regarding Troy's nature (00:45), and settles into a weary, accusatory Disapproval (01:25). The final second shifts to Lincoln's sharp Anger (01:30)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:08",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "我就站在这里和你在一起！我也有我的人生！我付出了我生命中的18年，就为了和你站在同一个位置！",
+      "transcript_en": "I been standing with you! I got a life too! I gave 18 years of my life to stand in the same spot as you!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 5,
+      "audio_cues": "Loud volume, shouting, sharp articulation on '18 years'.",
+      "visual_cues": "Furrowed brows, intense eye contact, head shaking, mouth open wide in shouting.",
+      "evidence": "Rose is immediately defensive and combative, reacting to a previous statement by asserting her own existence and sacrifice with high energy."
+    },
+    {
+      "timestamp_range": "00:08-00:15",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "你以为我就不想要别的东西吗？你以为我就没有梦想和希望吗？那我的人生呢？我呢？",
+      "transcript_en": "Don't you think I ever wanted other things? Don't you think I had dreams and hopes? What about my life? What about me?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "grief",
+        "anger"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice begins to crack, pitch rises in a pleading manner.",
+      "visual_cues": "Tears begin to well up, facial expression shifts from pure aggression to pained questioning.",
+      "evidence": "The anger turns inward and interrogative. She is pleading for her humanity to be recognized, signaling deep disappointment."
+    },
+    {
+      "timestamp_range": "00:15-00:26",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "你以为我就没想过别的男人吗？想去别的地方躺下，忘掉我的责任？想找个人逗我笑，让我感觉好一点？",
+      "transcript_en": "Don't you think it ever crossed my mind to want to know other men? That I wanted to lay up somewhere and forget about my responsibilities? That I wanted someone to make me laugh so I could feel good?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "grief",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "Trembling breath, rapid pacing of speech, crying tone.",
+      "visual_cues": "Tears streaming down face, visible mucus (snot), eyes searching Troy's face for understanding.",
+      "evidence": "She admits to suppressing her own desires (secondary emotion: desire) but the delivery is overwhelmed by the grief of having denied herself these things."
+    },
+    {
+      "timestamp_range": "00:26-00:30",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "不是只有你有欲望和需求。但我抓紧了你，特洛伊。",
+      "transcript_en": "You not the only one who's got wants and needs. But I held on to you, Troy.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Volume drops slightly, tone becomes more grounded and declarative.",
+      "visual_cues": "Head tilts slightly, maintaining tearful eye contact.",
+      "evidence": "A moment of comparative realization—she establishes that they are equal in needs, but unequal in loyalty."
+    },
+    {
+      "timestamp_range": "00:30-00:42",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "我把所有的感情、欲望、需求和梦想都拿出来，埋在你身体里。我种下了一颗种子，看着它，为它祈祷。",
+      "transcript_en": "I took all my feelings, my wants and needs and dreams, and I buried them inside you. I planted a seed and watched and prayed over it.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "love",
+        "devotion"
+      ],
+      "intensity": 5,
+      "audio_cues": "Voice breaks completely, sobbing while speaking, gasping for air.",
+      "visual_cues": "Face contorted in agony, hand gestures towards her chest and then towards him (miming planting/burying).",
+      "evidence": "This is the peak of her vulnerability. The metaphor of burying her dreams inside him indicates profound grief and past love."
+    },
+    {
+      "timestamp_range": "00:42-00:48",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "我把自己种在你身体里，等着开花。但我根本不需要18年就能明白，那土壤又硬又充满石块，永远也开不出花！",
+      "transcript_en": "I planted myself inside you and waited to bloom. And it didn't take me no 18 years to realize the soil was hard and rocky and it wasn't never gonna bloom!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "realization",
+        "disgust",
+        "disappointment"
+      ],
+      "intensity": 5,
+      "audio_cues": "Sudden increase in volume and tempo, aggressive emphasis on 'hard and rocky'.",
+      "visual_cues": "Eyes widen (surprise/realization), aggressive head nod, baring teeth.",
+      "evidence": "The sadness converts back to anger as she describes the futility of her sacrifice. The 'hard and rocky' line is an attack on his character."
+    },
+    {
+      "timestamp_range": "00:48-00:59",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "但我还是抓紧了你，特洛伊。我把你抓得更紧了。你是我的丈夫。我欠你...我拥有的一切。",
+      "transcript_en": "But I held on to you, Troy. I held you tighter. You was my husband. I owed you everything I had.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "caring",
+        "remorse",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice softens to a weep, tone of resignation.",
+      "visual_cues": "Shoulders slump, continuous crying, looking down then back up.",
+      "evidence": "She explains her motivation: duty and loyalty. The emotion is a tragic sadness born of obligation."
+    },
+    {
+      "timestamp_range": "00:59-01:14",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "在楼上那间卧室里，当黑暗降临在我身上时，我付出了我所有的一切，试图抹去心中的疑虑...",
+      "transcript_en": "And upstairs in that bedroom, with the darkness falling in on me, I gave everything I had to try and erase the doubt...",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "fear",
+        "despair",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "Breathless, hyperventilating rhythm, shaky voice.",
+      "visual_cues": "Eyes darting slightly, face wet with tears, expression of pain and fear of the 'darkness'.",
+      "evidence": "While sadness is present, she describes a 'darkness falling in,' suggesting a fear of abandonment or the unknown that she tried to fight with intimacy."
+    },
+    {
+      "timestamp_range": "01:14-01:20",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "因为你是我的丈夫。因为那是作为你的妻子我唯一能生存下去的方式。",
+      "transcript_en": "Because you was my husband. Cause that's the only way I was gonna survive as your wife.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "relief"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice stabilizes slightly, lower pitch.",
+      "visual_cues": "Wipes nose/mouth with hand, composing herself slightly.",
+      "evidence": "A moment of stark clarity. She admits her devotion was a survival mechanism."
+    },
+    {
+      "timestamp_range": "01:20-01:29",
+      "speaker_guess": "Rose Maxson",
+      "transcript_zh": "你总是在说你付出了什么，你不需要付出什么。但你也索取，特洛伊。你索取...甚至不知道没人给予。",
+      "transcript_en": "You always talking about what you give and what you don't have to give. But you take too, Troy. You take... and don't even know nobody's giving.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "anger",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "Firm, accusatory tone. Slower pace.",
+      "visual_cues": "Stops crying, hard stare, turns body away at the end.",
+      "evidence": "She moves from her own pain to judging him. The realization that he 'takes' without noticing creates a sense of moral disgust and disapproval."
+    },
+    {
+      "timestamp_range": "01:30-01:33",
+      "speaker_guess": "Abraham Lincoln",
+      "transcript_zh": "我再也听不下去了。",
+      "transcript_en": "I can't listen to this anymore.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval",
+        "frustration"
+      ],
+      "intensity": 4,
+      "audio_cues": "Loud slam sound effect, strained vocal tone.",
+      "visual_cues": "Violent hand slam on the table, sharp head turn.",
+      "evidence": "Sudden physical outburst and verbal rejection of the current situation indicates high frustration and anger."
+    }
+  ]
+}
+```

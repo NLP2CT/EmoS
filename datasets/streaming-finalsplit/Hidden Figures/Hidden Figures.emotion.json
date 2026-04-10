@@ -1,0 +1,105 @@
+```json
+{
+  "summary": "Katherine is confronted by her boss regarding her daily absences, initially appearing intimidated and breathless from running in the rain. This confrontation triggers a powerful turning point where she explodes in a cathartic monologue, revealing the humiliation of segregation and the lack of \"colored\" bathrooms in the building. The scene shifts from tension to righteous anger, culminating in a dignified but exhausted exit.",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "The subject begins in a state of defensive Fear and Nervousness (00:00-00:20), rapidly escalating into high-intensity Anger and indignation as she exposes the systemic racism (00:28-01:08), and finally settling into a dignified, exhausted Sadness mixed with Disapproval (01:21-01:25)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:05-00:07",
+      "speaker_guess": "Katherine Johnson",
+      "transcript_zh": "去洗手间，先生。",
+      "transcript_en": "To the bathroom, sir.",
+      "emotion_primary": "Fear",
+      "emotion_secondary": [
+        "nervousness",
+        "embarrassment"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice is breathless, shaky, and quiet; pitch is higher than normal indicating stress.",
+      "visual_cues": "Shoulders hunched, chest heaving from running, eyes darting, wet hair and clothes emphasizing vulnerability.",
+      "evidence": "She is physically exhausted and intimidated by the public confrontation, trying to give a simple answer to de-escalate."
+    },
+    {
+      "timestamp_range": "00:23-00:25",
+      "speaker_guess": "Katherine Johnson",
+      "transcript_zh": "这里没有我能用的洗手间。",
+      "transcript_en": "There's no bathroom for me here.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone becomes firmer and slightly louder; the shakiness turns into a steely resolve.",
+      "visual_cues": "Direct eye contact with the boss, posture straightens slightly.",
+      "evidence": "She stops making excuses and states the harsh reality of her situation, marking the shift from defense to offense."
+    },
+    {
+      "timestamp_range": "00:28-00:44",
+      "speaker_guess": "Katherine Johnson",
+      "transcript_zh": "没有洗手间。这栋楼里没有有色人种洗手间，西校区以外的任何楼里都没有，而那里离这有半英里远。你知道吗？为了上个厕所我还得走到廷巴克图去。",
+      "transcript_en": "There is no bathroom. There are no colored bathrooms in this building, or any building outside the West Campus, which is half a mile away. Did you know that? I have to walk to Timbuktu just to relieve myself.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disapproval",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "Volume increases significantly; articulation becomes sharp and staccato; voice trembles with rising rage.",
+      "visual_cues": "Gesturing aggressively towards the boss; facial muscles tense; eyes wide with indignation.",
+      "evidence": "She is educating her boss on the segregation policies he ignores, using sarcasm ('Timbuktu') to highlight the absurdity."
+    },
+    {
+      "timestamp_range": "00:48-01:00",
+      "speaker_guess": "Katherine Johnson",
+      "transcript_zh": "想象一下吧，哈里森先生。我的制服，裙子要过膝，高跟鞋，还有一串简单的珍珠项链。但我没有珍珠项链。老天都知道你们给有色人种的工资根本买不起珍珠项链！",
+      "transcript_en": "Picture that, Mr. Harrison. My uniform, skirt below my knees, my heels, and a simple string of pearls. Well, I don't own pearls. Lord knows you don't pay coloreds enough to afford pearls!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "Shouting now; voice cracks on 'pearls'; rapid tempo indicating an outpouring of suppressed frustration.",
+      "visual_cues": "Whole body shaking; intense frown; aggressive head movements emphasizing the injustice.",
+      "evidence": "She attacks the economic disparity and the strict dress code that makes her physical exertion even more painful."
+    },
+    {
+      "timestamp_range": "01:00-01:08",
+      "speaker_guess": "Katherine Johnson",
+      "transcript_zh": "我像狗一样没日没夜地工作，喝着你们谁都不想碰的壶里的咖啡！",
+      "transcript_en": "And I work like a dog, day and night, living off of coffee from a pot none of you want to touch!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "grief",
+        "disgust",
+        "anger"
+      ],
+      "intensity": 5,
+      "audio_cues": "Peak volume; voice is raw and guttural; breathing is heavy and audible between phrases.",
+      "visual_cues": "Mouth wide open while shouting; eyes tearing up slightly; looking around the room at colleagues.",
+      "evidence": "She highlights the dehumanization ('work like a dog') and the social ostracization (the segregated coffee pot)."
+    },
+    {
+      "timestamp_range": "01:21-01:25",
+      "speaker_guess": "Katherine Johnson",
+      "transcript_zh": "所以请原谅...如果我每天必须去几次洗手间的话。",
+      "transcript_en": "So excuse me... if I have to go to the restroom a few times a day.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "sadness",
+        "remorse",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Volume drops to a near whisper; voice is steady but heavy with exhaustion; long pause before speaking.",
+      "visual_cues": "Shoulders drop; gaze lowers; blinking back tears; composing herself before leaving.",
+      "evidence": "The adrenaline of the outburst fades, leaving her with the heavy reality of her situation, but she maintains her dignity as she exits."
+    }
+  ]
+}
+```

@@ -1,0 +1,177 @@
+```json
+{
+  "summary": "在阴沉的海边堤坝上，易遥（Yi Yao）面对曾经霸凌她的同学人群，进行了一场绝望而愤怒的控诉。她痛斥众人的冷漠、伪善以及盲从的恶行，指出他们未来会毫无愧疚地继续生活，而自己却背负着无法磨灭的创伤。情绪从悲愤的嘲讽逐渐升级为歇斯底里的控诉，最终化为绝望的死寂，她认定眼前这些人才是真正杀死她的凶手。",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "情绪由压抑的悲伤（Sadness）与嘲讽转为爆发性的愤怒（Anger）与痛苦（Grief），中段达到情绪崩溃的顶点，最后回归到一种决绝的绝望（Despair/Sadness）与鄙视（Disgust）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:04",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "你们永远都不会承认自己做过的事有多恶毒。",
+      "transcript_en": "You'll never admit how evil you have been.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音颤抖但坚定，语气中带有深深的鄙夷。",
+      "visual_cues": "眼神死死盯着人群，头发被风吹乱，面部表情紧绷。",
+      "evidence": "开场定调，直接定性对方的行为是'恶毒'且'不承认'，表现出对人性的失望。"
+    },
+    {
+      "timestamp_range": "00:05-00:18",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "将来，你们只会说，我怎么不记得？我怎么不记得把红墨水丢到她身上？",
+      "transcript_en": "In the future, you'll just say, 'I don't remember. I don't remember throwing red ink on her.'",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "模仿霸凌者无辜的口吻，音调提高，带有强烈的讽刺感。",
+      "visual_cues": "眉头紧锁，眼神中充满恨意，身体微微前倾。",
+      "evidence": "通过预设对方未来的推脱之词，表达对这种逃避责任行为的愤怒。"
+    },
+    {
+      "timestamp_range": "00:19-00:30",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "我就是闹着玩儿的呀，还有你，你会说，我没有为她吃过垃圾，没有泼过她冷水，没有扒过她衣服。",
+      "transcript_en": "I was just joking. And you, you'll say, 'I didn't make her eat trash, didn't splash cold water on her, didn't strip her clothes.'",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "anger"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速加快，列举具体罪行时声音哽咽但尖锐。",
+      "visual_cues": "视线在人群中移动，仿佛在指认每一个具体的人，泪水在眼眶打转。",
+      "evidence": "具体列举霸凌细节（吃垃圾、扒衣服），情绪因回忆创伤而激化。"
+    },
+    {
+      "timestamp_range": "00:31-00:49",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "你们之后的日子舒舒坦坦，没有一点心理负担，你们回首自己的人生，觉得自己挺好的了，觉得自己没有做过什么伤天害理的事。",
+      "transcript_en": "Your lives afterwards will be comfortable, without any psychological burden. You'll look back on your life, thinking you are good people, thinking you did nothing wrong.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气转为一种悲凉的陈述，透着深深的无力感。",
+      "visual_cues": "眼神变得空洞，仿佛看到了不公的未来。",
+      "evidence": "对比受害者的痛苦与加害者的安逸，产生强烈的悲剧感和不公感。"
+    },
+    {
+      "timestamp_range": "00:50-00:53",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "太恶心了！实在是太恶心了！",
+      "transcript_en": "Too disgusting! It's truly too disgusting!",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "突然的爆发，嘶吼出声，重音落在'恶心'上。",
+      "visual_cues": "面部肌肉抽搐，表现出极度的生理性厌恶。",
+      "evidence": "直接的情感宣泄，对人性丑恶的极致排斥。"
+    },
+    {
+      "timestamp_range": "00:56-01:10",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "如果我永远忘不掉，如果我忘不掉，怎么被你们欺负，怎么被你们侮辱，粉笔灰塞嘴里是什么滋味...",
+      "transcript_en": "If I can never forget... If I can't forget how you bullied me, how you insulted me, the taste of chalk dust in my mouth...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "remorse"
+      ],
+      "intensity": 4,
+      "audio_cues": "哭腔加重，呼吸急促，声音断续。",
+      "visual_cues": "低头，双手抱头或抓头发，身体因抽泣而颤抖。",
+      "evidence": "从指责转向自我感受，强调创伤的持久性（'忘不掉'），陷入创伤回忆。"
+    },
+    {
+      "timestamp_range": "01:11-01:20",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "打火机烧头发是什么滋味，被你们一口一个一口一个喊杀人凶手是什么滋味！",
+      "transcript_en": "The feeling of having my hair burned with a lighter, the feeling of being called a murderer by you, one by one!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "grief"
+      ],
+      "intensity": 5,
+      "audio_cues": "近乎咆哮，声嘶力竭，音量达到顶点。",
+      "visual_cues": "双手抓着自己的头发，动作剧烈，随后猛地指向人群。",
+      "evidence": "提及肉体伤害（烧头发）和精神毁灭（喊杀人凶手），情绪彻底崩溃。"
+    },
+    {
+      "timestamp_range": "01:21-01:30",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "如果我永远忘不掉，你们也别想忘掉！你们骂过我最难听的词，编过最下流的绰号...",
+      "transcript_en": "If I can never forget, don't you dare forget either! The worst words you called me, the most obscene nicknames you made up...",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "诅咒般的语气，咬牙切齿。",
+      "visual_cues": "手指用力指着前方，眼神凶狠而绝望。",
+      "evidence": "发出报复性的诅咒（'你们也别想忘掉'），试图将痛苦返还给施暴者。"
+    },
+    {
+      "timestamp_range": "01:31-01:38",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "你们动手的没动手的都一样，你们比石头还冷漠。",
+      "transcript_en": "Those who acted and those who didn't are all the same. You are colder than stones.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "disgust"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音略微降低，但充满寒意。",
+      "visual_cues": "眼神扫视全场，包含着对旁观者的审判。",
+      "evidence": "批判'平庸之恶'，将旁观者与施暴者划等号，比喻为'石头'。"
+    },
+    {
+      "timestamp_range": "01:39-01:50",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "你们又恶毒又愚蠢，你们胆小怕事，别人做什么你们就跟着做什么... 因为你们的日子真的无聊，因为你们觉得自己不会承担任何后果。",
+      "transcript_en": "You are evil and stupid. You are cowardly. You just follow what others do... because your lives are truly boring, because you think you won't bear any consequences.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "contempt",
+        "disapproval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速平稳但有力，像是在宣读判决书。",
+      "visual_cues": "表情充满轻蔑（Contempt），不再是单纯的哭泣，而是看透了对方的本质。",
+      "evidence": "深刻剖析霸凌者的心理动机（从众、无聊、法不责众），表现出智性上的蔑视。"
+    },
+    {
+      "timestamp_range": "01:51-02:08",
+      "speaker_guess": "Yi Yao",
+      "transcript_zh": "杀死顾森湘的凶手，我不知道是谁。但杀死我的凶手，你们知道是谁。",
+      "transcript_en": "The murderer who killed Gu Senxi, I don't know who it is. But the murderer who killed me... you know who it is.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "grief",
+        "disappointment"
+      ],
+      "intensity": 4,
+      "audio_cues": "前一句迷茫无力，后一句字字千钧，最后归于死寂。",
+      "visual_cues": "眼神失去光彩，身体放松下来，呈现出放弃求生的姿态。",
+      "evidence": "最后的遗言，区分了法律上的凶手和道德上的凶手，确认了自己的死亡结局。"
+    }
+  ]
+}
+```

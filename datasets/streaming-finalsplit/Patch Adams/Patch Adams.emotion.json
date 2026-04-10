@@ -1,0 +1,185 @@
+```json
+{
+  "summary": "在这一场景中，Patch Adams 面临医学委员会的听证会，他不仅是在为自己无证行医的指控辩护，更是在挑战整个医疗体系的冷漠与僵化。情节从他对“医生”与“病人”定义的哲学重构开始，转折点在于他反驳关于病人死亡的质问，随后他转向旁听席的学生发表激情澎湃的演说，最终以极其感性且坚定的誓言结束，宣誓无论结果如何都将致力于治愈人类。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪由最初的冷静理智（00:00）转为讽刺幽默（00:40），随后在谈及死亡时转为严肃的愤怒与抗议（01:27），在面对学生时升华为激昂的热情与关怀（02:20），最后在结尾处经历了短暂的悲伤与脆弱后，爆发为坚定的自豪与乐观（03:50）。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:11",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "每一个来到牧场的人都是病人，是的。每一个来到牧场的人也都是医生。",
+      "transcript_en": "Everyone who comes to the ranch is a patient, yes. And every person who comes to the ranch is also a doctor.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "neutral"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调平稳，语速适中，声音清晰但低沉，表现出一种陈述事实的冷静。",
+      "visual_cues": "面部表情严肃，眼神坚定地看着委员会成员，身体姿态端正。",
+      "evidence": "Patch正在重新定义医学概念，他试图用平实的语言打破传统的医患界限，情绪基调是理性的阐述。"
+    },
+    {
+      "timestamp_range": "00:14-00:33",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "每一个来到牧场的人都需要某种形式的身心帮助……这也让他们成为了医生。",
+      "transcript_en": "Every person who comes to the ranch is in need of some form of physical or mental help... That makes them doctors.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "语气变得更加诚恳，重音落在'taking care'（照顾）和'listening'（倾听）上，流露出温柔。",
+      "visual_cues": "微微点头，手势轻微摆动以强调观点，眼神中流露出对他人的关怀。",
+      "evidence": "他详细解释了互助的概念，将简单的倾听和照顾提升到医疗的高度，表现出对这种人性化互动的认可。"
+    },
+    {
+      "timestamp_range": "00:34-00:52",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "我广义地使用这个词……帕特森医生，你的屁一点都不臭！",
+      "transcript_en": "I use that term broadly Gentlemen... Pardon me, Dr Patterson, but your flatulence has no odour!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "语调升高，模仿夸张的礼貌语气，最后一句带有明显的嘲讽和幽默感，引起观众笑声。",
+      "visual_cues": "眉毛上扬，嘴角带着讽刺的微笑，模仿势利小人的姿态，眼神中带着对权威的戏谑。",
+      "evidence": "他通过模仿和嘲笑委员会成员的虚伪礼节（以及生理尴尬）来解构'医生'这一头衔的神圣性，表达了对精英主义的不屑。"
+    },
+    {
+      "timestamp_range": "00:53-01:19",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "历史上的什么时候医生变得不再是值得信赖的朋友……如果这就是治疗病人，那我认罪。",
+      "transcript_en": "At what point in history did a doctor become more than a trusted and learned friend... if this is treating a patient then I am guilty as charged, Sir.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "defiance",
+        "approval"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音变得坚定有力，语速加快，充满自信，最后一句'guilty as charged'掷地有声。",
+      "visual_cues": "昂首挺胸，直视审判者，面部表情从质问转为自豪的坦然。",
+      "evidence": "他将自己的行为定义为一种高尚的友谊和关怀，并自豪地承认这种'罪行'，表现出强烈的道德优越感和反抗精神。"
+    },
+    {
+      "timestamp_range": "01:26-01:43",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "死亡有什么错，先生？……如果我们非要对抗一种疾病，那就对抗最可怕的一种：冷漠。",
+      "transcript_en": "What's wrong with death, Sir? ... If we're going to fight a disease let's fight one of the most terrible diseases of all: Indifference.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气中带有明显的挫败感和愤怒，音量提高，强调'Indifference'（冷漠）一词。",
+      "visual_cues": "眉头紧锁，眼神犀利，头部动作有力，表现出对现有医疗观念的强烈不满。",
+      "evidence": "面对关于病人死亡的质问，他反击了医学界对死亡的恐惧，并愤怒地指出真正的敌人是缺乏人性的冷漠。"
+    },
+    {
+      "timestamp_range": "01:44-02:19",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "我坐在你们的课堂里……你治疗一种疾病，有输有赢；你治疗一个人，我向你保证，无论结果如何你都赢了。",
+      "transcript_en": "Now, I've sat in your schools... you treat a disease you win/you lose, you treat a person I guarantee you you win, no matter what the outcome.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "inspiration",
+        "approval"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音充满激情和感染力，语调上扬，充满确信感，像是在传道。",
+      "visual_cues": "双手张开，身体前倾，眼神发亮，表情充满希望和热忱。",
+      "evidence": "他提出了自己核心的医学哲学，即关注人本身而非仅仅是疾病，这种信念带给他极大的乐观和鼓舞人心的力量。"
+    },
+    {
+      "timestamp_range": "02:20-02:48",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "今天这个房间里坐满了医学生。别让他们麻醉你们……开始和陌生人说话。",
+      "transcript_en": "Now, here today, this room is full of medical students. Don't let them anesthetize you... Start talking to strangers.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "excitement",
+        "urgency"
+      ],
+      "intensity": 5,
+      "audio_cues": "他转身面向学生，声音洪亮，近乎呐喊，语速急促，充满紧迫感。",
+      "visual_cues": "转身背对委员会，挥舞手臂指向学生，眼神急切地想要唤醒他们，完全无视身后的警告。",
+      "evidence": "他直接向未来的医生们喊话，试图打破体制的束缚，情绪中充满了对学生未来的深切关怀和改变现状的急切渴望。"
+    },
+    {
+      "timestamp_range": "02:49-03:07",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "去和那些站在房间后面了不起的人建立友谊……护士们能教你们。",
+      "transcript_en": "And cultivate friendships with those amazing people standing in the back of the room... Nurses that can teach you.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "gratitude",
+        "respect"
+      ],
+      "intensity": 4,
+      "audio_cues": "提到护士时，语气中充满了敬意和赞赏，声音虽然仍旧响亮但带有一种温暖。",
+      "visual_cues": "手指指向后排的护士，面带微笑，眼神中流露出真诚的尊重。",
+      "evidence": "他赞扬了通常被忽视的护士群体，表现出对她们辛勤工作和丰富经验的崇高敬意。"
+    },
+    {
+      "timestamp_range": "03:09-03:17",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "先生，我想全心全意地成为一名医生。",
+      "transcript_en": "Sir, I want to be a doctor with all my heart.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "vulnerability",
+        "sincerity"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音突然变得哽咽、颤抖，音量降低，充满了情感的张力。",
+      "visual_cues": "眼眶含泪，嘴唇微颤，表情极其诚恳且脆弱，展现出内心最深处的渴望。",
+      "evidence": "在激昂的演讲后，他回归到个人的初心，这种毫无保留的坦白让他显得脆弱，同时也极其真诚。"
+    },
+    {
+      "timestamp_range": "03:24-03:43",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "我想成为医生是为了服务他人。因为这个，我失去了一切。但也得到了一切……这就是我想用我的一生去做的事。",
+      "transcript_en": "I wanted to become a doctor so I could serve others. And because of that I've lost everything. But I've also gained everything... This is what I want to do with my life.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "gratitude",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速缓慢，带有沉思的意味，提到'lost everything'时声音低沉痛苦，提到'gained everything'时转为柔和。",
+      "visual_cues": "眼神低垂后又抬起，面部表情在痛苦的回忆（女友之死）和现在的感悟之间转换。",
+      "evidence": "他回顾了自己的牺牲和收获，情绪中混合了对逝去爱人的悲伤和对所选道路的无悔。"
+    },
+    {
+      "timestamp_range": "03:48-03:58",
+      "speaker_guess": "Patch Adams",
+      "transcript_zh": "上帝为证，无论你们今天作何决定，先生，我仍将成为这个世界上前所未见的最好的医生。",
+      "transcript_en": "And as God is my witness, no matter what your decision today, Sir, I will still become the best damn doctor the world has ever seen.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "determination",
+        "pride",
+        "optimism"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音逐渐增强，最后一句充满力量和决心，每一个字都咬字清晰，语气坚定不移。",
+      "visual_cues": "下巴微扬，眼神坚定地锁定对手，脸上洋溢着一种不可战胜的自信光芒。",
+      "evidence": "这是最后的宣言，他超越了委员会的权威，通过自我肯定表达了绝对的决心和对自己能力的骄傲。"
+    }
+  ]
+}
+```

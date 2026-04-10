@@ -1,0 +1,166 @@
+```json
+{
+  "summary": "在这一场景中，Fortune 在体育场通道拦住了打算退出的 Rudy。Fortune 起初以严厉的口吻斥责 Rudy 的自怨自艾，指出他尽管身体条件平平却坚持了两年的成就；随后情节发生关键转折，Fortune 透露自己年轻时也曾是球员但因骄傲而退出，并以此生遗憾劝诫 Rudy 不要重蹈覆辙。",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "情绪从激烈的对抗转为深沉的反思。起初 Fortune 表现出愤怒与严厉（00:06），意在通过激将法唤醒 Rudy；随着对话深入，Rudy 表现出惊讶（01:00），而 Fortune 的情绪转为带有悔恨与关切的平静（01:03），最终以真诚的劝诫结束。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:03",
+      "speaker_guess": "Rudy",
+      "transcript_zh": "为了向每个人证明我努力了...",
+      "transcript_en": "To prove to everyone that I worked...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "desire"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音低沉，带有哭腔，语速缓慢。",
+      "visual_cues": "靠在墙上，眼神回避，身体姿态颓废。",
+      "evidence": "Rudy 试图解释他留下的原因是为了证明自己，表现出对自己处境的失望和对认可的渴望。"
+    },
+    {
+      "timestamp_range": "00:03-00:06",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "证明什么？证明我是个人物？",
+      "transcript_en": "Prove what? That I was somebody.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "打断对方，语气急促且带有嘲讽。",
+      "visual_cues": "大步走向 Rudy，肢体语言具有侵略性。",
+      "evidence": "Fortune 不耐烦地打断 Rudy 的自辩，对 Rudy 的自怜表现出明显的恼火。"
+    },
+    {
+      "timestamp_range": "00:06-00:16",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "噢，你真是满嘴废话。你身高五尺，体重一百来斤，而且几乎没有任何运动天赋。",
+      "transcript_en": "Oh, you are so full of crap. You're 5 feet nothing, a hundred and nothing, and you got hardly a speck of athletic ability.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 5,
+      "audio_cues": "音量提高，重音强调 'nothing' 和 'crap'。",
+      "visual_cues": "站在 Rudy 面前，居高临下，手指指点点。",
+      "evidence": "Fortune 直白地列举 Rudy 的身体劣势，用严厉的言辞打破 Rudy 的幻想。"
+    },
+    {
+      "timestamp_range": "00:16-00:25",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "而你在全国最好的大学橄榄球队里坚持了两年。你还将带着圣母大学的学位走出这里。",
+      "transcript_en": "And you hung in with the best college football team in the land for two years. And you're also gonna walk out of here with a degree from the University of Notre Dame.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "admiration",
+        "approval",
+        "pride"
+      ],
+      "intensity": 4,
+      "audio_cues": "虽然音量依然很大，但语调中透着肯定和强调。",
+      "visual_cues": "眼神坚定地注视 Rudy，身体前倾。",
+      "evidence": "尽管 Fortune 的表达方式依然激烈（Anger），但内容实际上是在肯定 Rudy 的成就（Admiration/Pride），这是一种“严厉的爱”。"
+    },
+    {
+      "timestamp_range": "00:26-00:37",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "这辈子，你不需要向任何人证明什么，除了你自己。经历了这一切，如果你现在还没做到，那永远也做不到了。",
+      "transcript_en": "In this lifetime, you don't have to prove nothing to nobody except yourself. And after what you've gone through, if you haven't done that by now, it ain't gonna never happen.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "caring",
+        "advice"
+      ],
+      "intensity": 3,
+      "audio_cues": "语速放缓，语气变得严肃而富有哲理。",
+      "visual_cues": "手势变得更加平缓，像是在传授人生经验。",
+      "evidence": "Fortune 从斥责转为教导，指出自我认同的重要性，情绪趋于理性和关切。"
+    },
+    {
+      "timestamp_range": "00:46-00:49",
+      "speaker_guess": "Rudy",
+      "transcript_zh": "我很抱歉，没能让你在这里看到你的第一场比赛。",
+      "transcript_en": "I'm sorry I never got you to see your first game in here.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "caring"
+      ],
+      "intensity": 2,
+      "audio_cues": "声音轻柔，带有歉意。",
+      "visual_cues": "眼神真诚地看着 Fortune，眉头微皱。",
+      "evidence": "Rudy 此时不再关注自己，而是对没能回报 Fortune 感到内疚。"
+    },
+    {
+      "timestamp_range": "00:56-01:00",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "我从没在看台上看过比赛。",
+      "transcript_en": "I've never seen a game from the stands.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "pride",
+        "secretive"
+      ],
+      "intensity": 2,
+      "audio_cues": "语气平静，纠正了 Rudy 的误解。",
+      "visual_cues": "面部表情微妙，似乎在回忆。",
+      "evidence": "Fortune 透露了一个关键细节，暗示了他的过去，为接下来的揭示做铺垫。"
+    },
+    {
+      "timestamp_range": "01:00-01:02",
+      "speaker_guess": "Rudy",
+      "transcript_zh": "你以前是球员？",
+      "transcript_en": "You were a player?",
+      "emotion_primary": "Surprise",
+      "emotion_secondary": [
+        "confusion",
+        "realization",
+        "curiosity"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调上扬，充满疑问。",
+      "visual_cues": "眼睛睁大，身体微微前倾。",
+      "evidence": "Rudy 对 Fortune 的真实身份感到震惊，这完全出乎他的意料。"
+    },
+    {
+      "timestamp_range": "01:03-01:14",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "我坐了两年冷板凳。以为不让我上场是因为我的肤色，我满腹牢骚。所以我退出了。",
+      "transcript_en": "I rode the bench for two years. Thought I wasn't being played because of my color, I got filled up with a lot of attitude. So I quit.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "grief",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音低沉，语速缓慢，带有沉重的叹息感。",
+      "visual_cues": "视线向下，不再直视 Rudy，陷入回忆。",
+      "evidence": "Fortune 坦白了自己的过去，表现出对年轻时因傲慢和误解而放弃机会的深深悔恨。"
+    },
+    {
+      "timestamp_range": "01:15-01:25",
+      "speaker_guess": "Fortune",
+      "transcript_zh": "到现在没有一周我不后悔的。我向你保证，如果你现在走了，让别人击败了你，你这辈子没有一周不会后悔。",
+      "transcript_en": "Still not a week goes by I don't regret it. And I guarantee a week won't go by in your life you won't regret walking out, letting them get the best of you.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "caring",
+        "remorse",
+        "determination"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气变得坚定且恳切，重音强调 'guarantee' 和 'regret'。",
+      "visual_cues": "重新直视 Rudy 的眼睛，眼神充满迫切的关怀。",
+      "evidence": "Fortune 将自己的悔恨转化为对 Rudy 的警告，情绪混合了自身的悲伤和对晚辈的深切关怀，试图阻止 Rudy 犯同样的错误。"
+    }
+  ]
+}
+```

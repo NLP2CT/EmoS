@@ -1,0 +1,152 @@
+```json
+{
+  "summary": "Mays Gilliam (the protagonist) abandons his prepared political speech to deliver an improvised, impassioned address about the economic and social struggles of the working class. The atmosphere shifts from a formal political rally to a raucous, interactive protest as he validates the crowd's hardships regarding jobs, education, and corporate greed. The scene culminates in a high-energy, aggressive condemnation of the system.",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "The character begins with a calm, contemplative demeanor (Neutral) at 00:00, transitions into empathetic frustration (Sadness/Disapproval) around 00:25, and escalates into high-intensity righteous indignation and aggression (Anger/Disgust) by 01:30."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:04-00:22",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "你知道，他们本来给我写了一份演讲稿，关于人民需要什么。但你们才是人民。你们知道自己需要什么。更好的学校，更好的工作，更少的犯罪。",
+      "transcript_en": "You know they had a speech written for me about what the people need. But you guys are the people. You know what you need. Better schools, better jobs, less crime.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "caring",
+        "approval"
+      ],
+      "intensity": 2,
+      "audio_cues": "Voice is calm, lower pitch, conversational tone rather than oratorical.",
+      "visual_cues": "Direct eye contact with the crowd, slight nodding, hands clasped then opening up in a welcoming gesture.",
+      "evidence": "He is discarding the artifice of the campaign and establishing a genuine, level-headed connection with the audience."
+    },
+    {
+      "timestamp_range": "00:23-00:32",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "你们当中有多少人现在打两份工，赚的钱却只够让自己破产？",
+      "transcript_en": "How many of you right now work two jobs just to have enough money to be broke?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disapproval",
+        "caring",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone becomes inquisitive but laced with disbelief; emphasis on 'broke'.",
+      "visual_cues": "Eyebrows raised, head tilted slightly, looking intently at specific audience members.",
+      "evidence": "He is empathizing with the struggle of the audience, highlighting a sad reality of the working poor."
+    },
+    {
+      "timestamp_range": "00:35-00:44",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "如果你打两份工，到了周末，你赚的钱只够把你那破产的身子拖回家，让我听到你们说：这不对！",
+      "transcript_en": "If you work two jobs, and at the end of the week, you got just enough money to get your broke ass home, let me hear you say, 'That ain't right!'",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance",
+        "solidarity"
+      ],
+      "intensity": 4,
+      "audio_cues": "Volume increases significantly, rhythm becomes punchy and rhythmic, ending in a shout.",
+      "visual_cues": "Leaning forward over the podium, pointing finger for emphasis, aggressive head movements.",
+      "evidence": "He is channeling the collective frustration into anger, demanding a vocal response from the crowd."
+    },
+    {
+      "timestamp_range": "00:47-00:52",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "你们当中有多少人的孩子被别人叫傻瓜？",
+      "transcript_en": "How many of you have children that they call stupid?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "caring",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice drops slightly in pitch, sounding more serious and sympathetic.",
+      "visual_cues": "Open hand gestures, pained expression on face.",
+      "evidence": "He touches on a sensitive, personal topic for the parents in the room."
+    },
+    {
+      "timestamp_range": "00:52-01:00",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "别不好意思。这不是你的错。前几天我问我侄女，4加4等于几。她说44。",
+      "transcript_en": "Don't be ashamed. It ain't your fault. I asked my niece the other day, 'What's 4 plus 4?' She said '44'.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "disbelief"
+      ],
+      "intensity": 3,
+      "audio_cues": "Timing is comedic, pauses for effect, slight incredulity in the delivery of the punchline.",
+      "visual_cues": "Wide eyes, shaking head in disbelief, acting out the conversation.",
+      "evidence": "He uses humor (Joy/Amusement) to illustrate a tragic point, making the audience laugh despite the serious context."
+    },
+    {
+      "timestamp_range": "01:00-01:10",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "那不是她的错，那是学校的错！如果你的孩子学校里书旧得要命，却有全新的金属探测器，让我听到你们说：这不对！",
+      "transcript_en": "But that ain't her fault, that's the school's fault! Now if your child's school has old ass books and brand new metal detectors, let me hear you say, 'That ain't right!'",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "disgust",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "Sharp, staccato delivery; shouting the slogan 'That ain't right' with grit.",
+      "visual_cues": "Vigorous pointing, sweating, intense facial grimace.",
+      "evidence": "He shifts the blame from the child to the system, expressing anger at the misplaced priorities of the education system."
+    },
+    {
+      "timestamp_range": "01:13-01:21",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "现在我们有这些大公司，偷走了所有的钱。",
+      "transcript_en": "And now we got these corporations stealing all the money.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "contempt",
+        "anger"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice is raspy, tone is accusatory.",
+      "visual_cues": "Sweeping hand gesture indicating 'everywhere', disgusted facial expression.",
+      "evidence": "He identifies the villain of his narrative (corporations), showing contempt for their greed."
+    },
+    {
+      "timestamp_range": "01:22-01:29",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "你工作了35年。你以为你会给孩子留下一份遗嘱，结果你留给他们的是一份‘无’。",
+      "transcript_en": "You work for 35 years. You thought you was gonna leave your kids a will, now you gonna leave 'em a won't.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disappointment",
+        "bitterness"
+      ],
+      "intensity": 4,
+      "audio_cues": "Wordplay delivered with biting sarcasm and increasing volume.",
+      "visual_cues": "Pointing down at the podium, body tense.",
+      "evidence": "He uses a pun (will/won't) to highlight the broken promises of the American dream, fueling his anger."
+    },
+    {
+      "timestamp_range": "01:29-01:41",
+      "speaker_guess": "Mays Gilliam",
+      "transcript_zh": "你去领养老金，他们给你一支笔。给你一支该死的笔！我拿着笔能干什么？我应该用这支笔捅你的脖子，养老金先生！",
+      "transcript_en": "You show up to get your pension, they give you a pen. Give you a damn pen! Now what the hell am I supposed to do with a pen? I should just stab you in the neck with this pen, Mr. Pension Taker!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "rage",
+        "excitement",
+        "disgust"
+      ],
+      "intensity": 5,
+      "audio_cues": "Shouting at top volume, voice cracking slightly from strain, very fast tempo.",
+      "visual_cues": "Mimics a stabbing motion repeatedly, eyes wide and manic, sweating profusely.",
+      "evidence": "This is the climax of the rant; he physically acts out violence (metaphorically) against the system, showing peak intensity anger and loss of inhibition."
+    }
+  ]
+}
+```

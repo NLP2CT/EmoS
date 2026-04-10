@@ -1,0 +1,134 @@
+```json
+{
+  "summary": "Shylock, standing in a foggy Venetian street, confronts Salerio and Solanio, delivering a passionate monologue justifying his intent to exact a pound of flesh from Antonio. The scene shifts from his bitter recitation of grievances to a fiery defense of his shared humanity, culminating in a chilling, calculated vow to execute the same revenge his Christian oppressors have taught him.",
+  "overall_emotion_trend": {
+    "dominant": "Anger",
+    "trajectory": "The emotion begins as simmering resentment (00:00), escalates into explosive, righteous indignation and shouting (00:58), and finally settles into a cold, menacing determination (01:41)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:07",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "拿来钓鱼也好。如果割那磅肉毫无用处，至少可以满足我的复仇心。",
+      "transcript_en": "To bait fish withal. If it will feed nothing else, it will feed my revenge.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "desire"
+      ],
+      "intensity": 3,
+      "audio_cues": "Low, gravelly voice; emphasis on the word 'revenge' with a darker tone.",
+      "visual_cues": "Shylock looks disheveled; intense, brooding stare; slight sneer.",
+      "evidence": "He compares Antonio's flesh to fish bait, showing dehumanization and a dark desire for retribution."
+    },
+    {
+      "timestamp_range": "00:08-00:27",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "他羞辱我，挡了我五十万的生意，嘲笑我的亏损，挖苦我的进项，侮辱我的民族，破坏我的买卖，离间我的朋友，煽动我的仇敌；他的理由是什么？只因为我是个犹太人。",
+      "transcript_en": "He hath disgraced me, and hindered me half a million; laughed at my losses, mocked at my gains, scorned my nation, thwarted my bargains, cooled my friends, heated mine enemies; and what's his reason? I am a Jew.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "annoyance",
+        "disapproval",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "Volume rises steadily; rapid-fire delivery of the list of wrongs; incredulous tone on 'I am a Jew'.",
+      "visual_cues": "Eyes widen; head shakes in disbelief; pacing slightly.",
+      "evidence": "He lists specific grievances, his voice cracking with the weight of the systematic oppression he feels."
+    },
+    {
+      "timestamp_range": "00:27-00:41",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "难道犹太人没有眼睛吗？难道犹太人没有五官，四肢，没有知觉，没有感情，没有血气吗？",
+      "transcript_en": "Hath not a Jew eyes? Hath not a Jew hands, organs, dimensions, senses, affections, passions?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "sadness",
+        "confusion",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice trembles with emotion; rhetorical questioning tone that demands an answer.",
+      "visual_cues": "Gestures to his own face and hands; pleading expression mixed with fury.",
+      "evidence": "He appeals to universal physical traits to prove his humanity, highlighting the pain of being treated as 'other'."
+    },
+    {
+      "timestamp_range": "00:41-00:58",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "我们不是吃同样的食物，被同样的武器伤害，得同样的病，用同样的方法治愈，像基督徒一样被同样的冬天和夏天冷热吗？",
+      "transcript_en": "Fed with the same food, hurt with the same weapons, subject to the same diseases, healed by the same means, warmed and cooled by the same winter and summer, as a Christian is?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "pride",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "Rhythmic, driving cadence; volume remains high and insistent.",
+      "visual_cues": "Intense eye contact; body leans forward aggressively.",
+      "evidence": "He uses logic to dismantle the distinction between Jew and Christian, asserting equality with increasing force."
+    },
+    {
+      "timestamp_range": "00:58-01:10",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "如果你刺我们，我们不流血吗？如果你挠我们，我们不发笑吗？如果你毒害我们，我们不送命吗？如果你欺负我们，我们不该复仇吗？",
+      "transcript_en": "If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "anger",
+        "realization"
+      ],
+      "intensity": 5,
+      "audio_cues": "Shouting at the climax; voice breaks on 'revenge'; high pitch.",
+      "visual_cues": "Arms raised in frustration/surrender to the logic; face contorted with rage.",
+      "evidence": "The logic culminates in the justification of violence; the physical reaction matches the extreme verbal intensity."
+    },
+    {
+      "timestamp_range": "01:10-01:16",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "如果在别的地方我们都像你们，那么在这一点上我们也得像你们。",
+      "transcript_en": "If we are like you in the rest, we will resemble you in that.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "determination"
+      ],
+      "intensity": 3,
+      "audio_cues": "Volume drops slightly; tone becomes more ominous and declarative.",
+      "visual_cues": "Pointing finger at the listeners; steady gaze.",
+      "evidence": "He draws the final logical conclusion that shared humanity includes the capacity for vengeance."
+    },
+    {
+      "timestamp_range": "01:16-01:29",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "如果一个犹太人欺负了一个基督徒，那基督徒怎样表现他的谦逊？报仇。如果一个基督徒欺负了一个犹太人，照着基督徒的榜样，那犹太人该怎样表现他的宽容？嘿，报仇。",
+      "transcript_en": "If a Jew wrong a Christian, what is his humility? Revenge. If a Christian wrong a Jew, what should his sufferance be by Christian example? Why, revenge.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "Sarcastic intonation; mocking emphasis on 'humility' and 'Christian example'.",
+      "visual_cues": "Head tilt; mocking facial expression; hand gestures indicating a transactional exchange.",
+      "evidence": "He exposes the hypocrisy of his oppressors, using their own behavior to justify his actions with bitter sarcasm."
+    },
+    {
+      "timestamp_range": "01:29-01:41",
+      "speaker_guess": "Shylock",
+      "transcript_zh": "你们教给我的恶毒手段，我都要照样执行；而且这一回我一定要青出于蓝而胜于蓝。",
+      "transcript_en": "The villainy you teach me, I will execute, and it shall go hard but I will better the instruction.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "approval",
+        "pride",
+        "anger"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice drops to a menacing growl/whisper; slow, deliberate articulation.",
+      "visual_cues": "Close-up on face; cold, unblinking stare; slight nod of self-assurance.",
+      "evidence": "He accepts his role as the villain they created, showing a terrifying resolve to outdo them in cruelty."
+    }
+  ]
+}
+```

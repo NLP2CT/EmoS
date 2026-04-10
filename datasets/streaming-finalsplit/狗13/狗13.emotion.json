@@ -1,0 +1,146 @@
+```json
+{
+  "summary": "The clip features a young girl resting her head on her arms, engaging in a philosophical monologue about the inevitability of regret and the fickleness of human memory. She uses metaphors about buying sweaters and the changing seasons to rationalize her decision regarding school clubs, ultimately trying to comfort herself about missing out on the Physics club and her teacher's approval.",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "The scene begins with a contemplative, slightly playful tone (00:00) that quickly shifts into wistful regret and philosophical rationalization (00:02-00:35). After a brief interlude, the mood deepens into vulnerability and insecurity regarding her social standing and choices (00:46-01:01), ending with a forced, bittersweet optimism (01:02-01:06)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:02",
+      "speaker_guess": "Girl",
+      "transcript_zh": "你知道人总是这样的",
+      "transcript_en": "That's just how people are, you know?",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "amusement"
+      ],
+      "intensity": 2,
+      "audio_cues": "Tone is casual and conversational; starts with a slight playful sound.",
+      "visual_cues": "She sticks her tongue out playfully before settling into a serious expression; direct eye contact.",
+      "evidence": "The gesture with the tongue suggests a moment of levity before starting a serious topic."
+    },
+    {
+      "timestamp_range": "00:02-00:09",
+      "speaker_guess": "Girl",
+      "transcript_zh": "比如今年过年我买那件绿毛衣，从交了钱那一刻起我就开始后悔",
+      "transcript_en": "Like when I bought this green sweater for New Year, I regretted right after paying.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice drops slightly in pitch; pace slows down on 'regretted'.",
+      "visual_cues": "Brows furrow slightly; eyes look downwards, breaking contact briefly.",
+      "evidence": "She explicitly mentions regret and her facial expression matches the sentiment of buyer's remorse."
+    },
+    {
+      "timestamp_range": "00:10-00:18",
+      "speaker_guess": "Girl",
+      "transcript_zh": "红色的也好看啊... 但是，要是买了红的，我肯定也会后悔，对吧",
+      "transcript_en": "Because the red one looks pretty, too! But if I bought the red one, I know I wouldn't be happy either, you know?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "confusion",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "Pitch rises on 'pretty' (trying to be positive) then falls back into resignation.",
+      "visual_cues": "She looks for validation ('对吧'); slight pout.",
+      "evidence": "She is rationalizing her unhappiness, realizing that the choice itself isn't the problem, but her nature is."
+    },
+    {
+      "timestamp_range": "00:19-00:29",
+      "speaker_guess": "Girl",
+      "transcript_zh": "就像人在夏天很难记起冬天有多冷，到了冬天呢，又忘了夏天有多热",
+      "transcript_en": "It's like, we can't remember how cold the winter is if it's in summer. But in winter we would forget how hot the summer is.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "curiosity"
+      ],
+      "intensity": 2,
+      "audio_cues": "Steady, contemplative pacing; pauses for thought.",
+      "visual_cues": "Eyes stare off into the distance, unfocused, indicating deep thought.",
+      "evidence": "She moves away from personal complaint to a general philosophical observation about memory."
+    },
+    {
+      "timestamp_range": "00:30-00:35",
+      "speaker_guess": "Girl",
+      "transcript_zh": "你看，如果存在平行宇宙，这样的问题就好解决了",
+      "transcript_en": "See, if there was a parallel universe, none of that would be a problem.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "desire",
+        "optimism"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice is soft, wistful.",
+      "visual_cues": "A faint, hopeful smile appears but doesn't reach the eyes fully.",
+      "evidence": "She wishes for an impossible solution (parallel universe) to solve her internal conflict, showing a desire to escape regret."
+    },
+    {
+      "timestamp_range": "00:46-00:52",
+      "speaker_guess": "Girl",
+      "transcript_zh": "所以呢，如果选了物理小组，也会想回去改的",
+      "transcript_en": "Therefore, if I picked the Physics club, I would still wish I'd picked something else.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "resignation",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "Tone is resigned; logical connector 'so' leads to a sad conclusion.",
+      "visual_cues": "She rests her chin heavily on her arms; eyes look tired.",
+      "evidence": "She applies the sweater metaphor to her real life situation, accepting that she would be unhappy regardless of her choice."
+    },
+    {
+      "timestamp_range": "00:53-00:56",
+      "speaker_guess": "Girl",
+      "transcript_zh": "还有物理老头也不喜欢我",
+      "transcript_en": "Plus the physics teacher doesn't even like me.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "insecurity"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice sounds slightly hurt or complaining.",
+      "visual_cues": "Frown deepens; eyes shift sideways avoiding the camera.",
+      "evidence": "She reveals a personal insecurity about her teacher, adding a layer of rejection to her sadness."
+    },
+    {
+      "timestamp_range": "00:57-01:01",
+      "speaker_guess": "Girl",
+      "transcript_zh": "而且天文组好像没有我们班同学",
+      "transcript_en": "And, none of my classmates is in the Astronomy club.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "nervousness",
+        "loneliness"
+      ],
+      "intensity": 3,
+      "audio_cues": "Hesitant delivery.",
+      "visual_cues": "Eyes widen slightly, looking vulnerable.",
+      "evidence": "She expresses the fear of isolation in her new club choice."
+    },
+    {
+      "timestamp_range": "01:02-01:06",
+      "speaker_guess": "Girl",
+      "transcript_zh": "没有选物理小组，也可以参加物理竞赛嘛",
+      "transcript_en": "But even if I'm not in the Physics club, I can still join the Physics contest, right?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "optimism",
+        "relief"
+      ],
+      "intensity": 3,
+      "audio_cues": "Upward inflection at the end, seeking confirmation.",
+      "visual_cues": "Forced smile showing braces; eyebrows raised in an attempt to look bright.",
+      "evidence": "She is actively trying to cheer herself up (coping mechanism), but the underlying expression remains melancholic."
+    }
+  ]
+}
+```

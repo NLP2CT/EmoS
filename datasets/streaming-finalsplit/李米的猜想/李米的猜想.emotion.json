@@ -1,0 +1,146 @@
+```json
+{
+  "summary": "Li Mi recounts the history of her relationship with her missing boyfriend, moving from innocent school memories to their shared academic failures and his eventual career as a taxi driver. The atmosphere is intimate and documentary-like, characterized by a poignant mix of nostalgia and underlying heartbreak. The emotional trajectory shifts from the sweetness of young love to the sorrow of their insignificance, culminating in a tearful, bittersweet recollection of his declaration of love.",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "The clip begins with a wistful, nostalgic smile (00:00), dips into somber melancholy as she recalls their failures (00:25), and peaks in a complex, heartbreaking mix of joy and grief as she recalls his love (01:15)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:07",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "我们上中学的时候相爱，后来一直在一起。",
+      "transcript_en": "We fell in love in middle school, and were together ever since.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "joy"
+      ],
+      "intensity": 3,
+      "audio_cues": "Her voice is soft and warm, with a gentle, reminiscent rhythm.",
+      "visual_cues": "She offers a shy, genuine smile; her eyes crinkle slightly as she looks at the camera.",
+      "evidence": "The subject recalls a happy memory of young love, indicated by the Duchenne marker in her smile."
+    },
+    {
+      "timestamp_range": "00:08-00:11",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "我们学习成绩都不好，都没考上大学。",
+      "transcript_en": "We both had bad grades, neither of us got into university.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "disappointment",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "The pitch drops slightly; the tone becomes more matter-of-fact and self-deprecating.",
+      "visual_cues": "The smile fades into a more neutral, slightly awkward expression; she blinks and shifts her gaze.",
+      "evidence": "She is stating a negative fact about their past but accepts it as part of their reality."
+    },
+    {
+      "timestamp_range": "00:12-00:19",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "他爱看武侠，还有，就是跟我谈恋爱。",
+      "transcript_en": "He loved watching martial arts, and... just dating me.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "amusement",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "There is a playful pause before 'dating me,' and her voice brightens.",
+      "visual_cues": "A broad, radiant smile returns; she looks down shyly and then back up, displaying affection.",
+      "evidence": "She finds humor and sweetness in the simplicity of his interests, centering herself as his priority."
+    },
+    {
+      "timestamp_range": "00:21-00:29",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "我们都不起眼，没有人在乎我们。高考结束那天，我们都很沮丧。",
+      "transcript_en": "We were unremarkable, nobody cared about us. The day the entrance exams ended, we were both very depressed.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "sadness",
+        "disappointment"
+      ],
+      "intensity": 3,
+      "audio_cues": "Her voice becomes flatter and quieter; the playful tone vanishes.",
+      "visual_cues": "Her facial muscles relax into a droop; her gaze becomes unfocused and distant.",
+      "evidence": "She explicitly describes feelings of insignificance and depression, matched by a somber expression."
+    },
+    {
+      "timestamp_range": "00:30-00:34",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "那天我们也没见面。",
+      "transcript_en": "We didn't even meet that day.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "remorse"
+      ],
+      "intensity": 2,
+      "audio_cues": "Spoken almost as a whisper, with a heavy pause.",
+      "visual_cues": "She closes her eyes briefly and shakes her head slightly, looking down.",
+      "evidence": "The memory of their separation during a hard time brings a quiet sense of regret."
+    },
+    {
+      "timestamp_range": "00:35-00:45",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "他从考场出来，花了五块钱，买了一张游泳票，在游泳池里呆了一个下午。",
+      "transcript_en": "He came out of the exam hall, spent five yuan on a swimming ticket, and stayed in the pool all afternoon.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "Narrative tone, steady pacing as she recounts the sequence of events.",
+      "visual_cues": "She looks straight ahead, visualizing the scene she is describing.",
+      "evidence": "This is a bridge segment where she is narrating facts to set up the emotional climax of the story."
+    },
+    {
+      "timestamp_range": "00:46-00:53",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "明晃晃的太阳下，他第一次哭了。",
+      "transcript_en": "Under the glaring sun, he cried for the first time.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "empathy"
+      ],
+      "intensity": 4,
+      "audio_cues": "Her voice cracks slightly and softens on the word 'cried'.",
+      "visual_cues": "Her eyebrows knit together in distress; she looks deeply empathetic to the pain she is describing.",
+      "evidence": "She is reliving his pain; the contrast between the 'glaring sun' and his tears evokes strong empathy."
+    },
+    {
+      "timestamp_range": "00:57-01:02",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "后来他就开始了出租车司机的生活。",
+      "transcript_en": "Later, he started his life as a taxi driver.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "acceptance"
+      ],
+      "intensity": 2,
+      "audio_cues": "A sigh-like quality to the start of the sentence, transitioning to a factual tone.",
+      "visual_cues": "A faint, resigned smile appears.",
+      "evidence": "She accepts the outcome of their youth, moving the story to the present reality."
+    },
+    {
+      "timestamp_range": "01:07-01:21",
+      "speaker_guess": "Li Mi",
+      "transcript_zh": "后来，他跟我说，遇上我，是他那么大最开心的一件事儿。",
+      "transcript_en": "Later, he told me that meeting me was the happiest thing that had ever happened to him.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "love",
+        "grief",
+        "gratitude"
+      ],
+      "intensity": 5,
+      "audio_cues": "Her voice trembles significantly; she chokes up while trying to maintain a happy tone.",
+      "visual_cues": "She smiles broadly while her eyes fill with tears; she bites her lip to control the emotion.",
+      "evidence": "This is a complex 'bittersweet' moment. Primary emotion is Joy (the smile, the happy memory), but it is heavily layered with the Grief of his absence (Secondary). The visual of smiling through tears is the defining evidence."
+    }
+  ]
+}
+```

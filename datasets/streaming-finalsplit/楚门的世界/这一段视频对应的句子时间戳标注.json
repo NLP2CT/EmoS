@@ -1,0 +1,172 @@
+{
+  "lang": "zh",
+  "film": "楚门的世界",
+  "source_rel": "如果都是假的，那为什么要让我知道呢…/如果都是假的，那为什么要让我知道呢….mp4",
+  "t_start_global": 141.23,
+  "t_end_global": 243.71,
+  "duration": 102.48,
+  "clip": "楚门的世界.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 5.06,
+      "text": "如果我们以后再没机会见面,那我祝你早安午安晚安夜安。",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 5.92,
+      "end": 10.98,
+      "text": "我家楚门是一个很平凡的人,我有妻子有朋友有家人,",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 11.12,
+      "end": 16.32,
+      "text": "他们很爱我我也很爱他们,我有一份工作薪水可以有发展前景,",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 16.48,
+      "end": 23.6,
+      "text": "什么看起来都很正常,直到那一天,一切都很巧合。",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 24.2,
+      "end": 27.88,
+      "text": "骤然变化的天气,从天而降的五光灯,",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 28.6,
+      "end": 34.44,
+      "text": "慌乱的妻子,古怪的好友,还有那总是突如其来不合时宜的广告,",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 34.74,
+      "end": 36.96,
+      "text": "他们说着说着就会开始念广告词。",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 38.04,
+      "end": 41.32,
+      "text": "这杯水,有点甜,",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 47.68,
+      "end": 52.4,
+      "text": "这太诡异了,就好像面前真的有一个摄像头一样,",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 53.18,
+      "end": 53.58,
+      "text": "为什么?",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 54.88,
+      "end": 61.4,
+      "text": "突如其来的大水,消失的风景,奇妙未知重现的故人,",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 61.54,
+      "end": 65.36,
+      "text": "抛开一切不可能,剩下的答案就是必然。",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 66.4,
+      "end": 68.5,
+      "text": "你的意思是这一切都是假的?",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 69.0,
+      "end": 71.5,
+      "text": "其实我是活在一场真人秀里面,",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 72.22,
+      "end": 75.54,
+      "text": "就像这只人中的小鸟时刻等待着主人的投尾,",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 75.64,
+      "end": 78.74,
+      "text": "而我的一切行为都会成为取悦他们的快乐原始。",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 79.6,
+      "end": 82.88,
+      "text": "我要逃,我要逃,我要离开这里,",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 83.34,
+      "end": 86.74,
+      "text": "我一定要离开这里,人怎么可能没有自由呢?",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 87.02,
+      "end": 88.66,
+      "text": "你知道我放弃了什么吗?",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 89.6,
+      "end": 93.02,
+      "text": "我的答案就藏在今天晚上七点半的楚门有约,",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 93.42,
+      "end": 95.94,
+      "text": "欢迎您准时来收看我的节目,",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 96.38,
+      "end": 100.72,
+      "text": "本栏目由火焰毛蕾奶茶独家冠名赞助播出,",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 101.38,
+      "end": 102.48,
+      "text": "期待您的收看。",
+      "filename": "segment023.mp4"
+    }
+  ]
+}

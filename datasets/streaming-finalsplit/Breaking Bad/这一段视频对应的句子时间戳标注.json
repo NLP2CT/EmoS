@@ -1,0 +1,200 @@
+{
+  "lang": "en",
+  "film": "Breaking Bad",
+  "source_rel": "Greatest Acting Monologues Of All Time PART 3/Greatest Acting Monologues Of All Time PART 3.mp4",
+  "t_start_global": 2289.24,
+  "t_end_global": 2395.87,
+  "duration": 106.63,
+  "clip": "Breaking Bad.mp4",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Truth is, we can't change the past.",
+      "filename": "segment001.mp4"
+    },
+    {
+      "index": 2,
+      "start": 2.18,
+      "end": 2.84,
+      "text": "What's done is done.",
+      "filename": "segment002.mp4"
+    },
+    {
+      "index": 3,
+      "start": 3.46,
+      "end": 4.84,
+      "text": "We got to own our actions.",
+      "filename": "segment003.mp4"
+    },
+    {
+      "index": 4,
+      "start": 5.1,
+      "end": 10.26,
+      "text": "But putting ourselves on trial, acting as our own judge, jury and executioner is not",
+      "filename": "segment004.mp4"
+    },
+    {
+      "index": 5,
+      "start": 10.26,
+      "end": 10.82,
+      "text": "the answer.",
+      "filename": "segment005.mp4"
+    },
+    {
+      "index": 6,
+      "start": 11.06,
+      "end": 16.56,
+      "text": "Because a lot of the time, all that judging does is just ensure that we're going to repeat",
+      "filename": "segment006.mp4"
+    },
+    {
+      "index": 7,
+      "start": 16.56,
+      "end": 17.12,
+      "text": "the cycle.",
+      "filename": "segment007.mp4"
+    },
+    {
+      "index": 8,
+      "start": 18.02,
+      "end": 18.58,
+      "text": "Right?",
+      "filename": "segment008.mp4"
+    },
+    {
+      "index": 9,
+      "start": 20.26,
+      "end": 21.86,
+      "text": "We're not here to sit in judgment.",
+      "filename": "segment009.mp4"
+    },
+    {
+      "index": 10,
+      "start": 23.32,
+      "end": 23.7,
+      "text": "Why not?",
+      "filename": "segment010.mp4"
+    },
+    {
+      "index": 11,
+      "start": 26.5,
+      "end": 34.58,
+      "text": "The thing is, if you just do stuff and nothing happens, what's it all mean?",
+      "filename": "segment011.mp4"
+    },
+    {
+      "index": 12,
+      "start": 36.24,
+      "end": 37.24,
+      "text": "What's the point?",
+      "filename": "segment012.mp4"
+    },
+    {
+      "index": 13,
+      "start": 39.54,
+      "end": 43.08,
+      "text": "Oh, right, this whole thing is about self-acceptance.",
+      "filename": "segment013.mp4"
+    },
+    {
+      "index": 14,
+      "start": 44.38,
+      "end": 47.28,
+      "text": "Kicking the hell out of yourself doesn't give meaning to anything.",
+      "filename": "segment014.mp4"
+    },
+    {
+      "index": 15,
+      "start": 47.78,
+      "end": 54.22,
+      "text": "So I should stop judging and accept to start.",
+      "filename": "segment015.mp4"
+    },
+    {
+      "index": 16,
+      "start": 55.16,
+      "end": 60.02,
+      "text": "So no matter what I do, hooray for me because I'm a great guy.",
+      "filename": "segment016.mp4"
+    },
+    {
+      "index": 17,
+      "start": 60.52,
+      "end": 61.42,
+      "text": "It's all good.",
+      "filename": "segment017.mp4"
+    },
+    {
+      "index": 18,
+      "start": 62.7,
+      "end": 68.58,
+      "text": "No matter how many dogs I kill, I just do an inventory and accept.",
+      "filename": "segment018.mp4"
+    },
+    {
+      "index": 19,
+      "start": 71.7,
+      "end": 75.84,
+      "text": "I mean, you back your truck over your own kid and you like accept?",
+      "filename": "segment019.mp4"
+    },
+    {
+      "index": 20,
+      "start": 77.94,
+      "end": 79.26,
+      "text": "What a load of crap.",
+      "filename": "segment020.mp4"
+    },
+    {
+      "index": 21,
+      "start": 79.54,
+      "end": 82.1,
+      "text": "Hey, Jesse, I know you're in pain.",
+      "filename": "segment021.mp4"
+    },
+    {
+      "index": 22,
+      "start": 82.12,
+      "end": 83.1,
+      "text": "No, you know what?",
+      "filename": "segment022.mp4"
+    },
+    {
+      "index": 23,
+      "start": 85.16,
+      "end": 91.96,
+      "text": "Why I'm here in the first place is to sell you meth.",
+      "filename": "segment023.mp4"
+    },
+    {
+      "index": 24,
+      "start": 95.42,
+      "end": 97.58,
+      "text": "You're nothing to me but customers.",
+      "filename": "segment024.mp4"
+    },
+    {
+      "index": 25,
+      "start": 101.95,
+      "end": 103.09,
+      "text": "You okay with that?",
+      "filename": "segment025.mp4"
+    },
+    {
+      "index": 26,
+      "start": 104.47,
+      "end": 104.77,
+      "text": "Huh?",
+      "filename": "segment026.mp4"
+    },
+    {
+      "index": 27,
+      "start": 105.73,
+      "end": 106.63,
+      "text": "You accept?",
+      "filename": "segment027.mp4"
+    }
+  ]
+}

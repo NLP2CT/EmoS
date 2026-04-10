@@ -1,0 +1,277 @@
+```json
+{
+  "summary": "In this intense interrogation scene, the protagonist Nie Mingyu (played by Chen Daoming) hands over incriminating evidence to a police officer, signaling his surrender. However, the scene evolves into a profound monologue where Nie reflects on his traumatic childhood, his cynical philosophy on human nature and power, and his justifications for his crimes. The atmosphere shifts from calm resignation to bitter resentment, culminating in a manic, delusional state where he hallucinates his parents coming to save him.",
+  "overall_emotion_trend": {
+    "dominant": "Neutral",
+    "trajectory": "The character begins with a calm, almost business-like Neutral demeanor (00:00). As he recounts his past, the emotion shifts to deep Sadness and resentful Anger (01:42). This evolves into a philosophical, cynical Pride regarding his worldview (03:00). The intensity builds into Anger and Disgust towards society (05:50), before transitioning into a manic Joy and Excitement driven by a god-complex (09:36), finally breaking into a psychotic, delusional Joy/Relief at the very end (10:00)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:26",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "这上面有我在境外银行的数字账号... 总共是三千万美元... 还有一些你们感兴趣的所谓大人物的名单。不要饶了他们，该杀的杀，该抓的抓。请收好。",
+      "transcript_en": "Here are my digital accounts in offshore banks... totaling 30 million US dollars... and a list of so-called big shots you'd be interested in. Don't spare them. Kill those who should be killed, arrest those who should be arrested. Please take it.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "approval"
+      ],
+      "intensity": 2,
+      "audio_cues": "Voice is calm, steady, and low-pitched; lack of hesitation.",
+      "visual_cues": "Direct eye contact, slow deliberate hand movements passing the papers, relaxed facial muscles.",
+      "evidence": "He is handing over the evidence that condemns him, yet he speaks efficiently, showing acceptance of his fate."
+    },
+    {
+      "timestamp_range": "00:43-00:59",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "你怎么不看一眼... 你穿的这身新警服真好看。",
+      "transcript_en": "Why don't you take a look... You look really good in this new police uniform.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "curiosity"
+      ],
+      "intensity": 2,
+      "audio_cues": "Tone softens, slight upward inflection at the end.",
+      "visual_cues": "A faint, polite smile appears; gaze softens.",
+      "evidence": "He breaks the tension with a personal compliment, showing a strange detachment from the gravity of the situation."
+    },
+    {
+      "timestamp_range": "01:09-01:40",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "让我猜猜你在想什么... 不错，我骗了你。我经常会采取一些欺骗人的手段，因为太多的人骗了我。",
+      "transcript_en": "Let me guess what you are thinking... Correct, I lied to you. I often use deceptive means because too many people have lied to me.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "pride",
+        "realization"
+      ],
+      "intensity": 3,
+      "audio_cues": "Playful, slightly mocking tone; pauses for effect.",
+      "visual_cues": "Smirking, head tilts slightly, confident posture.",
+      "evidence": "He admits to deception not with guilt, but with a sense of intellectual superiority and justification."
+    },
+    {
+      "timestamp_range": "01:42-02:07",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "记得我小时候... 我的继父惩罚我的方式不是打我骂我，他是罚我挨饿... 所以我平时会攒下一些食物...",
+      "transcript_en": "I remember when I was young... my stepfather's way of punishing me wasn't beating or scolding, it was starving me... so I would save up some food...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "fear",
+        "sadness"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice becomes quieter, more reflective; tempo slows down.",
+      "visual_cues": "Eyes look down and away (recollecting), smoking cigarette, expression becomes somber.",
+      "evidence": "Recalling childhood trauma brings a visible weight to his demeanor, explaining his survivalist hoarding behavior."
+    },
+    {
+      "timestamp_range": "02:08-02:20",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "不可以相信别人的，只能相信自己。这也是我能侥幸活到今天的秘诀。",
+      "transcript_en": "You cannot trust others, you can only trust yourself. This is the secret to how I've luckily survived until today.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "realization",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Firm, declarative tone.",
+      "visual_cues": "Direct eye contact returns, nodding slightly to emphasize his point.",
+      "evidence": "He states his core life philosophy with absolute conviction."
+    },
+    {
+      "timestamp_range": "02:40-02:49",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "我谢谢你帮我实现了人生的最后一个愿望。",
+      "transcript_en": "I thank you for helping me fulfill the last wish of my life.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "gratitude",
+        "relief"
+      ],
+      "intensity": 2,
+      "audio_cues": "Sincere, soft tone.",
+      "visual_cues": "Genuine look of appreciation, slight bow of the head.",
+      "evidence": "A rare moment of genuine connection and gratitude amidst the manipulation."
+    },
+    {
+      "timestamp_range": "03:00-03:30",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "你说这人是什么... 人就像一封不知道从哪儿发出，又不知道发往何方的电子邮件。",
+      "transcript_en": "What do you say a human is... A human is like an email sent from who knows where, to who knows where.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "confusion",
+        "curiosity",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "Abstract, philosophical tone; musing.",
+      "visual_cues": "Looking through the smoke, eyes unfocused, contemplative expression.",
+      "evidence": "He detaches from the immediate situation to discuss existential nihilism."
+    },
+    {
+      "timestamp_range": "03:31-04:05",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "这是一个多么可怕的世界啊... 他们把人分成三六九等... 最低层次的人... 精神供应几乎是零。",
+      "transcript_en": "What a terrible world this is... They divide people into classes... The lowest level people... their spiritual supply is almost zero.",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "anger",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "Tone becomes bitter, cynical; emphasis on 'terrible' and 'zero'.",
+      "visual_cues": "Frowning, shaking head slightly, look of disdain.",
+      "evidence": "He expresses deep resentment towards the social structure and inequality."
+    },
+    {
+      "timestamp_range": "04:52-05:15",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "我怎么可能生活在最底层呢？我应该是这个社会当中的精神贵族。但是... 你看不到。",
+      "transcript_en": "How could I live at the bottom? I should be the spiritual aristocracy of this society. But... you can't see it.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "pride",
+        "grief"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice cracks slightly with emotion; pauses indicate suppressed pain.",
+      "visual_cues": "Eyes welling up slightly, intense stare seeking validation.",
+      "evidence": "He reveals the gap between his self-image (aristocrat) and his reality (criminal/victim), showing deep narcissistic injury."
+    },
+    {
+      "timestamp_range": "05:16-05:47",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "我可以一顿吃下三斤牛肉... 像疯子一样狂跑... 我的前生可能是只骆驼。",
+      "transcript_en": "I can eat 3 catties of beef in one meal... run like a madman... My past life might have been a camel.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "excitement",
+        "amusement"
+      ],
+      "intensity": 4,
+      "audio_cues": "Tempo increases, voice becomes animated and louder.",
+      "visual_cues": "Smiling broadly, gesturing with the cigarette, eyes wide.",
+      "evidence": "He takes pride in his animalistic survival instincts and physical resilience."
+    },
+    {
+      "timestamp_range": "05:48-06:00",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "后来我不再为钱发愁了... 我比任何时候都要仇恨钱，仇恨人类，仇恨这个肮脏的世界。",
+      "transcript_en": "Later I no longer worried about money... I hated money more than ever, hated humans, hated this dirty world.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "anger",
+        "remorse"
+      ],
+      "intensity": 5,
+      "audio_cues": "Sharp intake of breath, voice drops to a growl, hard consonants.",
+      "visual_cues": "Face tightens, eyes narrow, staring into the void.",
+      "evidence": "The core of his motivation is revealed: pure misanthropy and hatred born of trauma."
+    },
+    {
+      "timestamp_range": "06:48-07:23",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "我母亲当年改嫁到林家... 母亲甚至没有权利来选择她的死亡... 林家大起大落的政治命运...",
+      "transcript_en": "When my mother remarried into the Lin family... Mother didn't even have the right to choose her own death... The Lin family's volatile political fate...",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "remorse",
+        "sadness"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice trembles, breaks; slow, heavy delivery.",
+      "visual_cues": "Tears visible, looking down, body slumps slightly.",
+      "evidence": "He shows genuine grief over his mother's lack of agency and the political chaos that destroyed his family."
+    },
+    {
+      "timestamp_range": "07:33-07:46",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "我的命运之所以悲惨，原因只有一个：没权。",
+      "transcript_en": "The reason my fate is tragic, there is only one reason: No power.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "disappointment"
+      ],
+      "intensity": 4,
+      "audio_cues": "Finality in tone, heavy emphasis on 'No power'.",
+      "visual_cues": "Stares directly at the listener, unblinking.",
+      "evidence": "The ultimate realization and justification for his life's path."
+    },
+    {
+      "timestamp_range": "07:47-08:02",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "我要不择手段地疯狂地去追逐钱和权，然后用它们，来报复这个可恶的人类社会。",
+      "transcript_en": "I wanted to unscrupulously and frantically pursue money and power, and then use them to revenge against this detestable human society.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "desire",
+        "anger",
+        "determination"
+      ],
+      "intensity": 5,
+      "audio_cues": "Voice rises, aggressive and determined tone.",
+      "visual_cues": "Pointing with the cigarette, intense and threatening facial expression.",
+      "evidence": "He explicitly states his villainous motivation: revenge against society through power."
+    },
+    {
+      "timestamp_range": "08:24-09:13",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "权力的实质... 看你在多大程度上影响和控制他人... 没有比毒品更好的东西了... 你根本控制不了你的肝脏... 你的潜意识。",
+      "transcript_en": "The essence of power... is to what extent you influence and control others... There is nothing better than drugs... You can't control your liver... your subconscious.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "excitement",
+        "admiration",
+        "realization"
+      ],
+      "intensity": 4,
+      "audio_cues": "Fast-paced, lecture-like, enthusiastic tone.",
+      "visual_cues": "Active hand gestures, wide eyes, leaning forward.",
+      "evidence": "He shows a perverse excitement and admiration for the biological control drugs offer, viewing it as the ultimate power."
+    },
+    {
+      "timestamp_range": "09:36-09:56",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "在他们眼里我一定是个十恶不赦的死刑犯... 可是... 我是一个英雄，我是他们的救星，福音。",
+      "transcript_en": "In their eyes I must be a heinous convict... But... I am a hero, I am their savior, the gospel.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "admiration"
+      ],
+      "intensity": 4,
+      "audio_cues": "Grand, self-aggrandizing tone; soft but intense.",
+      "visual_cues": "Chin raised, looking into the distance, beatific smile.",
+      "evidence": "He displays a Messiah complex, completely reframing his crimes as salvation."
+    },
+    {
+      "timestamp_range": "09:59-10:40",
+      "speaker_guess": "Nie Mingyu",
+      "transcript_zh": "爸，妈，你们的儿子来了... 在长途汽车站等着我... 不，火车站... 太阳，你快出来吧，露出你那金灿灿的笑脸。",
+      "transcript_en": "Dad, Mom, your son is here... Waiting for me at the long-distance bus station... No, the train station... Sun, come out quickly, show your golden smile.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "relief",
+        "excitement",
+        "confusion"
+      ],
+      "intensity": 5,
+      "audio_cues": "Childlike, ecstatic, trembling voice; shouting at the end.",
+      "visual_cues": "Looking up at empty space, crying while smiling broadly, complete detachment from reality.",
+      "evidence": "The character suffers a psychotic break, hallucinating a happy reunion with his parents and a bright future moments before his likely execution/end."
+    }
+  ]
+}
+```

@@ -1,0 +1,223 @@
+```json
+{
+  "summary": "在电影《录取通知》的高潮片段中，主角Bartleby Gaines在听证会上为他的“假大学”辩护。情节从最初的听天由命和被拒绝的沮丧，转变为对传统教育体制的愤怒抨击，随后是对父母和委员会成员失去梦想的同情与质问，最终以承认谎言但为所创造的教育奇迹感到自豪和蔑视权威的认可作结。",
+  "overall_emotion_trend": {
+    "dominant": "Joy",
+    "trajectory": "情绪起伏剧烈：00:00-00:20为放弃与悲伤(Sadness)；00:21-01:04转为对体制的愤怒与对抗(Anger)；01:05-01:41转为内疚后的真诚恳求与希望(Remorse/Optimism)；01:42-02:32最终爆发为摆脱束缚的解脱感与极度的自豪(Relief/Pride/Joy)。"
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "不，我不打算回答你的问题，因为你们已经打定主意了。我是被拒绝的专家，我能从你们脸上看出来。",
+      "transcript_en": "No, I'm not gonna answer your question cause you guys have already made up your minds. I'm an expert in rejection and I can see it on your faces.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "disappointment",
+        "resignation"
+      ],
+      "intensity": 2,
+      "audio_cues": "语调低沉，语速缓慢，缺乏起伏，表现出放弃的意味。",
+      "visual_cues": "眼神向下或游离，肩膀塌陷，身体前倾靠在桌上，面部表情消极。",
+      "evidence": "主角认为结果已定，表现出一种习得性无助和失望。"
+    },
+    {
+      "timestamp_range": "00:10-00:16",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "太遗憾了，你们以貌取人，而不是看我们的本质。就因为你们想让我们变得更像那些人...",
+      "transcript_en": "And it's too bad that you judge us by the way we look and not by who we are. Just because you want us to be more like them.",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音略微提高，重音落在“look”和“who we are”上，带有指责的口吻。",
+      "visual_cues": "手指指向旁边的传统学生，眉毛上扬，眼神开始变得犀利。",
+      "evidence": "他开始反击委员会的偏见，表达对肤浅评判标准的不满。"
+    },
+    {
+      "timestamp_range": "00:17-00:21",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "事实是，我们不像他们。而且我对这个事实感到该死的自豪。",
+      "transcript_en": "When the truth is, we're not like them. And I am damn proud of that fact.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "approval"
+      ],
+      "intensity": 4,
+      "audio_cues": "在“damn proud”上加重语气，音量骤增，语气坚定。",
+      "visual_cues": "身体坐直，头部昂起，眼神坚定地扫视全场。",
+      "evidence": "这是情绪的第一个小转折，从自卑转为对自我身份的认同和自豪。"
+    },
+    {
+      "timestamp_range": "00:23-00:36",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "哈蒙学院和他们一百年的传统。但什么传统？欺负新生？羞辱任何有点不同的人？给孩子施加巨大压力把他们变成压力怪和咖啡因成瘾者？",
+      "transcript_en": "Harmon College and their 100 years of tradition. But tradition of what? Of hazing kids and humiliating anyone who's a little bit different? Of putting so much pressure on kids they turn into these stress freaks and caffeine addicts?",
+      "emotion_primary": "Disgust",
+      "emotion_secondary": [
+        "disapproval",
+        "annoyance"
+      ],
+      "intensity": 4,
+      "audio_cues": "语速加快，使用反讽的语调，列举负面词汇时语气尖锐。",
+      "visual_cues": "站起身来，双手摊开做质问状，在列举时手部动作幅度大，表情充满鄙夷。",
+      "evidence": "他站起来公开抨击传统名校的弊端，表现出强烈的反对和厌恶。"
+    },
+    {
+      "timestamp_range": "00:40-00:50",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "为什么？为什么我们不能共存？你们可以有你们的分数、规则、结构和象牙塔...我们就按我们的方式来。为什么我们要顺从你们想要的？",
+      "transcript_en": "Why? Why can't we both exist? Huh? You can have your grades and your rules and your structure and your ivory towers... and then we'll do things our way. Why do we have to conform to what you want?",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "confusion",
+        "disapproval"
+      ],
+      "intensity": 4,
+      "audio_cues": "声音响亮，语调中充满了不解和愤怒的质问，语速急促。",
+      "visual_cues": "双手在身体两侧摊开，身体前倾，直视反派角色，眉头紧锁。",
+      "evidence": "面对反派的指责，他试图用逻辑反驳，对强制同化的要求感到愤怒和困惑。"
+    },
+    {
+      "timestamp_range": "00:54-00:58",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "你知道吗？你才是罪犯。因为你剥夺了这些孩子的创造力和激情。那才是真正的犯罪！",
+      "transcript_en": "You know what? You're a criminal. Cause you rob these kids of their creativity and their passion. That's the real crime!",
+      "emotion_primary": "Anger",
+      "emotion_secondary": [
+        "disgust",
+        "disapproval"
+      ],
+      "intensity": 5,
+      "audio_cues": "喊叫，音量达到顶峰，语气极具攻击性和定罪感。",
+      "visual_cues": "手指直指反派的脸，身体极具侵略性地前倾，眼神凶狠。",
+      "evidence": "这是冲突的最高点，他直接攻击权威人物，情绪极度激动。"
+    },
+    {
+      "timestamp_range": "01:05-01:10",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "那你们父母呢？这个体制真的对你们有用吗？它教会了你们追随内心，还是只是打安全牌？",
+      "transcript_en": "What about you parents? Did the system really work out for you? Did it teach you to follow your heart or to just play it safe?",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "caring",
+        "curiosity"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调突然柔和下来，从攻击转为询问，带有同情的意味。",
+      "visual_cues": "转身面向观众席，眼神在父母脸上扫过，表情变得柔和且带有探究性。",
+      "evidence": "他试图唤醒家长的共鸣，情绪从愤怒转为对成年人生活状态的悲哀和反思。"
+    },
+    {
+      "timestamp_range": "01:11-01:23",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "那你们各位呢？你们一直都想当学校管理者吗？亚历山大博士，那是你的梦想吗？或者不，也许你想当个诗人，魔术师，或者艺术家？也许你只是想环游世界？",
+      "transcript_en": "What about you guys? Did you always want to be school administrators? Dr. Alexander, was that your dream? Or maybe no, maybe you wanted to be a poet. Maybe you wanted to be a magician or an artist. Maybe you just wanted to travel the world.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "curiosity",
+        "realization"
+      ],
+      "intensity": 2,
+      "audio_cues": "语速平缓，带有推测和引导性的语气，声音真诚。",
+      "visual_cues": "直视委员会成员，手势轻柔，仿佛在挖掘他们内心深处的秘密。",
+      "evidence": "他试图人性化这些官僚，引导他们回忆初心，情绪平和且具有穿透力。"
+    },
+    {
+      "timestamp_range": "01:24-01:29",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "听着，我骗了你们。我骗了你们所有人，我很抱歉，爸爸，特别是对你。",
+      "transcript_en": "Look, I lied to you. I lied to all of you and I'm sorry, Dad, especially to you.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "remorse",
+        "embarrassment"
+      ],
+      "intensity": 3,
+      "audio_cues": "声音有些哽咽，语速放慢，语气诚恳且充满歉意。",
+      "visual_cues": "手放在胸口，眼神看向父亲，微微低头，表现出愧疚。",
+      "evidence": "他承认了自己的错误，展现出脆弱和悔恨的一面。"
+    },
+    {
+      "timestamp_range": "01:30-01:41",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "但在那种绝望中，发生了一些惊人的事情。充满了可能性。作为父母，那不就是你们最终想要给我们的吗？就是那个，就是可能性。",
+      "transcript_en": "But out of that desperation something happened that was so amazing. It was full of possibilities. And isn't that what you ultimately want for us? As parents? I mean is that, is possibilities.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "hope"
+      ],
+      "intensity": 3,
+      "audio_cues": "语调逐渐上扬，充满希望，声音变得轻快。",
+      "visual_cues": "双手紧握在胸前，眼神发亮，嘴角微微上扬，身体语言变得开放。",
+      "evidence": "他从悔恨中找到了积极的意义，试图用“可能性”这个美好的概念打动听众。"
+    },
+    {
+      "timestamp_range": "01:42-01:50",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "我们今天来这里是为了寻求你们的批准，但我突然想到一件事。我根本不在乎！谁在乎你们的批准？",
+      "transcript_en": "Well we came here today to ask for your approval and something just occurred to me. I don't give a shit! Who cares about your approval?",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "relief",
+        "realization",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "在说“I don't give a shit”之前有停顿，然后爆发式地喊出，伴随着解脱的笑声。",
+      "visual_cues": "摇头，露出释然的笑容，双手在头部两侧比划，仿佛甩掉了重担。",
+      "evidence": "这是全片最大的转折点（Realization），他意识到外界认可不再重要，表现出极大的解脱和快乐。"
+    },
+    {
+      "timestamp_range": "01:51-02:00",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "我们不需要你们的批准来告诉我们所做的是真实的。因为这个世界上的真理太少了，当你看到一个时，你就知道。我知道这是真理，真正的学习在南哈蒙发生了。",
+      "transcript_en": "We don't need your approval to tell us that what we did was real. Cause there are so few truths in this world that when you see one, you know it. And I know that it is a truth that real learning took place at South Harmon.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "confidence"
+      ],
+      "intensity": 4,
+      "audio_cues": "语气坚定有力，充满信念感，语速适中，字字铿锵。",
+      "visual_cues": "双手握拳，身体站得笔直，充满自信地面对所有人。",
+      "evidence": "他完全掌控了局面，对自己的成就感到无比自豪和确信。"
+    },
+    {
+      "timestamp_range": "02:01-02:11",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "不管你们喜不喜欢，它确实发生了。因为你不需要老师、教室、花哨的高雅传统或金钱来真正学习。你只需要一群渴望提升自己的人。我们在南哈蒙这狗屎地方做到了！",
+      "transcript_en": "Whether you like it or not, it did. Cause you don't need teachers or classrooms or fancy highbrow traditions or money to really learn. You just need people with a desire to better themselves. And we got that by the shitload at South Harmon.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "excitement"
+      ],
+      "intensity": 5,
+      "audio_cues": "语速加快，充满激情，最后一句使用了粗俗词汇但带有极大的赞赏语气。",
+      "visual_cues": "手臂大幅度挥舞，指向身后的学生们，表情狂热。",
+      "evidence": "他重新定义了教育，并对他的学生群体表达了极高的赞赏和激情。"
+    },
+    {
+      "timestamp_range": "02:12-02:32",
+      "speaker_guess": "Bartleby Gaines",
+      "transcript_zh": "所以你们请便。签你们的表格，拒绝我们，枪毙我们，做你们该做的。这都不重要了，因为我们永远不会停止学习，永远不会停止成长...因为我们现在是狗屎脑袋，我们将永远是狗屎脑袋！",
+      "transcript_en": "So you can go ahead. Sign your forms. Reject us and shoot us down and do whatever you gotta do. It doesn't really matter at this point. Because we'll never stop learning and we'll never stop growing... cause we are shitheads now and we'll be shitheads forever!",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "defiance",
+        "optimism"
+      ],
+      "intensity": 5,
+      "audio_cues": "声音洪亮，充满挑衅意味的快乐，最后高呼口号。",
+      "visual_cues": "张开双臂拥抱全场，最后握拳高举，脸上洋溢着胜利者的笑容。",
+      "evidence": "他将原本的侮辱性称呼（shitheads）转化为荣誉勋章，表现出对权威的蔑视和对未来的无限乐观。"
+    }
+  ]
+}
+```

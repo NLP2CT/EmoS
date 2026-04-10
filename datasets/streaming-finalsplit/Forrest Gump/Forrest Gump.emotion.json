@@ -1,0 +1,209 @@
+```json
+{
+  "summary": "Forrest Gump stands before Jenny's grave under their tree, solemnly updating her on their son's life and the destruction of her abusive childhood home. The scene transitions from a composed, dutiful report of daily routines to an emotional breakdown as Forrest expresses deep pride in their son and the overwhelming grief of her absence.",
+  "overall_emotion_trend": {
+    "dominant": "Sadness",
+    "trajectory": "The scene begins with a somber, controlled grief (00:00) that briefly lightens with pride and warmth when discussing his son (00:44), before collapsing into intense, tearful sorrow and longing (01:25)."
+  },
+  "utterances": [
+    {
+      "timestamp_range": "00:00-00:09",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "你是在周六早上过世的。我把你安葬在我们这棵树下。",
+      "transcript_en": "You died on a Saturday morning. And I had you placed here under our tree.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "Low pitch, slow tempo, somber tone.",
+      "visual_cues": "Staring blankly at the tombstone, minimal body movement, solemn facial expression.",
+      "evidence": "Forrest states the facts of her death and burial with a heavy heart, establishing the mournful context."
+    },
+    {
+      "timestamp_range": "00:14-00:19",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "我把你父亲的那座房子推平了。",
+      "transcript_en": "And I had that house of your father's bulldozed to the ground.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "relief",
+        "approval"
+      ],
+      "intensity": 2,
+      "audio_cues": "Matter-of-fact tone, slight emphasis on 'bulldozed'.",
+      "visual_cues": "Slight nod, looking at the grave as if reporting a completed mission.",
+      "evidence": "He reports destroying the symbol of her childhood trauma, suggesting a sense of justice or closure for her sake."
+    },
+    {
+      "timestamp_range": "00:25-00:30",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "妈妈常说，死亡是生命的一部分。",
+      "transcript_en": "Momma always said dying was a part of life.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "realization",
+        "remorse"
+      ],
+      "intensity": 3,
+      "audio_cues": "Voice softens, reflective tone.",
+      "visual_cues": "Eyes cast downward, brow furrowed slightly.",
+      "evidence": "He quotes his mother to rationalize the loss, trying to find intellectual comfort in the face of emotional pain."
+    },
+    {
+      "timestamp_range": "00:34-00:36",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "我真希望不是这样。",
+      "transcript_en": "I sure wish it wasn't.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "disappointment",
+        "desire"
+      ],
+      "intensity": 4,
+      "audio_cues": "Voice cracks/trembles, breathy delivery.",
+      "visual_cues": "Mouth tightens, eyes welling up, looking directly at the stone.",
+      "evidence": "The facade of acceptance breaks; he admits his deep personal longing for her to be alive."
+    },
+    {
+      "timestamp_range": "00:39-00:43",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "小阿甘，他过得很好。",
+      "transcript_en": "Little Forrest, he's doing just fine.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "optimism",
+        "caring"
+      ],
+      "intensity": 2,
+      "audio_cues": "Tone lifts slightly, trying to sound reassuring.",
+      "visual_cues": "Small, brave smile appears.",
+      "evidence": "He shifts focus to their son, trying to provide a positive report to reassure Jenny's spirit."
+    },
+    {
+      "timestamp_range": "00:45-00:48",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "马上又要开学了。",
+      "transcript_en": "About to start school again soon.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring"
+      ],
+      "intensity": 1,
+      "audio_cues": "Conversational, informative tone.",
+      "visual_cues": "Relaxed facial expression while looking at the grave.",
+      "evidence": "Routine update on the child's life."
+    },
+    {
+      "timestamp_range": "00:50-01:02",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "我每天给他做早饭、午饭和晚饭。我确保他每天梳头、刷牙。",
+      "transcript_en": "I make his breakfast, lunch, and dinner every day. I make sure he combs his hair and brushes his teeth every day.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "pride",
+        "caring",
+        "approval"
+      ],
+      "intensity": 3,
+      "audio_cues": "Steady, rhythmic listing of duties, sounding proud of his competence.",
+      "visual_cues": "Confident posture, slight nodding.",
+      "evidence": "Forrest takes pride in fulfilling his role as a father, assuring Jenny that their son is being well taken care of."
+    },
+    {
+      "timestamp_range": "01:05-01:07",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "教他怎么打乒乓球。",
+      "transcript_en": "Teaching him how to play ping-pong.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "amusement",
+        "caring"
+      ],
+      "intensity": 3,
+      "audio_cues": "Lighter tone, almost a chuckle.",
+      "visual_cues": "Smiling more broadly.",
+      "evidence": "Recalling a shared activity brings a moment of genuine happiness."
+    },
+    {
+      "timestamp_range": "01:11-01:13",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "他真的很棒。",
+      "transcript_en": "He's really good.",
+      "emotion_primary": "Joy",
+      "emotion_secondary": [
+        "admiration",
+        "pride"
+      ],
+      "intensity": 3,
+      "audio_cues": "Emphatic, sincere tone.",
+      "visual_cues": "Eyes bright, genuine smile.",
+      "evidence": "He expresses pure admiration for his son's skills."
+    },
+    {
+      "timestamp_range": "01:18-01:20",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "我们经常钓鱼。",
+      "transcript_en": "We fish a lot.",
+      "emotion_primary": "Neutral",
+      "emotion_secondary": [
+        "caring",
+        "joy"
+      ],
+      "intensity": 2,
+      "audio_cues": "Calm, peaceful voice.",
+      "visual_cues": "Relaxed expression.",
+      "evidence": "Describing peaceful bonding moments."
+    },
+    {
+      "timestamp_range": "01:23-01:27",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "每天晚上我们都读书。他太聪明了，珍妮。",
+      "transcript_en": "And every night, we read a book. He's so smart, Jenny.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "grief",
+        "love",
+        "admiration"
+      ],
+      "intensity": 5,
+      "audio_cues": "Voice breaks significantly on 'Jenny', pitch rises, choking back tears.",
+      "visual_cues": "Face crumples, smile turns into a grimace of pain, eyes tear up.",
+      "evidence": "The pride in his son overwhelms him, reminding him that Jenny isn't there to see it, leading to an emotional collapse."
+    },
+    {
+      "timestamp_range": "01:30-01:35",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "你会为他感到骄傲的。我很骄傲。",
+      "transcript_en": "You'd be so proud of him. I am.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "pride",
+        "grief",
+        "love"
+      ],
+      "intensity": 5,
+      "audio_cues": "Sobbing, whispering the final 'I am'.",
+      "visual_cues": "Crying openly, nodding vigorously to emphasize the truth of the statement.",
+      "evidence": "He projects the pride Jenny would feel and affirms his own, amidst heavy sobbing."
+    },
+    {
+      "timestamp_range": "01:37-01:46",
+      "speaker_guess": "Forrest Gump",
+      "transcript_zh": "他给你写了一封信。他说我不能看。我不该看的，所以我把它留在这里给你。",
+      "transcript_en": "He wrote you a letter. And he says I can't read it. I'm not supposed to, so I'll just leave it here for you.",
+      "emotion_primary": "Sadness",
+      "emotion_secondary": [
+        "caring",
+        "grief"
+      ],
+      "intensity": 4,
+      "audio_cues": "Shaky breath, trying to regain composure to perform the task.",
+      "visual_cues": "Hands trembling slightly as he places the letter on the grave.",
+      "evidence": "He performs a final act of service for his son and wife, respecting the boy's privacy while dealing with the finality of leaving the message at a grave."
+    }
+  ]
+}
+```
