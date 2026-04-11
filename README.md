@@ -122,3 +122,23 @@ Only the main structure and representative file names are listed below.
 - `manifest.csv`: file-level release manifest
 - `file_counts.json`: file counts and package sizes
 - `paper/Association_for_Computational_Linguistics__ACL__conference-3.pdf`: published paper file used for this release
+
+## Citation
+
+If you use EmoS in academic work, please cite:
+
+```bibtex
+@inproceedings{guo-etal-2026-emos,
+    title = "{E}mo{S}: A High-Fidelity Multimodal Benchmark for Fine-grained Streaming Emotional Understanding",
+    author = "Guo, Pengze  and
+      Liang, Jingxi  and
+      Xie, Zhiwen  and
+      Wang, Qifeng  and
+      Wong, Derek F.",
+    booktitle = "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California",
+    publisher = "Association for Computational Linguistics",
+}
+```
