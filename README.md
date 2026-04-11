@@ -25,7 +25,7 @@ Only the main structure and representative file names are listed below.
     │   ├── annotator_radar_filled.csv
     │   ├── annotator_radar_template.csv
     │   ├── annotator_radar_types.csv
-    │   ├── 中文/
+    │   ├── Chinese/
     │   │   ├── basic7/
     │   │   │   ├── basic7_ds_high_confidence.xlsx
     │   │   │   └── basic7_ds_low_confidence.xlsx
@@ -34,7 +34,7 @@ Only the main structure and representative file names are listed below.
     │   │   │   ├── after2500_training_data.xlsx
     │   │   │   └── training_data_merged.xlsx
     │   │   └── Raw/
-    │   ├── 英文/
+    │   ├── English/
     │   │   ├── basic7/
     │   │   │   ├── 3000_basic7_high_confidence_ge0.5.xlsx
     │   │   │   ├── 3000_basic7_low_confidence_lt0.5.xlsx
@@ -47,7 +47,7 @@ Only the main structure and representative file names are listed below.
     │   └── datasets/
     │       ├── ch-simsv2s/
     │       │   ├── meta.csv
-    │       │   ├── 前2500/
+    │       │   ├── First-2500/
     │       │   │   ├── a1.xlsx
     │       │   │   ├── a2.xlsx
     │       │   │   ├── a3.xlsx
@@ -57,20 +57,20 @@ Only the main structure and representative file names are listed below.
     │       │   │   ├── confusion_a2.xlsx
     │       │   │   ├── confusion_a3.xlsx
     │       │   │   ├── analysis_outputs/
-    │       │   │   └── 回访/
-    │       │   └── 后2500/
+    │       │   │   └── Revisit/
+    │       │   └── Last-2500/
     │       │       ├── chenpengyu.xlsx
     │       │       ├── liangjingxi.xlsx
     │       │       ├── wangqifeng.xlsx
     │       │       ├── combined_after2500.xlsx
     │       │       └── analysis_outputs_after2500/
     │       └── newdataset-MELD/
-    │           ├── 标注-3000/
+    │           ├── Annotations-3000/
     │           │   ├── 陈思琪train_sent_emo.xlsx
     │           │   ├── 任芳菲train_sent_emo.xlsx
     │           │   ├── train_sent_emo刘彦秀.xlsx
     │           │   └── analysis_outputs/
-    │           └── 标注-last-2000/
+    │           └── Annotations-last-2000/
     │               ├── a10.xlsx
     │               ├── a11.xlsx
     │               ├── a12.xlsx
@@ -82,17 +82,18 @@ Only the main structure and representative file names are listed below.
         ├── Accepted/
         ├── Good Will Hunting/
         ├── The Newsroom/
-        ├── 黑冰/
-        ├── 李米的猜想/
-        ├── 楚门的世界/
+        ├── Black Ice/
+        ├── The Equation of Love and Death/
+        ├── The Truman Show/
         └── ...
 ```
 
 ## Data Organization Notes
 
-- `datasets/data-final/中文/` and `datasets/data-final/英文/` are the simplified, release-oriented data folders.
+- `datasets/data-final/Chinese/` and `datasets/data-final/English/` are the simplified, release-oriented data folders.
 - `datasets/data-final/datasets/` is the more complete package. It keeps annotation workbooks, intermediate organization, processing-side artifacts, analysis outputs, and additional result files.
-- Some folder names are intentionally kept in Chinese to preserve one-to-one correspondence with the original internal workflow and filenames. Examples include `中文`, `英文`, `前2500`, `后2500`, `标注-3000`, `标注-last-2000`, and `回访`.
+- Directory names in this GitHub release have been normalized to English for easier international use.
+- Some file names still remain in their original language to preserve one-to-one correspondence with source materials and annotation artifacts.
 
 ## Original Source Files and Reproducibility
 
