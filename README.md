@@ -66,9 +66,9 @@ Only the main structure and representative file names are listed below.
     │       │       └── analysis_outputs_after2500/
     │       └── newdataset-MELD/
     │           ├── Annotations-3000/
-    │           │   ├── 陈思琪train_sent_emo.xlsx
-    │           │   ├── 任芳菲train_sent_emo.xlsx
-    │           │   ├── train_sent_emo刘彦秀.xlsx
+    │           │   ├── annotator_csq_train_sent_emo.xlsx
+    │           │   ├── annotator_rff_train_sent_emo.xlsx
+    │           │   ├── annotator_lyx_train_sent_emo.xlsx
     │           │   └── analysis_outputs/
     │           └── Annotations-last-2000/
     │               ├── a10.xlsx
@@ -76,8 +76,8 @@ Only the main structure and representative file names are listed below.
     │               ├── a12.xlsx
     │               └── analysis_outputs/
     └── streaming-finalsplit/
-        ├── 中文_带句子.json
-        ├── 英文_带句子.json
+        ├── Chinese_sentence_level.json
+        ├── English_sentence_level.json
         ├── A Few Good Men/
         ├── Accepted/
         ├── Good Will Hunting/

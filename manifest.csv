@@ -1,5 +1,4 @@
 release_path,size_bytes
-datasets/.DS_Store,8196
 datasets/data-final/Chinese/Raw/aqgy3_0001/00000.mp4,1820674
 datasets/data-final/Chinese/Raw/aqgy3_0001/00001.mp4,1685875
 datasets/data-final/Chinese/Raw/aqgy3_0001/00002.mp4,1196605
@@ -9490,6 +9489,7 @@ datasets/data-final/English/train_splits/dia9_utt6.mp4,598648
 datasets/data-final/English/train_splits/dia9_utt7.mp4,2164018
 datasets/data-final/English/train_splits/dia9_utt8.mp4,1048035
 datasets/data-final/English/train_splits/dia9_utt9.mp4,621212
+datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/Revisit_samples.xlsx,10901
 datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0002_0035.mp4,2057402
 datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0007_0002.mp4,1062408
 datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0008_0012.mp4,2304412
@@ -9535,7 +9535,6 @@ datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0056_0037.mp4,4
 datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0056_0052.mp4,6346320
 datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0057_0011.mp4,4565050
 datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/video_0060_0038.mp4,1546311
-datasets/data-final/datasets/ch-simsv2s/First-2500/Revisit/回访样本.xlsx,10901
 datasets/data-final/datasets/ch-simsv2s/First-2500/a1.xlsx,371336
 datasets/data-final/datasets/ch-simsv2s/First-2500/a2.xlsx,369380
 datasets/data-final/datasets/ch-simsv2s/First-2500/a3.xlsx,369525
@@ -9570,9 +9569,9 @@ datasets/data-final/datasets/newdataset-MELD/Annotations-3000/analysis_outputs/g
 datasets/data-final/datasets/newdataset-MELD/Annotations-3000/analysis_outputs/goemotion/goemotion_summary_first3000.json,4796
 datasets/data-final/datasets/newdataset-MELD/Annotations-3000/analysis_outputs/goemotion/meld3000_basic_high_confidence_2797.xlsx,649582
 datasets/data-final/datasets/newdataset-MELD/Annotations-3000/analysis_outputs/goemotion/meld3000_basic_low_confidence_203.xlsx,53628
-datasets/data-final/datasets/newdataset-MELD/Annotations-3000/train_sent_emo刘彦秀.xlsx,569796
-datasets/data-final/datasets/newdataset-MELD/Annotations-3000/任芳菲train_sent_emo.xlsx,569226
-datasets/data-final/datasets/newdataset-MELD/Annotations-3000/陈思琪train_sent_emo.xlsx,564774
+datasets/data-final/datasets/newdataset-MELD/Annotations-3000/annotator_csq_train_sent_emo.xlsx,564774
+datasets/data-final/datasets/newdataset-MELD/Annotations-3000/annotator_lyx_train_sent_emo.xlsx,569796
+datasets/data-final/datasets/newdataset-MELD/Annotations-3000/annotator_rff_train_sent_emo.xlsx,569226
 datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/a10.xlsx,669661
 datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/a11.xlsx,575604
 datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/a12.xlsx,588303
@@ -9584,7 +9583,6 @@ datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/analysis_outp
 datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/analysis_outputs/goemotion/goemotion_summary_last2000.json,566
 datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/analysis_outputs/goemotion/meld_last2000_basic_high_confidence_1964.xlsx,524156
 datasets/data-final/datasets/newdataset-MELD/Annotations-last-2000/analysis_outputs/goemotion/meld_last2000_basic_low_confidence_36.xlsx,15636
-datasets/streaming-finalsplit/.DS_Store,12292
 datasets/streaming-finalsplit/A Few Good Men/A Few Good Men.emotion.json,9605
 datasets/streaming-finalsplit/A Few Good Men/A Few Good Men.mp4,6289419
 datasets/streaming-finalsplit/A Few Good Men/segment001.mp4,198681
@@ -9606,7 +9604,7 @@ datasets/streaming-finalsplit/A Few Good Men/segment016.mp4,285393
 datasets/streaming-finalsplit/A Few Good Men/segment017.mp4,321686
 datasets/streaming-finalsplit/A Few Good Men/segment018.mp4,345411
 datasets/streaming-finalsplit/A Few Good Men/segment019.mp4,526799
-datasets/streaming-finalsplit/A Few Good Men/这一段视频对应的句子时间戳标注.json,3894
+datasets/streaming-finalsplit/A Few Good Men/sentence_level_timestamps.json,3894
 datasets/streaming-finalsplit/Accepted/Accepted.emotion.json,13824
 datasets/streaming-finalsplit/Accepted/Accepted.mp4,18948557
 datasets/streaming-finalsplit/Accepted/segment001.mp4,213692
@@ -9672,7 +9670,7 @@ datasets/streaming-finalsplit/Accepted/segment060.mp4,471873
 datasets/streaming-finalsplit/Accepted/segment061.mp4,364935
 datasets/streaming-finalsplit/Accepted/segment062.mp4,437225
 datasets/streaming-finalsplit/Accepted/segment063.mp4,116834
-datasets/streaming-finalsplit/Accepted/这一段视频对应的句子时间戳标注.json,10921
+datasets/streaming-finalsplit/Accepted/sentence_level_timestamps.json,10921
 datasets/streaming-finalsplit/Any Given Sunday/Any Given Sunday.emotion.json,18048
 datasets/streaming-finalsplit/Any Given Sunday/Any Given Sunday.mp4,20694161
 datasets/streaming-finalsplit/Any Given Sunday/Any Given Sunday.original.mp4,35761145
@@ -9724,7 +9722,10 @@ datasets/streaming-finalsplit/Any Given Sunday/segment045.mp4,649374
 datasets/streaming-finalsplit/Any Given Sunday/segment046.mp4,1219477
 datasets/streaming-finalsplit/Any Given Sunday/segment047.mp4,184187
 datasets/streaming-finalsplit/Any Given Sunday/segment048.mp4,253462
-datasets/streaming-finalsplit/Any Given Sunday/这一段视频对应的句子时间戳标注.json,8671
+datasets/streaming-finalsplit/Any Given Sunday/sentence_level_timestamps.json,8671
+datasets/streaming-finalsplit/Black Ice/Black Ice.emotion.json,14774
+datasets/streaming-finalsplit/Black Ice/Black Ice.mp4,19490315
+datasets/streaming-finalsplit/Black Ice/Black Ice.original.mp4,68800555
 datasets/streaming-finalsplit/Black Ice/segment001.mp4,447928
 datasets/streaming-finalsplit/Black Ice/segment002.mp4,192725
 datasets/streaming-finalsplit/Black Ice/segment003.mp4,325978
@@ -9867,10 +9868,7 @@ datasets/streaming-finalsplit/Black Ice/segment139.mp4,375174
 datasets/streaming-finalsplit/Black Ice/segment140.mp4,100406
 datasets/streaming-finalsplit/Black Ice/segment141.mp4,174858
 datasets/streaming-finalsplit/Black Ice/segment142.mp4,317288
-datasets/streaming-finalsplit/Black Ice/这一段视频对应的句子时间戳标注.json,23255
-datasets/streaming-finalsplit/Black Ice/黑冰.emotion.json,14774
-datasets/streaming-finalsplit/Black Ice/黑冰.mp4,19490315
-datasets/streaming-finalsplit/Black Ice/黑冰.original.mp4,68800555
+datasets/streaming-finalsplit/Black Ice/sentence_level_timestamps.json,23255
 datasets/streaming-finalsplit/Blade Runner/Blade Runner.emotion.json,6520
 datasets/streaming-finalsplit/Blade Runner/Blade Runner.mp4,20629172
 datasets/streaming-finalsplit/Blade Runner/Blade Runner.original.mp4,24780965
@@ -9899,7 +9897,7 @@ datasets/streaming-finalsplit/Blade Runner/segment022.mp4,304077
 datasets/streaming-finalsplit/Blade Runner/segment023.mp4,336240
 datasets/streaming-finalsplit/Blade Runner/segment024.mp4,309843
 datasets/streaming-finalsplit/Blade Runner/segment025.mp4,244898
-datasets/streaming-finalsplit/Blade Runner/这一段视频对应的句子时间戳标注.json,3798
+datasets/streaming-finalsplit/Blade Runner/sentence_level_timestamps.json,3798
 datasets/streaming-finalsplit/Breaking Bad/Breaking Bad.emotion.json,8098
 datasets/streaming-finalsplit/Breaking Bad/Breaking Bad.mp4,11301096
 datasets/streaming-finalsplit/Breaking Bad/segment001.mp4,272296
@@ -9929,7 +9927,8 @@ datasets/streaming-finalsplit/Breaking Bad/segment024.mp4,279111
 datasets/streaming-finalsplit/Breaking Bad/segment025.mp4,151846
 datasets/streaming-finalsplit/Breaking Bad/segment026.mp4,59663
 datasets/streaming-finalsplit/Breaking Bad/segment027.mp4,118969
-datasets/streaming-finalsplit/Breaking Bad/这一段视频对应的句子时间戳标注.json,4679
+datasets/streaming-finalsplit/Breaking Bad/sentence_level_timestamps.json,4679
+datasets/streaming-finalsplit/Chinese_sentence_level.json,59144
 datasets/streaming-finalsplit/Collateral Beauty/Collateral Beauty.emotion.json,7941
 datasets/streaming-finalsplit/Collateral Beauty/Collateral Beauty.mp4,20611489
 datasets/streaming-finalsplit/Collateral Beauty/Collateral Beauty.original.mp4,21788979
@@ -9977,7 +9976,9 @@ datasets/streaming-finalsplit/Collateral Beauty/segment041.mp4,183434
 datasets/streaming-finalsplit/Collateral Beauty/segment042.mp4,180842
 datasets/streaming-finalsplit/Collateral Beauty/segment043.mp4,691107
 datasets/streaming-finalsplit/Collateral Beauty/segment044.mp4,531499
-datasets/streaming-finalsplit/Collateral Beauty/这一段视频对应的句子时间戳标注.json,7090
+datasets/streaming-finalsplit/Collateral Beauty/sentence_level_timestamps.json,7090
+datasets/streaming-finalsplit/Cry Me a Sad River/Cry Me a Sad River.emotion.json,9308
+datasets/streaming-finalsplit/Cry Me a Sad River/Cry Me a Sad River.mp4,7667219
 datasets/streaming-finalsplit/Cry Me a Sad River/segment001.mp4,148600
 datasets/streaming-finalsplit/Cry Me a Sad River/segment002.mp4,456710
 datasets/streaming-finalsplit/Cry Me a Sad River/segment003.mp4,119217
@@ -10020,9 +10021,7 @@ datasets/streaming-finalsplit/Cry Me a Sad River/segment039.mp4,108646
 datasets/streaming-finalsplit/Cry Me a Sad River/segment040.mp4,129350
 datasets/streaming-finalsplit/Cry Me a Sad River/segment041.mp4,118426
 datasets/streaming-finalsplit/Cry Me a Sad River/segment042.mp4,99157
-datasets/streaming-finalsplit/Cry Me a Sad River/悲伤逆流成河.emotion.json,9308
-datasets/streaming-finalsplit/Cry Me a Sad River/悲伤逆流成河.mp4,7667219
-datasets/streaming-finalsplit/Cry Me a Sad River/这一段视频对应的句子时间戳标注.json,6750
+datasets/streaming-finalsplit/Cry Me a Sad River/sentence_level_timestamps.json,6750
 datasets/streaming-finalsplit/Cyrano de Bergerac/Cyrano de Bergerac.emotion.json,10972
 datasets/streaming-finalsplit/Cyrano de Bergerac/Cyrano de Bergerac.mp4,20558065
 datasets/streaming-finalsplit/Cyrano de Bergerac/segment001.mp4,510210
@@ -10098,7 +10097,9 @@ datasets/streaming-finalsplit/Cyrano de Bergerac/segment070.mp4,201046
 datasets/streaming-finalsplit/Cyrano de Bergerac/segment071.mp4,229622
 datasets/streaming-finalsplit/Cyrano de Bergerac/segment072.mp4,94162
 datasets/streaming-finalsplit/Cyrano de Bergerac/segment073.mp4,135713
-datasets/streaming-finalsplit/Cyrano de Bergerac/这一段视频对应的句子时间戳标注.json,11340
+datasets/streaming-finalsplit/Cyrano de Bergerac/sentence_level_timestamps.json,11340
+datasets/streaming-finalsplit/Dog 13/Dog 13.emotion.json,7163
+datasets/streaming-finalsplit/Dog 13/Dog 13.mp4,6427763
 datasets/streaming-finalsplit/Dog 13/segment001.mp4,202623
 datasets/streaming-finalsplit/Dog 13/segment002.mp4,243320
 datasets/streaming-finalsplit/Dog 13/segment003.mp4,255193
@@ -10111,9 +10112,9 @@ datasets/streaming-finalsplit/Dog 13/segment009.mp4,493229
 datasets/streaming-finalsplit/Dog 13/segment010.mp4,264374
 datasets/streaming-finalsplit/Dog 13/segment011.mp4,365454
 datasets/streaming-finalsplit/Dog 13/segment012.mp4,307955
-datasets/streaming-finalsplit/Dog 13/狗13.emotion.json,7163
-datasets/streaming-finalsplit/Dog 13/狗13.mp4,6427763
-datasets/streaming-finalsplit/Dog 13/这一段视频对应的句子时间戳标注.json,2410
+datasets/streaming-finalsplit/Dog 13/sentence_level_timestamps.json,2410
+datasets/streaming-finalsplit/Don Quixote/Don Quixote.emotion.json,10350
+datasets/streaming-finalsplit/Don Quixote/Don Quixote.mp4,6364823
 datasets/streaming-finalsplit/Don Quixote/segment001.mp4,469919
 datasets/streaming-finalsplit/Don Quixote/segment002.mp4,656446
 datasets/streaming-finalsplit/Don Quixote/segment003.mp4,750507
@@ -10123,9 +10124,8 @@ datasets/streaming-finalsplit/Don Quixote/segment006.mp4,1143114
 datasets/streaming-finalsplit/Don Quixote/segment007.mp4,646230
 datasets/streaming-finalsplit/Don Quixote/segment008.mp4,612588
 datasets/streaming-finalsplit/Don Quixote/segment009.mp4,381421
-datasets/streaming-finalsplit/Don Quixote/堂吉诃德.emotion.json,10350
-datasets/streaming-finalsplit/Don Quixote/堂吉诃德.mp4,6364823
-datasets/streaming-finalsplit/Don Quixote/这一段视频对应的句子时间戳标注.json,1898
+datasets/streaming-finalsplit/Don Quixote/sentence_level_timestamps.json,1898
+datasets/streaming-finalsplit/English_sentence_level.json,254442
 datasets/streaming-finalsplit/Fences/Fences.emotion.json,10227
 datasets/streaming-finalsplit/Fences/Fences.mp4,11497008
 datasets/streaming-finalsplit/Fences/segment001.mp4,274649
@@ -10158,7 +10158,7 @@ datasets/streaming-finalsplit/Fences/segment027.mp4,394885
 datasets/streaming-finalsplit/Fences/segment028.mp4,144635
 datasets/streaming-finalsplit/Fences/segment029.mp4,364611
 datasets/streaming-finalsplit/Fences/segment030.mp4,188474
-datasets/streaming-finalsplit/Fences/这一段视频对应的句子时间戳标注.json,5455
+datasets/streaming-finalsplit/Fences/sentence_level_timestamps.json,5455
 datasets/streaming-finalsplit/Forrest Gump/Forrest Gump.emotion.json,8821
 datasets/streaming-finalsplit/Forrest Gump/Forrest Gump.mp4,17042480
 datasets/streaming-finalsplit/Forrest Gump/segment001.mp4,261744
@@ -10181,7 +10181,7 @@ datasets/streaming-finalsplit/Forrest Gump/segment017.mp4,902748
 datasets/streaming-finalsplit/Forrest Gump/segment018.mp4,403641
 datasets/streaming-finalsplit/Forrest Gump/segment019.mp4,263683
 datasets/streaming-finalsplit/Forrest Gump/segment020.mp4,381478
-datasets/streaming-finalsplit/Forrest Gump/这一段视频对应的句子时间戳标注.json,3467
+datasets/streaming-finalsplit/Forrest Gump/sentence_level_timestamps.json,3467
 "datasets/streaming-finalsplit/Good Morning, Vietnam/Good Morning, Vietnam.emotion.json",7017
 "datasets/streaming-finalsplit/Good Morning, Vietnam/Good Morning, Vietnam.mp4",7812859
 "datasets/streaming-finalsplit/Good Morning, Vietnam/segment001.mp4",210195
@@ -10220,7 +10220,7 @@ datasets/streaming-finalsplit/Forrest Gump/这一段视频对应的句子时间�
 "datasets/streaming-finalsplit/Good Morning, Vietnam/segment034.mp4",301387
 "datasets/streaming-finalsplit/Good Morning, Vietnam/segment035.mp4",116416
 "datasets/streaming-finalsplit/Good Morning, Vietnam/segment036.mp4",214895
-"datasets/streaming-finalsplit/Good Morning, Vietnam/这一段视频对应的句子时间戳标注.json",5838
+"datasets/streaming-finalsplit/Good Morning, Vietnam/sentence_level_timestamps.json",5838
 datasets/streaming-finalsplit/Good Will Hunting/Good Will Hunting.emotion.json,11223
 datasets/streaming-finalsplit/Good Will Hunting/Good Will Hunting.mp4,20671261
 datasets/streaming-finalsplit/Good Will Hunting/Good Will Hunting.original.mp4,46042014
@@ -10302,7 +10302,7 @@ datasets/streaming-finalsplit/Good Will Hunting/segment075.mp4,156907
 datasets/streaming-finalsplit/Good Will Hunting/segment076.mp4,365798
 datasets/streaming-finalsplit/Good Will Hunting/segment077.mp4,351692
 datasets/streaming-finalsplit/Good Will Hunting/segment078.mp4,203755
-datasets/streaming-finalsplit/Good Will Hunting/这一段视频对应的句子时间戳标注.json,13132
+datasets/streaming-finalsplit/Good Will Hunting/sentence_level_timestamps.json,13132
 datasets/streaming-finalsplit/Hacksaw Ridge/Hacksaw Ridge.emotion.json,6290
 datasets/streaming-finalsplit/Hacksaw Ridge/Hacksaw Ridge.mp4,4547535
 datasets/streaming-finalsplit/Hacksaw Ridge/segment001.mp4,223198
@@ -10321,7 +10321,7 @@ datasets/streaming-finalsplit/Hacksaw Ridge/segment013.mp4,87726
 datasets/streaming-finalsplit/Hacksaw Ridge/segment014.mp4,161804
 datasets/streaming-finalsplit/Hacksaw Ridge/segment015.mp4,151137
 datasets/streaming-finalsplit/Hacksaw Ridge/segment016.mp4,157769
-datasets/streaming-finalsplit/Hacksaw Ridge/这一段视频对应的句子时间戳标注.json,3034
+datasets/streaming-finalsplit/Hacksaw Ridge/sentence_level_timestamps.json,3034
 datasets/streaming-finalsplit/Hamlet/Hamlet.emotion.json,11992
 datasets/streaming-finalsplit/Hamlet/Hamlet.mp4,20593157
 datasets/streaming-finalsplit/Hamlet/Hamlet.original.mp4,21086166
@@ -10368,7 +10368,7 @@ datasets/streaming-finalsplit/Hamlet/segment040.mp4,793897
 datasets/streaming-finalsplit/Hamlet/segment041.mp4,436789
 datasets/streaming-finalsplit/Hamlet/segment042.mp4,570903
 datasets/streaming-finalsplit/Hamlet/segment043.mp4,436672
-datasets/streaming-finalsplit/Hamlet/这一段视频对应的句子时间戳标注.json,7109
+datasets/streaming-finalsplit/Hamlet/sentence_level_timestamps.json,7109
 datasets/streaming-finalsplit/Head of State/Head of State.emotion.json,8425
 datasets/streaming-finalsplit/Head of State/Head of State.mp4,15629719
 datasets/streaming-finalsplit/Head of State/segment001.mp4,684473
@@ -10415,7 +10415,7 @@ datasets/streaming-finalsplit/Head of State/segment041.mp4,280199
 datasets/streaming-finalsplit/Head of State/segment042.mp4,602391
 datasets/streaming-finalsplit/Head of State/segment043.mp4,454641
 datasets/streaming-finalsplit/Head of State/segment044.mp4,210351
-datasets/streaming-finalsplit/Head of State/这一段视频对应的句子时间戳标注.json,6998
+datasets/streaming-finalsplit/Head of State/sentence_level_timestamps.json,6998
 datasets/streaming-finalsplit/Heat/Heat.emotion.json,3550
 datasets/streaming-finalsplit/Heat/Heat.mp4,2708278
 datasets/streaming-finalsplit/Heat/segment001.mp4,126467
@@ -10429,7 +10429,7 @@ datasets/streaming-finalsplit/Heat/segment008.mp4,98535
 datasets/streaming-finalsplit/Heat/segment009.mp4,305644
 datasets/streaming-finalsplit/Heat/segment010.mp4,169217
 datasets/streaming-finalsplit/Heat/segment011.mp4,146963
-datasets/streaming-finalsplit/Heat/这一段视频对应的句子时间戳标注.json,2068
+datasets/streaming-finalsplit/Heat/sentence_level_timestamps.json,2068
 datasets/streaming-finalsplit/Hidden Figures/Hidden Figures.emotion.json,6104
 datasets/streaming-finalsplit/Hidden Figures/Hidden Figures.mp4,9311023
 datasets/streaming-finalsplit/Hidden Figures/segment001.mp4,229141
@@ -10461,7 +10461,7 @@ datasets/streaming-finalsplit/Hidden Figures/segment026.mp4,185818
 datasets/streaming-finalsplit/Hidden Figures/segment027.mp4,590710
 datasets/streaming-finalsplit/Hidden Figures/segment028.mp4,269664
 datasets/streaming-finalsplit/Hidden Figures/segment029.mp4,351554
-datasets/streaming-finalsplit/Hidden Figures/这一段视频对应的句子时间戳标注.json,4798
+datasets/streaming-finalsplit/Hidden Figures/sentence_level_timestamps.json,4798
 datasets/streaming-finalsplit/House of Cards/House of Cards.emotion.json,8268
 datasets/streaming-finalsplit/House of Cards/House of Cards.mp4,19718160
 datasets/streaming-finalsplit/House of Cards/segment001.mp4,563379
@@ -10522,7 +10522,7 @@ datasets/streaming-finalsplit/House of Cards/segment055.mp4,119370
 datasets/streaming-finalsplit/House of Cards/segment056.mp4,195776
 datasets/streaming-finalsplit/House of Cards/segment057.mp4,159099
 datasets/streaming-finalsplit/House of Cards/segment058.mp4,192922
-datasets/streaming-finalsplit/House of Cards/这一段视频对应的句子时间戳标注.json,9259
+datasets/streaming-finalsplit/House of Cards/sentence_level_timestamps.json,9259
 datasets/streaming-finalsplit/I Am Sam/I Am Sam.emotion.json,7600
 datasets/streaming-finalsplit/I Am Sam/I Am Sam.mp4,12691074
 datasets/streaming-finalsplit/I Am Sam/segment001.mp4,1597065
@@ -10545,7 +10545,7 @@ datasets/streaming-finalsplit/I Am Sam/segment017.mp4,512414
 datasets/streaming-finalsplit/I Am Sam/segment018.mp4,332615
 datasets/streaming-finalsplit/I Am Sam/segment019.mp4,725050
 datasets/streaming-finalsplit/I Am Sam/segment020.mp4,193723
-datasets/streaming-finalsplit/I Am Sam/这一段视频对应的句子时间戳标注.json,3387
+datasets/streaming-finalsplit/I Am Sam/sentence_level_timestamps.json,3387
 datasets/streaming-finalsplit/Independence Day/Independence Day.emotion.json,7341
 datasets/streaming-finalsplit/Independence Day/Independence Day.mp4,8543312
 datasets/streaming-finalsplit/Independence Day/segment001.mp4,580838
@@ -10565,7 +10565,7 @@ datasets/streaming-finalsplit/Independence Day/segment014.mp4,453228
 datasets/streaming-finalsplit/Independence Day/segment015.mp4,257930
 datasets/streaming-finalsplit/Independence Day/segment016.mp4,179259
 datasets/streaming-finalsplit/Independence Day/segment017.mp4,472930
-datasets/streaming-finalsplit/Independence Day/这一段视频对应的句子时间戳标注.json,3102
+datasets/streaming-finalsplit/Independence Day/sentence_level_timestamps.json,3102
 datasets/streaming-finalsplit/Lincoln/Lincoln.emotion.json,7018
 datasets/streaming-finalsplit/Lincoln/Lincoln.mp4,6583075
 datasets/streaming-finalsplit/Lincoln/segment001.mp4,648196
@@ -10585,7 +10585,7 @@ datasets/streaming-finalsplit/Lincoln/segment014.mp4,667659
 datasets/streaming-finalsplit/Lincoln/segment015.mp4,660262
 datasets/streaming-finalsplit/Lincoln/segment016.mp4,266713
 datasets/streaming-finalsplit/Lincoln/segment017.mp4,155354
-datasets/streaming-finalsplit/Lincoln/这一段视频对应的句子时间戳标注.json,3182
+datasets/streaming-finalsplit/Lincoln/sentence_level_timestamps.json,3182
 datasets/streaming-finalsplit/Macbeth/Macbeth.emotion.json,5740
 datasets/streaming-finalsplit/Macbeth/Macbeth.mp4,5228196
 datasets/streaming-finalsplit/Macbeth/segment001.mp4,1624264
@@ -10597,7 +10597,7 @@ datasets/streaming-finalsplit/Macbeth/segment006.mp4,348230
 datasets/streaming-finalsplit/Macbeth/segment007.mp4,145598
 datasets/streaming-finalsplit/Macbeth/segment008.mp4,637671
 datasets/streaming-finalsplit/Macbeth/segment009.mp4,79586
-datasets/streaming-finalsplit/Macbeth/这一段视频对应的句子时间戳标注.json,1802
+datasets/streaming-finalsplit/Macbeth/sentence_level_timestamps.json,1802
 datasets/streaming-finalsplit/Malcolm X/Malcolm X.emotion.json,9992
 datasets/streaming-finalsplit/Malcolm X/Malcolm X.mp4,20531483
 datasets/streaming-finalsplit/Malcolm X/Malcolm X.original.mp4,30946326
@@ -10641,7 +10641,7 @@ datasets/streaming-finalsplit/Malcolm X/segment037.mp4,466381
 datasets/streaming-finalsplit/Malcolm X/segment038.mp4,140488
 datasets/streaming-finalsplit/Malcolm X/segment039.mp4,237819
 datasets/streaming-finalsplit/Malcolm X/segment040.mp4,207380
-datasets/streaming-finalsplit/Malcolm X/这一段视频对应的句子时间戳标注.json,6898
+datasets/streaming-finalsplit/Malcolm X/sentence_level_timestamps.json,6898
 datasets/streaming-finalsplit/Mona Lisa Smile/Mona Lisa Smile.emotion.json,8339
 datasets/streaming-finalsplit/Mona Lisa Smile/Mona Lisa Smile.mp4,8730284
 datasets/streaming-finalsplit/Mona Lisa Smile/segment001.mp4,146296
@@ -10680,7 +10680,7 @@ datasets/streaming-finalsplit/Mona Lisa Smile/segment033.mp4,201744
 datasets/streaming-finalsplit/Mona Lisa Smile/segment034.mp4,111081
 datasets/streaming-finalsplit/Mona Lisa Smile/segment035.mp4,129392
 datasets/streaming-finalsplit/Mona Lisa Smile/segment036.mp4,97426
-datasets/streaming-finalsplit/Mona Lisa Smile/这一段视频对应的句子时间戳标注.json,5447
+datasets/streaming-finalsplit/Mona Lisa Smile/sentence_level_timestamps.json,5447
 datasets/streaming-finalsplit/Patch Adams/Patch Adams.emotion.json,11043
 datasets/streaming-finalsplit/Patch Adams/Patch Adams.mp4,20672166
 datasets/streaming-finalsplit/Patch Adams/Patch Adams.original.mp4,22302715
@@ -10741,7 +10741,7 @@ datasets/streaming-finalsplit/Patch Adams/segment054.mp4,162063
 datasets/streaming-finalsplit/Patch Adams/segment055.mp4,126220
 datasets/streaming-finalsplit/Patch Adams/segment056.mp4,312405
 datasets/streaming-finalsplit/Patch Adams/segment057.mp4,216539
-datasets/streaming-finalsplit/Patch Adams/这一段视频对应的句子时间戳标注.json,11068
+datasets/streaming-finalsplit/Patch Adams/sentence_level_timestamps.json,11068
 datasets/streaming-finalsplit/Richard III/Richard III.emotion.json,6390
 datasets/streaming-finalsplit/Richard III/Richard III.mp4,4402323
 datasets/streaming-finalsplit/Richard III/segment001.mp4,305128
@@ -10762,7 +10762,7 @@ datasets/streaming-finalsplit/Richard III/segment015.mp4,149869
 datasets/streaming-finalsplit/Richard III/segment016.mp4,172306
 datasets/streaming-finalsplit/Richard III/segment017.mp4,156558
 datasets/streaming-finalsplit/Richard III/segment018.mp4,233905
-datasets/streaming-finalsplit/Richard III/这一段视频对应的句子时间戳标注.json,3279
+datasets/streaming-finalsplit/Richard III/sentence_level_timestamps.json,3279
 datasets/streaming-finalsplit/Rocky Balboa/Rocky Balboa.emotion.json,9003
 datasets/streaming-finalsplit/Rocky Balboa/Rocky Balboa.mp4,17540903
 datasets/streaming-finalsplit/Rocky Balboa/segment001.mp4,140679
@@ -10801,7 +10801,7 @@ datasets/streaming-finalsplit/Rocky Balboa/segment033.mp4,257053
 datasets/streaming-finalsplit/Rocky Balboa/segment034.mp4,252192
 datasets/streaming-finalsplit/Rocky Balboa/segment035.mp4,674605
 datasets/streaming-finalsplit/Rocky Balboa/segment036.mp4,308888
-datasets/streaming-finalsplit/Rocky Balboa/这一段视频对应的句子时间戳标注.json,6467
+datasets/streaming-finalsplit/Rocky Balboa/sentence_level_timestamps.json,6467
 datasets/streaming-finalsplit/Rudy/Rudy.emotion.json,8132
 datasets/streaming-finalsplit/Rudy/Rudy.mp4,9016296
 datasets/streaming-finalsplit/Rudy/segment001.mp4,843306
@@ -10825,7 +10825,7 @@ datasets/streaming-finalsplit/Rudy/segment018.mp4,375527
 datasets/streaming-finalsplit/Rudy/segment019.mp4,413204
 datasets/streaming-finalsplit/Rudy/segment020.mp4,465034
 datasets/streaming-finalsplit/Rudy/segment021.mp4,391540
-datasets/streaming-finalsplit/Rudy/这一段视频对应的句子时间戳标注.json,3924
+datasets/streaming-finalsplit/Rudy/sentence_level_timestamps.json,3924
 datasets/streaming-finalsplit/Spider-Man 2/Spider-Man 2.emotion.json,9353
 datasets/streaming-finalsplit/Spider-Man 2/Spider-Man 2.mp4,11140198
 datasets/streaming-finalsplit/Spider-Man 2/segment001.mp4,209441
@@ -10849,7 +10849,7 @@ datasets/streaming-finalsplit/Spider-Man 2/segment018.mp4,372082
 datasets/streaming-finalsplit/Spider-Man 2/segment019.mp4,305218
 datasets/streaming-finalsplit/Spider-Man 2/segment020.mp4,151835
 datasets/streaming-finalsplit/Spider-Man 2/segment021.mp4,720261
-datasets/streaming-finalsplit/Spider-Man 2/这一段视频对应的句子时间戳标注.json,3669
+datasets/streaming-finalsplit/Spider-Man 2/sentence_level_timestamps.json,3669
 datasets/streaming-finalsplit/Steve Jobs/Steve Jobs.emotion.json,6560
 datasets/streaming-finalsplit/Steve Jobs/Steve Jobs.mp4,5946858
 datasets/streaming-finalsplit/Steve Jobs/segment001.mp4,259836
@@ -10866,7 +10866,7 @@ datasets/streaming-finalsplit/Steve Jobs/segment011.mp4,206269
 datasets/streaming-finalsplit/Steve Jobs/segment012.mp4,109893
 datasets/streaming-finalsplit/Steve Jobs/segment013.mp4,150401
 datasets/streaming-finalsplit/Steve Jobs/segment014.mp4,863215
-datasets/streaming-finalsplit/Steve Jobs/这一段视频对应的句子时间戳标注.json,2680
+datasets/streaming-finalsplit/Steve Jobs/sentence_level_timestamps.json,2680
 datasets/streaming-finalsplit/The American President/The American President.emotion.json,9352
 datasets/streaming-finalsplit/The American President/The American President.mp4,18802469
 datasets/streaming-finalsplit/The American President/segment001.mp4,716394
@@ -10916,7 +10916,7 @@ datasets/streaming-finalsplit/The American President/segment044.mp4,337323
 datasets/streaming-finalsplit/The American President/segment045.mp4,400811
 datasets/streaming-finalsplit/The American President/segment046.mp4,490982
 datasets/streaming-finalsplit/The American President/segment047.mp4,650846
-datasets/streaming-finalsplit/The American President/这一段视频对应的句子时间戳标注.json,8165
+datasets/streaming-finalsplit/The American President/sentence_level_timestamps.json,8165
 datasets/streaming-finalsplit/The Devil's Advocate/The Devil's Advocate.emotion.json,7975
 datasets/streaming-finalsplit/The Devil's Advocate/The Devil's Advocate.mp4,9346332
 datasets/streaming-finalsplit/The Devil's Advocate/segment001.mp4,318812
@@ -10952,7 +10952,10 @@ datasets/streaming-finalsplit/The Devil's Advocate/segment030.mp4,891873
 datasets/streaming-finalsplit/The Devil's Advocate/segment031.mp4,132329
 datasets/streaming-finalsplit/The Devil's Advocate/segment032.mp4,135439
 datasets/streaming-finalsplit/The Devil's Advocate/segment033.mp4,49863
-datasets/streaming-finalsplit/The Devil's Advocate/这一段视频对应的句子时间戳标注.json,5526
+datasets/streaming-finalsplit/The Devil's Advocate/sentence_level_timestamps.json,5526
+datasets/streaming-finalsplit/The Equation of Love and Death/The Equation of Love and Death.emotion.json,7362
+datasets/streaming-finalsplit/The Equation of Love and Death/The Equation of Love and Death.mp4,20517569
+datasets/streaming-finalsplit/The Equation of Love and Death/The Equation of Love and Death.original.mp4,23475680
 datasets/streaming-finalsplit/The Equation of Love and Death/segment001.mp4,1419758
 datasets/streaming-finalsplit/The Equation of Love and Death/segment002.mp4,387773
 datasets/streaming-finalsplit/The Equation of Love and Death/segment003.mp4,462497
@@ -10975,10 +10978,7 @@ datasets/streaming-finalsplit/The Equation of Love and Death/segment019.mp4,2457
 datasets/streaming-finalsplit/The Equation of Love and Death/segment020.mp4,381183
 datasets/streaming-finalsplit/The Equation of Love and Death/segment021.mp4,282186
 datasets/streaming-finalsplit/The Equation of Love and Death/segment022.mp4,1013411
-datasets/streaming-finalsplit/The Equation of Love and Death/李米的猜想.emotion.json,7362
-datasets/streaming-finalsplit/The Equation of Love and Death/李米的猜想.mp4,20517569
-datasets/streaming-finalsplit/The Equation of Love and Death/李米的猜想.original.mp4,23475680
-datasets/streaming-finalsplit/The Equation of Love and Death/这一段视频对应的句子时间戳标注.json,3564
+datasets/streaming-finalsplit/The Equation of Love and Death/sentence_level_timestamps.json,3564
 datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/The Fresh Prince of Bel-Air.emotion.json,9066
 datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/The Fresh Prince of Bel-Air.mp4,16365777
 datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/segment001.mp4,135968
@@ -11016,7 +11016,7 @@ datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/segment032.mp4,412226
 datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/segment033.mp4,297844
 datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/segment034.mp4,756119
 datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/segment035.mp4,320804
-datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/这一段视频对应的句子时间戳标注.json,6209
+datasets/streaming-finalsplit/The Fresh Prince of Bel-Air/sentence_level_timestamps.json,6209
 datasets/streaming-finalsplit/The Great Dictator/The Great Dictator.emotion.json,10010
 datasets/streaming-finalsplit/The Great Dictator/The Great Dictator.mp4,15141149
 datasets/streaming-finalsplit/The Great Dictator/segment001.mp4,303874
@@ -11073,7 +11073,7 @@ datasets/streaming-finalsplit/The Great Dictator/segment051.mp4,340573
 datasets/streaming-finalsplit/The Great Dictator/segment052.mp4,229842
 datasets/streaming-finalsplit/The Great Dictator/segment053.mp4,337870
 datasets/streaming-finalsplit/The Great Dictator/segment054.mp4,398523
-datasets/streaming-finalsplit/The Great Dictator/这一段视频对应的句子时间戳标注.json,9952
+datasets/streaming-finalsplit/The Great Dictator/sentence_level_timestamps.json,9952
 datasets/streaming-finalsplit/The Imitation Game/The Imitation Game.emotion.json,3870
 datasets/streaming-finalsplit/The Imitation Game/The Imitation Game.mp4,1492013
 datasets/streaming-finalsplit/The Imitation Game/segment001.mp4,294403
@@ -11081,7 +11081,7 @@ datasets/streaming-finalsplit/The Imitation Game/segment002.mp4,317000
 datasets/streaming-finalsplit/The Imitation Game/segment003.mp4,290931
 datasets/streaming-finalsplit/The Imitation Game/segment004.mp4,111237
 datasets/streaming-finalsplit/The Imitation Game/segment005.mp4,337830
-datasets/streaming-finalsplit/The Imitation Game/这一段视频对应的句子时间戳标注.json,1227
+datasets/streaming-finalsplit/The Imitation Game/sentence_level_timestamps.json,1227
 datasets/streaming-finalsplit/The Legend of 1900/The Legend of 1900.emotion.json,8789
 datasets/streaming-finalsplit/The Legend of 1900/The Legend of 1900.mp4,10973743
 datasets/streaming-finalsplit/The Legend of 1900/segment001.mp4,161576
@@ -11137,7 +11137,7 @@ datasets/streaming-finalsplit/The Legend of 1900/segment050.mp4,106559
 datasets/streaming-finalsplit/The Legend of 1900/segment051.mp4,175639
 datasets/streaming-finalsplit/The Legend of 1900/segment052.mp4,196559
 datasets/streaming-finalsplit/The Legend of 1900/segment053.mp4,151530
-datasets/streaming-finalsplit/The Legend of 1900/这一段视频对应的句子时间戳标注.json,8238
+datasets/streaming-finalsplit/The Legend of 1900/sentence_level_timestamps.json,8238
 datasets/streaming-finalsplit/The Merchant of Venice/The Merchant of Venice.emotion.json,7687
 datasets/streaming-finalsplit/The Merchant of Venice/The Merchant of Venice.mp4,18331072
 datasets/streaming-finalsplit/The Merchant of Venice/segment001.mp4,282836
@@ -11190,7 +11190,7 @@ datasets/streaming-finalsplit/The Merchant of Venice/segment047.mp4,147468
 datasets/streaming-finalsplit/The Merchant of Venice/segment048.mp4,207965
 datasets/streaming-finalsplit/The Merchant of Venice/segment049.mp4,242494
 datasets/streaming-finalsplit/The Merchant of Venice/segment050.mp4,478464
-datasets/streaming-finalsplit/The Merchant of Venice/这一段视频对应的句子时间戳标注.json,7571
+datasets/streaming-finalsplit/The Merchant of Venice/sentence_level_timestamps.json,7571
 datasets/streaming-finalsplit/The Newsroom/The Newsroom.emotion.json,8181
 datasets/streaming-finalsplit/The Newsroom/The Newsroom.mp4,20646950
 datasets/streaming-finalsplit/The Newsroom/The Newsroom.original.mp4,23846938
@@ -11252,7 +11252,7 @@ datasets/streaming-finalsplit/The Newsroom/segment055.mp4,162500
 datasets/streaming-finalsplit/The Newsroom/segment056.mp4,519506
 datasets/streaming-finalsplit/The Newsroom/segment057.mp4,223697
 datasets/streaming-finalsplit/The Newsroom/segment058.mp4,315144
-datasets/streaming-finalsplit/The Newsroom/这一段视频对应的句子时间戳标注.json,10333
+datasets/streaming-finalsplit/The Newsroom/sentence_level_timestamps.json,10333
 datasets/streaming-finalsplit/The Normal Heart/The Normal Heart.emotion.json,7391
 datasets/streaming-finalsplit/The Normal Heart/The Normal Heart.mp4,9110459
 datasets/streaming-finalsplit/The Normal Heart/segment001.mp4,618085
@@ -11279,7 +11279,7 @@ datasets/streaming-finalsplit/The Normal Heart/segment021.mp4,261569
 datasets/streaming-finalsplit/The Normal Heart/segment022.mp4,147860
 datasets/streaming-finalsplit/The Normal Heart/segment023.mp4,94708
 datasets/streaming-finalsplit/The Normal Heart/segment024.mp4,333506
-datasets/streaming-finalsplit/The Normal Heart/这一段视频对应的句子时间戳标注.json,4410
+datasets/streaming-finalsplit/The Normal Heart/sentence_level_timestamps.json,4410
 datasets/streaming-finalsplit/The Shawshank Redemption/The Shawshank Redemption.emotion.json,7265
 datasets/streaming-finalsplit/The Shawshank Redemption/The Shawshank Redemption.mp4,6337053
 datasets/streaming-finalsplit/The Shawshank Redemption/segment001.mp4,72796
@@ -11308,7 +11308,9 @@ datasets/streaming-finalsplit/The Shawshank Redemption/segment023.mp4,64848
 datasets/streaming-finalsplit/The Shawshank Redemption/segment024.mp4,106443
 datasets/streaming-finalsplit/The Shawshank Redemption/segment025.mp4,310859
 datasets/streaming-finalsplit/The Shawshank Redemption/segment026.mp4,260345
-datasets/streaming-finalsplit/The Shawshank Redemption/这一段视频对应的句子时间戳标注.json,4562
+datasets/streaming-finalsplit/The Shawshank Redemption/sentence_level_timestamps.json,4562
+datasets/streaming-finalsplit/The Truman Show/The Truman Show.emotion.json,7144
+datasets/streaming-finalsplit/The Truman Show/The Truman Show.mp4,5807546
 datasets/streaming-finalsplit/The Truman Show/segment001.mp4,342144
 datasets/streaming-finalsplit/The Truman Show/segment002.mp4,369058
 datasets/streaming-finalsplit/The Truman Show/segment003.mp4,343651
@@ -11332,9 +11334,10 @@ datasets/streaming-finalsplit/The Truman Show/segment020.mp4,243098
 datasets/streaming-finalsplit/The Truman Show/segment021.mp4,163960
 datasets/streaming-finalsplit/The Truman Show/segment022.mp4,262859
 datasets/streaming-finalsplit/The Truman Show/segment023.mp4,75472
-datasets/streaming-finalsplit/The Truman Show/楚门的世界.emotion.json,7144
-datasets/streaming-finalsplit/The Truman Show/楚门的世界.mp4,5807546
-datasets/streaming-finalsplit/The Truman Show/这一段视频对应的句子时间戳标注.json,4376
+datasets/streaming-finalsplit/The Truman Show/sentence_level_timestamps.json,4376
+datasets/streaming-finalsplit/Wait and See/Wait and See.emotion.json,14463
+datasets/streaming-finalsplit/Wait and See/Wait and See.mp4,20791194
+datasets/streaming-finalsplit/Wait and See/Wait and See.original.mp4,26554464
 datasets/streaming-finalsplit/Wait and See/segment001.mp4,80932
 datasets/streaming-finalsplit/Wait and See/segment002.mp4,108691
 datasets/streaming-finalsplit/Wait and See/segment003.mp4,198285
@@ -11424,10 +11427,5 @@ datasets/streaming-finalsplit/Wait and See/segment086.mp4,65046
 datasets/streaming-finalsplit/Wait and See/segment087.mp4,171936
 datasets/streaming-finalsplit/Wait and See/segment088.mp4,151489
 datasets/streaming-finalsplit/Wait and See/segment089.mp4,212157
-datasets/streaming-finalsplit/Wait and See/走着瞧.emotion.json,14463
-datasets/streaming-finalsplit/Wait and See/走着瞧.mp4,20791194
-datasets/streaming-finalsplit/Wait and See/走着瞧.original.mp4,26554464
-datasets/streaming-finalsplit/Wait and See/这一段视频对应的句子时间戳标注.json,13671
-datasets/streaming-finalsplit/中文_带句子.json,59144
-datasets/streaming-finalsplit/英文_带句子.json,254442
+datasets/streaming-finalsplit/Wait and See/sentence_level_timestamps.json,13671
 paper/Association_for_Computational_Linguistics__ACL__conference-3.pdf,3542923
