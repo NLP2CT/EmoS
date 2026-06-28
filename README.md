@@ -1,9 +1,11 @@
-![Uploading 截屏2026-06-28 下午1.44.50.png…]()
 # EmoS: A High-Fidelity Multimodal Benchmark for Fine-grained Streaming Emotional Understanding
 
 This repository is the open-source release package for the EmoS benchmark.
 
 EmoS is a bilingual multimodal benchmark built for fine-grained emotion understanding in both static clips and streaming monologues. This release focuses on data organization, annotation artifacts, and release-ready files for reproducible academic use.
+
+<img width="1026" height="483" alt="截屏2026-06-28 下午1 46 05" src="https://github.com/user-attachments/assets/0e5a2f45-6559-411e-9ad5-f3fd70a94d57" />
+
 
 ## Abstract
 
