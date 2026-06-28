@@ -1,3 +1,4 @@
+![Uploading 截屏2026-06-28 下午1.44.50.png…]()
 # EmoS: A High-Fidelity Multimodal Benchmark for Fine-grained Streaming Emotional Understanding
 
 This repository is the open-source release package for the EmoS benchmark.
